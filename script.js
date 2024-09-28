@@ -104,8 +104,8 @@ jQuery(document).ready(function($) {
         this.modalHeader.find('.event-date').text(event.find('.event-date').text());
         this.modal.attr('data-event', event.parent().attr('data-event'));
 
-        this.modalBody.find('.event-info').load(event.parent().attr('data-content') + '.html .event-info > *', function(data) {
-            self.element.addClass('content-loaded');
+        this.modalBody.find('.event-info').load(event.parent().attr('data-content') , function(data) {
+            $(this).html($(this).html() + '<div>Your HTML content here</div>');
         });
 
         this.element.addClass('modal-is-open');
