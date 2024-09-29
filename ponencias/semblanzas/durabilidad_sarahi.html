@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <style>
+        /* Styling the body */
+        body {
+            margin: 0;
+            padding: 0;
+        }
+ 
+        /* Styling section, giving background
+            image and dimensions */
+        section {
+            width: 100%;
+            height: 100vh;
+            background:
+                url('luis.jpg');
+            background-size: cover;
+        }
+ 
+        /* Styling the left floating section */
+        section .leftBox {
+            width: 50%;
+            height: 100%;
+            float: left;
+            padding: 50px;
+            box-sizing: border-box;
+        }
+ 
+        /* Styling the background of 
+            left floating section */
+        section .leftBox .content {
+            color: #fff;
+            background: rgba(0, 0, 0, 0.5);
+            padding: 40px;
+            transition: .5s;
+        }
+ 
+        /* Styling the hover effect  
+            of left floating section */
+        section .leftBox .content:hover {
+            background: #e91e63;
+        }
+ 
+        /* Styling the header of left 
+            floating section */
+        section .leftBox .content h1 {
+            margin: 0;
+            padding: 0;
+            font-size: 50px;
+            text-transform: uppercase;
+        }
+ 
+        /* Styling the paragraph of 
+            left floating section */
+        section .leftBox .content p {
+            margin: 10px 0 0;
+            padding: 0;
+        }
+ 
+        /* Styling the three events section */
+        section .events {
+            position: relative;
+            width: 50%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            float: right;
+            box-sizing: border-box;
+        }
+ 
+        /* Styling the links of 
+        the events section */
+        section .events ul {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            margin: 0;
+            padding: 40px;
+            box-sizing: border-box;
+        }
+ 
+        /* Styling the lists of the event section */
+        section .events ul li {
+            list-style: none;
+            background: #fff;
+            box-sizing: border-box;
+            height: 200px;
+            margin: 15px 0;
+        }
+ 
+        /* Styling the time class of events section */
+        section .events ul li .time {
+            position: relative;
+            padding: 20px;
+            background: #262626;
+            box-sizing: border-box;
+            width: 30%;
+            height: 100%;
+            float: left;
+            text-align: center;
+            transition: .5s;
+        }
+ 
+        /* Styling the hover effect
+            of events section */
+        section .events ul li:hover .time {
+            background: #e91e63;
+        }
+ 
+        /* Styling the header of time 
+            class of events section */
+        section .events ul li .time h2 {
+            position: absolute;
+            margin: 0;
+            padding: 0;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #fff;
+            font-size: 60px;
+            line-height: 30px;
+        }
+ 
+        /* Styling the texts of time 
+        class of events section */
+        section .events ul li .time h2 span {
+            font-size: 30px;
+        }
+ 
+        /* Styling the details 
+        class of events section */
+        section .events ul li .details {
+            padding: 20px;
+            background: #fff;
+            box-sizing: border-box;
+            width: 70%;
+            height: 100%;
+            float: left;
+        }
+ 
+        /* Styling the header of the 
+        details class of events section */
+        section .events ul li .details h3 {
+            position: relative;
+            margin: 0;
+            padding: 0;
+            font-size: 22px;
+        }
+ 
+        /* Styling the lists of details 
+        class of events section */
+        section .events ul li .details p {
+            position: relative;
+            margin: 10px 0 0;
+            padding: 0;
+            font-size: 16px;
+        }
+ 
+        /* Styling the links of details
+        class of events section */
+        section .events ul li .details a {
+            display: inline-block;
+            text-decoration: none;
+            padding: 10px 15px;
+            border: 1.5px solid #262626;
+            margin-top: 8px;
+            font-size: 18px;
+            transition: .5s;
+        }
+ 
+        /* Styling the details class's hover effect */
+        section .events ul li .details a:hover {
+            background: #e91e63;
+            color: #fff;
+            border-color: #e91e63;
+        }
+    </style>
+</head>
+ 
+<body>
+    <section>
+        <div class="leftBox">
+            <div class="content">
+                <h1>
+                    Luis Guillermo Uribe Taboada
+                </h1>
+                <p>
+                    "Originaria de Ciudad de México, es Ingeniera Mecánica, graduada en 2021 de la Facultad de Ingeniería de la UNAM. Se tituló con la tesis: ""Diseño de un producto para el ahorro de agua en el cuarto de baño"".
+Cuenta con experiencia en análisis de elemento finito (Nastran, Abaqus y Ansys) y en procesos de lanzamientos de nuevos diseños, mediante el uso de herramientas de CAD (PTC CREO).
+En el último semestre de la carrera entró como practicante de Diseño Mecánico a Chamberlain Group en Nogales, Sonora, con visitas frecuentes a Chicago y en 2021 fue contratada como Ingeniera en Diseño dentro del área de ""Drivetrain"". Estuvo a cargo del proceso de diseño de “housings” para transmisiones, desarrollando el diseño en CAD, análisis de elemento finito, coordinación de pruebas y prototipos y era el punto de contacto entre el proveedor, el centro de diseño y la planta de producción. Desarrolló ideas de optimización de costos enfocados en el diseño, dentro del área de “powertrain”, además de dar soporte a la línea de producción.
+En 2022, ingresó a la empresa alemana ZF en Monterrey como diseñadora de diferenciales de automóviles. Estuvo a cargo del diseño exterior de los mismos y desarrollo de dibujos.
+Actualmente labora en Ford como ingeniera en CAE, dentro del equipo de Climate. Su actividad principal es realizar análisis de durabilidad para líneas de aire acondicionado. Para esto, integra análisis modales, de respuesta en frecuencia y ciclajes para fatiga. Se encarga del pre-procesamiento, procesamiento y post-procesamiento de los ensambles a analizar. Durante su trayectoria profesional ha tomado diversos cursos, tales como “Introduction to Polymer Engineering"", ""Moldflow: use of equipment"", ""Introduction to Metallurgy"", ""Fasteners"", ""nCode DesignLife: Fatigue Analysis using FEA Results""."
+
+
+                </p>
+            </div>
+        </div>
+        <div class="events">
+            <ul>
+                <li>
+                    <div class="time">
+                        <h2>
+                            09 <br><span>Octubre</span>
+                        </h2>
+                    </div>
+                    <div class="details">
+                        <h3>
+                            Durabilidad en CAE
+                        </h3>
+                        <p>
+                            "Para determinar si el sistema de aire acondicionado cumple con los estándares de Ford, es necesario realizar diversos análisis por computadora y luego correlacionarlos con las pruebas físicas. En el área de CAE (Computer Aided Engineering), la herramienta principal es el Análisis de Elemento finito, que permite entender fenómenos, incluso antes de contar con el ensamble físico.  En el área de Climate, uno de los análisis virtuales que se realizan, calcula la durabilidad de las piezas, incluyendo los valores de daño y de vida que tendrá cada una, frente a valores de entrada de vibración. Para lograr esto, se requieren estudios previos, tales como análisis modales, respuesta en frecuencia (FRF) y la respuesta a fatiga que las piezas tendrán.
+                            Dentro del área se siguen determinadas metodologías para mantener y asegurar que los automóviles provean una vida útil adecuada.
+                            "
+                        </p>
+                        <p><a href="https://pgalvez9.github.io/SemanaFord/">Calendario Semana Ford</a></p>
+                    </div>
+                    
+                    <div style="clear: both;"></div>
+                </li>
+                
+            </ul>
+        </div>
+    </section>
+</body>
+ 
+</html>

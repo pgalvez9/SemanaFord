@@ -9,10 +9,10 @@
 
 :root {
   // colors
-  @include defineColorHSL(--cd-color-event-1, 199, 25%, 46%);   // Smalt Blue
-  @include defineColorHSL(--cd-color-event-2, 271, 23%, 26%);   // Martinique
-  @include defineColorHSL(--cd-color-event-3, 162, 14%, 68%);   // Edward
-  @include defineColorHSL(--cd-color-event-4, 31, 89%, 68%);    // Rajah
+  //@include defineColorHSL(--cd-color-event-1, 100, 81%, 0%);   // Smalt Blue
+  //@include defineColorHSL(--cd-color-event-2, 271, 23%, 26%);   // Martinique
+  //@include defineColorHSL(--cd-color-event-3, 162, 14%, 68%);   // Edward
+  //@include defineColorHSL(--cd-color-event-4, 31, 89%, 68%);    // Rajah
   @include defineColorHSL(--cd-color-text, 0, 0%, 13%);         // Black
   @include defineColorHSL(--cd-color-border, 0, 0%, 92%);       // Grey
 
@@ -29,7 +29,7 @@ body {
 }
 
 a {
-	color: var(--cd-color-event-3);
+	color: rgba(#1700F4, .1);
 }
 
 .cd-schedule {
@@ -280,7 +280,7 @@ a {
 	font-size: var(--text-lg);
 
   @include breakpoint(md) {
-    font-size: calc(var(--text-sm)*1.2);
+    font-size: calc(var(--text-sm)*1.0);
   }
 }
 
@@ -298,22 +298,22 @@ a {
 .cd-schedule__event [data-event="event-1"],
 .cd-schedule-modal[data-event="event-1"] .cd-schedule-modal__header-bg {
 	// this is used to set a background color for the event and the modal window
-	background: var(--cd-color-event-1);
+	background: rgba(#1700F4, .1);
 }
 
 .cd-schedule__event [data-event="event-2"],
 .cd-schedule-modal[data-event="event-2"] .cd-schedule-modal__header-bg {
-	background: var(--cd-color-event-2);
+	background: rgba(#066FEF, .1);
 }
 
 .cd-schedule__event [data-event="event-3"],
 .cd-schedule-modal[data-event="event-3"] .cd-schedule-modal__header-bg {
-	background: var(--cd-color-event-3);
+	background: rgba(#00095B, .1);
 }
 
 .cd-schedule__event [data-event="event-4"],
 .cd-schedule-modal[data-event="event-4"] .cd-schedule-modal__header-bg {
-	background: var(--cd-color-event-4);
+	background: rgba(#f4dc00, .1);
 }
 
 .cd-schedule-modal {
@@ -389,7 +389,7 @@ a {
   line-height: var(--body-line-height);
   height: 100%;
   overflow: hidden;
-  font-size: calc(var(--text-sm) * 1.2);
+  font-size: calc(var(--text-sm) * 1.0);
 
   > div {
     overflow: auto;

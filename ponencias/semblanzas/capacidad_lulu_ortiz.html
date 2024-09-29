@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <style>
+        /* Styling the body */
+        body {
+            margin: 0;
+            padding: 0;
+        }
+ 
+        /* Styling section, giving background
+            image and dimensions */
+        section {
+            width: 100%;
+            height: 100vh;
+            background:
+                url('luis.jpg');
+            background-size: cover;
+        }
+ 
+        /* Styling the left floating section */
+        section .leftBox {
+            width: 50%;
+            height: 100%;
+            float: left;
+            padding: 50px;
+            box-sizing: border-box;
+        }
+ 
+        /* Styling the background of 
+            left floating section */
+        section .leftBox .content {
+            color: #fff;
+            background: rgba(0, 0, 0, 0.5);
+            padding: 40px;
+            transition: .5s;
+        }
+ 
+        /* Styling the hover effect  
+            of left floating section */
+        section .leftBox .content:hover {
+            background: #e91e63;
+        }
+ 
+        /* Styling the header of left 
+            floating section */
+        section .leftBox .content h1 {
+            margin: 0;
+            padding: 0;
+            font-size: 50px;
+            text-transform: uppercase;
+        }
+ 
+        /* Styling the paragraph of 
+            left floating section */
+        section .leftBox .content p {
+            margin: 10px 0 0;
+            padding: 0;
+        }
+ 
+        /* Styling the three events section */
+        section .events {
+            position: relative;
+            width: 50%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            float: right;
+            box-sizing: border-box;
+        }
+ 
+        /* Styling the links of 
+        the events section */
+        section .events ul {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            margin: 0;
+            padding: 40px;
+            box-sizing: border-box;
+        }
+ 
+        /* Styling the lists of the event section */
+        section .events ul li {
+            list-style: none;
+            background: #fff;
+            box-sizing: border-box;
+            height: 200px;
+            margin: 15px 0;
+        }
+ 
+        /* Styling the time class of events section */
+        section .events ul li .time {
+            position: relative;
+            padding: 20px;
+            background: #262626;
+            box-sizing: border-box;
+            width: 30%;
+            height: 100%;
+            float: left;
+            text-align: center;
+            transition: .5s;
+        }
+ 
+        /* Styling the hover effect
+            of events section */
+        section .events ul li:hover .time {
+            background: #e91e63;
+        }
+ 
+        /* Styling the header of time 
+            class of events section */
+        section .events ul li .time h2 {
+            position: absolute;
+            margin: 0;
+            padding: 0;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #fff;
+            font-size: 60px;
+            line-height: 30px;
+        }
+ 
+        /* Styling the texts of time 
+        class of events section */
+        section .events ul li .time h2 span {
+            font-size: 30px;
+        }
+ 
+        /* Styling the details 
+        class of events section */
+        section .events ul li .details {
+            padding: 20px;
+            background: #fff;
+            box-sizing: border-box;
+            width: 70%;
+            height: 100%;
+            float: left;
+        }
+ 
+        /* Styling the header of the 
+        details class of events section */
+        section .events ul li .details h3 {
+            position: relative;
+            margin: 0;
+            padding: 0;
+            font-size: 22px;
+        }
+ 
+        /* Styling the lists of details 
+        class of events section */
+        section .events ul li .details p {
+            position: relative;
+            margin: 10px 0 0;
+            padding: 0;
+            font-size: 16px;
+        }
+ 
+        /* Styling the links of details
+        class of events section */
+        section .events ul li .details a {
+            display: inline-block;
+            text-decoration: none;
+            padding: 10px 15px;
+            border: 1.5px solid #262626;
+            margin-top: 8px;
+            font-size: 18px;
+            transition: .5s;
+        }
+ 
+        /* Styling the details class's hover effect */
+        section .events ul li .details a:hover {
+            background: #e91e63;
+            color: #fff;
+            border-color: #e91e63;
+        }
+    </style>
+</head>
+ 
+<body>
+    <section>
+        <div class="leftBox">
+            <div class="content">
+                <h1>
+                    Lulu Ortiz
+                </h1>
+                <p>
+                    "Ford Empowering DiverseAbilities (FEDA) lead since October 2020
+
+Experiencia
+Ford Credit 8 años 4 meses
+-Pricing
+noviembre de 2023 - Present (9 meses)
+Ciudad de México, México
+
+-Marketing Intelligence
+enero de 2023 - octubre de 2023 (10 meses)
+Ciudad de México, México
+
+-Operating Cost Analyst
+agosto de 2022 - diciembre de 2022 (5 meses)
+Ciudad de México, México
+
+-Internal Control Coordinator
+agosto de 2019 - julio de 2022 (3 años)
+Ciudad de México, México
+
+-Financial Statements Analyst
+agosto de 2017 - julio de 2019 (2 años)
+Ciudad de México, México
+
+-Accounting Analyst
+abril de 2016 - julio de 2017 (1 año 4 meses)
+Ciudad de México, México
+-Alsea
+Account Analyst
+marzo de 2015 - marzo de 2016 (1 año 1 mes)
+Ciudad de México, México
+
+-EY
+Audit Staff Accountant
+agosto de 2014 - febrero de 2015 (7 meses)
+Ciudad de México, México
+
+
+Educación
+Instituto Politécnico Nacional
+Master of Science - MS, Administración de Negocios · (agosto de 2021 - juliode 2023)
+
+Universidad Iberoamericana, Ciudad de México
+Diplomado, Diseño y organización de eventos profesionales · (junio de2019 - diciembre de 2019)
+
+Instituto Politécnico Nacional
+Licenciatura, Contabilidad · (agosto de 2010 - julio de 2014)"
+
+
+                </p>
+            </div>
+        </div>
+        <div class="events">
+            <ul>
+                <li>
+                    <div class="time">
+                        <h2>
+                            08 <br><span>Octubre</span>
+                        </h2>
+                    </div>
+                    <div class="details">
+                        <h3>
+                            Di Capacidad No Discapacidad
+                        </h3>
+                        <p>
+                            "Ford es una empresa que busca la inclusión de personas con discapacidad, para ello ha implementado esfuerzos en sus diferentes plantas de producción y oficinas para la contratación, adaptación y entrenamientos necesarios para ello.
+                            Campañas sobre el Autismo, Lengua de Señas Mexicana y Día Internacional de las Personas con Discapacidad, así como voluntariados en asociaciones como APAC, han sido sólo un ejemplo del gran corazón, empatía e iniciativa que los empleados FORD demuestran día con día para hacer de la empresa, y sociedad, una más incluyente.
+                            Ellos ya son parte del cambio. ¡Ahora te toca a ti!"
+
+                        </p>
+                        <p><a href="https://pgalvez9.github.io/SemanaFord/">Calendario Semana Ford</a></p>
+                    </div>
+                    
+                    <div style="clear: both;"></div>
+                </li>
+                
+            </ul>
+        </div>
+    </section>
+</body>
+ 
+</html>
