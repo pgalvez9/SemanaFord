@@ -1,289 +1,133 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<script>document.getElementsByTagName("html")[0].className += " js";</script>
-    <link rel="stylesheet" href="assets/css/style.css">
-    <title>Semana Ford </title>
+    <title>Semana Ford UNAM - Calendario de Actividades</title>
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Opcional: Iconos (ej. Font Awesome para el botón de cerrar del modal) -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> -->
 </head>
 <body>
-	<header class="cd-main-header text-center flex flex-column flex-center">
-		<h1 class="text-xl">Semana Ford</h1>
-	</header>
 
-	
-<div class="cd-schedule cd-schedule--loading margin-top-lg margin-bottom-lg js-cd-schedule">
-	<div class="cd-schedule__timeline">
-		<ul>
-			<li><span>09:00</span></li>
-			<li><span>09:30</span></li>
-			<li><span>10:00</span></li>
-			<li><span>10:30</span></li>
-			<li><span>11:00</span></li>
-			<li><span>11:30</span></li>
-			<li><span>12:00</span></li>
-			<li><span>12:30</span></li>
-			<li><span>13:00</span></li>
-			<li><span>13:30</span></li>
-			<li><span>14:00</span></li>
-			<li><span>14:30</span></li>
-			<li><span>15:00</span></li>
-			<li><span>15:30</span></li>
-			<li><span>16:00</span></li>
-			<li><span>16:30</span></li>
-			<li><span>17:00</span></li>
-			<li><span>17:30</span></li>
-			<li><span>18:00</span></li>
-		</ul>
-	</div> <!-- .timeline -->
+    <header class="site-header">
+        <div class="container header-content">
+            <img src="img/logo-ford.png" alt="Logo Ford" class="logo ford-logo">
+            <h1>Semana Ford en la UNAM</h1>
+            <img src="img/logo-unam.png" alt="Logo UNAM" class="logo unam-logo">
+        </div>
+    </header>
 
-	<div class="cd-schedule__events">
-		<ul>
-			<li class="cd-schedule__group">
-				<div class="cd-schedule__top-info">Lunes 7</span></div>
-				<ul>
-					<li class="cd-schedule__event"> 
-						<a data-start="09:00" data-end="10:00" data-content="kickoff" data-event="event-1" href="#0">						
-							<em class="cd-schedule__name">Kick Off</em>
-						</a>
-					</li>
+    <main class="container calendar-section">
+        <h2>Calendario de Actividades 20 a 23 de Octubre 2025</h2>
+        <div class="calendar-grid">
+            <!-- Los días de la semana y sus actividades se generarán aquí con JS o se definirán estáticamente -->
+            <div class="day-column" id="monday">
+                <h3>Lunes</h3>
+                <div class="activity-card" data-activity-id="1">
+                    <h4>Inaguración/100 años de Ingeniería México</h4>
+                    <p class="time">09:00 - 10:00</p>
+                </div>
+                <div class="activity-card" data-activity-id="2">
+                    <h4>Ingenieras Mexicanas</h4>
+                    <p class="time">11:00 - 12:00</p>
+                </div>
+                <div class="activity-card" data-activity-id="60">
+                    <h4>Design Thinking Training Day1</h4>
+                    <p class="time">11:00 - 12:30</p>
+                </div>
+                <div class="activity-card" data-activity-id="3">
+                    <h4>Design Thinking</h4>
+                    <p class="time">12:00 - 12:30</p>
+                </div>
+                <div class="activity-card" data-activity-id="4">
+                    <h4>Vehicle Show Time</h4>
+                    <p class="time">12:30 - 13:30</p>
+                </div>
+                <div class="activity-card" data-activity-id="5">
+                    <h4>Elaboración de CV</h4>
+                    <p class="time">13:00 - 14:00</p>
+                </div>
+                <div class="activity-card" data-activity-id="6">
+                    <h4>Reto Hexadrive, Prueba de Vehiculos</h4>
+                    <p class="time">14:00 - 16:00</p>
+                </div>
+                
+                <!-- Más actividades para el lunes -->
+            </div>
+            <div class="day-column" id="tuesday">
+                <h3>Martes</h3>
+                <div class="activity-card" data-activity-id="7">
+                    <h4>¿Cómo se diseña un coche Ford?</h4>
+                    <p class="time">09:00 - 10:00</p>
+                </div>
+                <div class="activity-card" data-activity-id="8">
+                    <h4>SCRUM Workshop</h4>
+                    <p class="time">09:00 - 13:00</p>
+                </div>
+                <div class="activity-card" data-activity-id="9">
+                    <h4>¿Cómo trabajar en equipo?</h4>
+                    <p class="time">11:00 - 12:00</p>
+                </div>
+                <div class="activity-card" data-activity-id="10">
+                    <h4>Design Thinking Training Day2</h4>
+                    <p class="time">11:00 - 12:30</p>
+                </div>
+                <div class="activity-card" data-activity-id="11">
+                    <h4>Vehicle Show Time</h4>
+                    <p class="time">12:30 - 13:30</p>
+                </div>
+                <div class="activity-card" data-activity-id="12">
+                    <h4>Aplicaciones de AI</h4>
+                    <p class="time">13:00 - 14:00</p>
+                </div>
+                <div class="activity-card" data-activity-id="13">
+                    <h4>Ford y SAE/Baja</h4>
+                    <p class="time">13:00 - 14:00</p>
+                </div>
+                <div class="activity-card" data-activity-id="14">
+                    <h4>Digital Twins</h4>
+                    <p class="time">14:00 - 16:00</p>
+                </div>
+            </div>
+            <div class="day-column" id="wednesday">
+                <h3>Miércoles</h3>
+                <!-- Actividades aquí -->
+            </div>
+            <div class="day-column" id="thursday">
+                <h3>Jueves</h3>
+                <!-- Actividades aquí -->
+            </div>
+        </div>
+    </main>
 
-					<li class="cd-schedule__event"> <a data-start="10:00" data-end="11:00" data-content="./ponencias/diversity" data-event="event-3" href="#0">
-						
-							<em class="cd-schedule__name">Diversity Equity & Inclusion</em>
-						</a>
-					</li>
+    <!-- Modal para detalles de la actividad -->
+    <div id="activityModal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <div class="modal-body">
+                <div class="speaker-info">
+                    <h3>Ponente</h3>
+                    <img src="img/speaker-placeholder.jpg" alt="Foto del Ponente" class="speaker-photo">
+                    <h4 id="speakerName">Nombre del Ponente</h4>
+                    <p id="speakerBio">Breve reseña del ponente. Aquí puedes destacar su trayectoria y experiencia en Ford.</p>
+                </div>
+                <div class="activity-info">
+                    <h3>Actividad</h3>
+                    <img src="img/activity-placeholder.jpg" alt="Foto de la Actividad" class="activity-photo">
+                    <h4 id="activityTitleModal">Título de la Actividad</h4>
+                    <p id="activityDescription">Descripción detallada de la actividad. Qué se aprenderá, a quién va dirigida, etc.</p>
+                </div>
+            </div>
+        </div>
+    </div>
 
-					<li class="cd-schedule__event"> <a data-start="11:00" data-end="12:00" data-content="./ponencias/hil" data-event="event-2" href="#0">
-						
-							<em class="cd-schedule__name">HIL Testing Tools</em>
-						</a>
-					</li>
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2025 Semana Ford UNAM. Todos los derechos reservados.</p>
+        </div>
+    </footer>
 
-					<li class="cd-schedule__event"> <a data-start="13:00" data-end="14:00"  data-content="./ponencias/embedded" data-event="event-3" href="#0">
-						
-							<em class="cd-schedule__name">Embedded SW Development</em>
-						</a>
-					</li>
-
-					<li class="cd-schedule__event"> <a data-start="15:00" data-end="16:00"  data-content="./ponencias/inteligencia" data-event="event-1" href="#0">
-						
-							<em class="cd-schedule__name">Ingeligencia Artifical</em>
-						</a>
-					</li>
-
-					<li class="cd-schedule__event"> <a data-start="17:00" data-end="18:00"  data-content="./ponencias/logistica" data-event="event-2" href="#0">
-						
-							<em class="cd-schedule__name">Logística</em>
-						</a>
-					</li>
-				</ul>
-			</li>
-
-			<li class="cd-schedule__group">
-				<div class="cd-schedule__top-info">Martes 8</span></div>
-
-				<ul>
-					<li class="cd-schedule__event"> <a data-start="9:00" data-end="10:00"  data-content="HMI" data-event="event-2" href="#0">
-						
-							<em class="cd-schedule__name">HMI</em>
-						</a>
-					</li>
-
-					<li class="cd-schedule__event"> <a data-start="11:00" data-end="12:00"  data-content="./ponencias/colores" data-event="event-3" href="#0">
-						
-							<em class="cd-schedule__name">Tus colores en Ford</em>
-						</a>
-					</li>
-
-					<li class="cd-schedule__event"> <a data-start="12:00" data-end="13:00" data-content="Taller: Elaboración de CV" data-event="event-4" href="#0">
-						
-							<em class="cd-schedule__name">Taller: Elaboración de CV</em>
-						</a>
-					</li>
-
-					<li class="cd-schedule__event"> <a data-start="13:00" data-end="14:00"  data-content="./ponencias/pd" data-event="event-2" href="#0">
-						
-							<em class="cd-schedule__name">Automotive PD Overview</em>
-						</a>
-					</li>
-
-					<li class="cd-schedule__event"> <a data-start="15:00" data-end="16:00"  data-content="./ponencias/capacidad" data-event="event-3" href="#0">
-						
-							<em class="cd-schedule__name">Di capacidad, no discapacidad</em>
-						</a>
-					</li>
-
-					<li class="cd-schedule__event"> <a data-start="17:00" data-end="18:00"  data-content="./ponencias/instrumentacion" data-event="event-1" href="#0">
-						
-							<em class="cd-schedule__name">Instrumentación</em>
-						</a>
-					</li>
-				</ul>
-			</li>
-
-			<li class="cd-schedule__group">
-				<div class="cd-schedule__top-info">Miércoles 9</span></div>
-
-				<ul>
-					<li class="cd-schedule__event"> <a data-start="09:00" data-end="10:00" data-content="./ponencias/robotica" data-event="event-1" href="#0">
-						
-							<em class="cd-schedule__name">Robótica Industrial</em>
-						</a>
-					</li>
-
-					<li class="cd-schedule__event"> <a data-start="10:00" data-end="11:00" data-content="event-yoga-1" data-event="event-4" href="#0">
-						
-							<em class="cd-schedule__name">Taller: Entrevistas de Trabajo</em>
-						</a>
-					</li>
-
-					<li class="cd-schedule__event"> <a data-start="11:00" data-end="12:00"  data-content="./ponencias/dv" data-event="event-3" href="#0">
-						
-							<em class="cd-schedule__name">HIL DV SW Validation</em>
-						</a>
-					</li>
-
-					<li class="cd-schedule__event"> <a data-start="13:00" data-end="14:00" data-content="./ponencias/sw" data-event="event-1" href="#0">
-						
-							<em class="cd-schedule__name">Software Orientado a Systems Engineering</em>
-						</a>
-					</li>
-					<li class="cd-schedule__event"> <a data-start="15:00" data-end="16:00" data-content="./ponencias/durabilidad" data-event="event-2" href="#0">
-						
-							<em class="cd-schedule__name">Durabilidad en CAE</em>
-						</a>
-					</li>
-					<li class="cd-schedule__event"> <a data-start="17:00" data-end="18:00" data-content="./ponencias/cybersecurity" data-event="event-3" href="#0">
-						
-							<em class="cd-schedule__name">IT Cybersecurity/GDIA</em>
-						</a>
-					</li>
-				</ul>
-			</li>
-
-			<li class="cd-schedule__group">
-				<div class="cd-schedule__top-info">Jueves 10</span></div>
-
-				<ul>
-					<li class="cd-schedule__event"> 
-						<a data-start="09:00" data-end="10:00" data-content="./ponencias/suministro" data-event="event-2" href="#0">
-							<em class="cd-schedule__name">Cadena de Suministro</em>
-						</a>
-					</li>
-
-					<li class="cd-schedule__event"> 
-						<a data-start="10:00" data-end="11:00" data-content="./ponencias/calidad" data-event="event-3" href="#0">
-							<em class="cd-schedule__name">Calidad, análisis y mejoras de proceso</em>
-						</a>
-					</li>
-
-					<li class="cd-schedule__event"> 
-						<a data-start="11:00" data-end="12:00"  data-content="./ponencias/habilidades" data-event="event-4" href="#0">
-							<em class="cd-schedule__name">Habilidades que impulsarán tu carrera profesional</em>
-						</a>
-					</li>
-
-					<li class="cd-schedule__event"> <a data-start="12:00" data-end="13:00" data-content="./ponencias/calibracion" data-event="event-2" href="#0">
-						
-							<em class="cd-schedule__name">Controles de Calibración</em>
-						</a>
-					</li>
-					<li class="cd-schedule__event"> <a data-start="13:00" data-end="14:00" data-content="./ponencias/control" data-event="event-3" href="#0">
-						
-							<em class="cd-schedule__name">Control Automático</em>
-						</a>
-					</li>
-					<li class="cd-schedule__event"> <a data-start="15:00" data-end="16:00" data-content="./ponencias/voltaje" data-event="event-1" href="#0">
-						
-							<em class="cd-schedule__name">Sistemas de Alto Voltaje</em>
-						</a>
-					</li>
-					<li class="cd-schedule__event"> <a data-start="17:00" data-end="18:00" data-content="./ponencias/automatizacion" data-event="event-2" href="#0">
-						
-							<em class="cd-schedule__name">Instrumentación y automatización de ciclado</em>
-						</a>
-					</li>
-				</ul>
-			</li>
-
-			<li class="cd-schedule__group">
-				<div class="cd-schedule__top-info">Viernes</span></div>
-
-				<ul>
-					<li class="cd-schedule__event"> 
-						<a  data-start="09:00" data-end="10:00" data-content="" data-event="event-1">
-						
-							<em class="cd-schedule__name">PD Academy</em>
-						</a>
-					</li>
-
-					<li class="cd-schedule__event"> <a data-start="10:00" data-end="11:00" data-content="" data-event="event-4" href="#0">
-						
-							<em class="cd-schedule__name">Taller: Elaboración de CV</em>
-						</a>
-					</li>
-
-					<li class="cd-schedule__event"> <a data-start="11:00" data-end="12:00"  data-content="./ponencias/pruebas" data-event="event-3" href="#0">
-						
-							<em class="cd-schedule__name">Pruebas Componentes Flexibles</em>
-						</a>
-					</li>
-
-					<li class="cd-schedule__event"> <a data-start="12:00" data-end="13:00" data-content="" data-event="event-4" href="#0">
-						
-							<em class="cd-schedule__name">Taller Entrevistas de Trabajo</em>
-						</a>
-					</li>
-					<li class="cd-schedule__event"> <a data-start="13:00" data-end="14:00" data-content="" data-event="event-2" href="#0">
-						
-							<em class="cd-schedule__name">Evento de cierre</em>
-						</a>
-					</li>
-					
-				</ul>
-			</li>
-			<li class="cd-schedule__group">
-				<div class="cd-schedule__top-info">Sabado</span></div>
-
-				<ul>
-					
-				</ul>
-			</li>
-			<li class="cd-schedule__group">
-				<div class="cd-schedule__top-info">Domingo</span></div>
-
-				<ul>
-					
-				</ul>
-			</li>
-		</ul>
-	</div>
-
-	<div class="cd-schedule-modal">
-		<header class="cd-schedule-modal__header">
-		  <div class="cd-schedule-modal__content">
-			<span class="cd-schedule-modal__date"></span>
-			<h3 class="cd-schedule-modal__name"></h3>
-		  </div>
-	
-		  <div class="cd-schedule-modal__header-bg"></div>
-		</header>
-	
-		<div class="cd-schedule-modal__body">
-		  <div class="cd-schedule-modal__event-info"></div>
-		  <div class="cd-schedule-modal__body-bg"></div>
-		</div>
-	
-		<a href="#0" class="cd-schedule-modal__close text-replace">Close</a>
-	  </div>
-	
-	  <div class="cd-schedule__cover-layer"></div>
-	</div> <!-- .cd-schedule -->
-
-
-	<script src="assets/js/util.js"></script> <!-- util functions included in the CodyHouse framework -->
-	<script src="assets/js/main.js"></script>
+    <script src="js/script.js"></script>
 </body>
 </html>
