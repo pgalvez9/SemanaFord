@@ -6,6 +6,10 @@
     --white: #FFFFFF;
     --light-gray: #F0F0F0;
     --dark-gray: #333333;
+    --unam-tech: #003366;
+    --unam-taller: #F7760C;
+    --unam-ls: #B40CF7;
+    --unam-ss: #FF8080;
 }
 
 /* Reset y Estilos Generales */
@@ -94,9 +98,9 @@ body {
     padding-bottom: 10px;
 }
 
-.activity-card {
+.activity-card-tech {
     background-color: var(--light-gray);
-    border-left: 5px solid var(--unam-gold);
+    border-left: 5px solid var(--unam-tech);
     padding: 15px;
     margin-bottom: 15px;
     border-radius: 5px;
@@ -105,18 +109,103 @@ body {
     text-align: left;
 }
 
-.activity-card:hover {
+.activity-card-tech:hover {
     transform: translateY(-3px);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
 
-.activity-card h4 {
+.activity-card-tech h4 {
     color: var(--dark-gray);
     font-size: 1.1em;
     margin-bottom: 5px;
 }
 
-.activity-card .time {
+.activity-card-tech .time {
+    font-size: 0.9em;
+    color: #666;
+}
+
+/*taller
+*/
+.activity-card-taller {
+    background-color: var(--light-gray);
+    border-left: 5px solid var(--unam-taller);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    text-align: left;
+}
+
+.activity-card-taller:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.activity-card-taller h4 {
+    color: var(--dark-gray);
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+
+.activity-card-taller .time {
+    font-size: 0.9em;
+    color: #666;
+}
+/*lifestyle*/
+
+.activity-card-ls {
+    background-color: var(--light-gray);
+    border-left: 5px solid var(--unam-ls);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    text-align: left;
+}
+
+.activity-card-ls:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.activity-card-ls h4 {
+    color: var(--dark-gray);
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+
+.activity-card-ls .time {
+    font-size: 0.9em;
+    color: #666;
+}
+/*soft skills*/
+
+.activity-card-ss {
+    background-color: var(--light-gray);
+    border-left: 5px solid var(--unam-ss);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    text-align: left;
+}
+
+.activity-card-ss:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.activity-card-ss h4 {
+    color: var(--dark-gray);
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+
+.activity-card-ss .time {
     font-size: 0.9em;
     color: #666;
 }
@@ -250,7 +339,16 @@ body {
         padding: 15px;
     }
 
-    .activity-card {
+    .activity-card-tech {
+        padding: 12px;
+    }
+    .activity-card-taller {
+        padding: 12px;
+    }
+    .activity-card-ls {
+        padding: 12px;
+    }
+    .activity-card-ss {
         padding: 12px;
     }
 
@@ -286,3 +384,4 @@ body {
         font-size: 2em;
     }
 }
+
