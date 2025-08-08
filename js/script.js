@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const activityCards = document.querySelectorAll('.activity-card-tech','.activity-card-taller','.activity-card-ls','.activity-card-ss');
+    const activityCards = document.querySelectorAll('.activity-card');
     const modal = document.getElementById('activityModal');
     const closeButton = document.querySelector('.close-button');
 
@@ -120,6 +120,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
