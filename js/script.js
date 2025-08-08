@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/activity-diseno-ia.jpg"
             }
         },
-		 "1m": {
+		 "m1": {
             "title": "¿Cómo preparar tu entrevista?",
             "time": "13:00 - 14:00",
             "speaker": {
@@ -109,4 +109,5 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
