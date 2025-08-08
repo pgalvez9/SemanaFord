@@ -6,10 +6,10 @@
     --white: #FFFFFF;
     --light-gray: #F0F0F0;
     --dark-gray: #333333;
-    --unam-tech: #003366;
-    --unam-taller: #F7760C;
+    --unam-tech: #0482ff;
+    --unam-taller: #f57d1a;
     --unam-ls: #B40CF7;
-    --unam-ss: #FF8080;
+    --unam-ss: #87e748;
 }
 
 /* Reset y Estilos Generales */
@@ -384,4 +384,5 @@ body {
         font-size: 2em;
     }
 }
+
 
