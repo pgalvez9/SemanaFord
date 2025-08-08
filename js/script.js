@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speaker": {
                 "name": "Lic Karen Vazquez",
                 "bio": "Soy psicóloga organizacional con ocho años de experiencia en Recursos Humanos, especializada en atracción y desarrollo del talento. He tenido la oportunidad de liderar proyectos clave en empresas globales del sector de Telecomunicaciones y Automotriz, donde he contribuido al fortalecimiento de la cultura organizacional y al crecimiento del talento",
-                "photo": "img/karen-vazquez.jpg"
+                "photo": "img/speaker-karen-vazquez.jpg"
             },
             "activity": {
                 "description": "La entrevista de trabajo es una etapa crucial en tu camino profesional, una oportunidad única para demostrar tu potencial y asegurar el puesto de tus sueños. ¿Te gustaría afrontarla con total confianza y maximizar tus posibilidades de éxito? En esta ponencia, te proporcionaremos las herramientas y conocimientos fundamentales para navegar el proceso de entrevista de manera efectiva. Descubrirás cómo presentarte de la mejor forma posible, comunicar tu valor de manera impactante y dejar una impresión memorable en los reclutadores.",
@@ -109,5 +109,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
