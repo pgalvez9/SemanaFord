@@ -52,10 +52,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 "description": "La entrevista de trabajo es una etapa crucial en tu camino profesional, una oportunidad única para demostrar tu potencial y asegurar el puesto de tus sueños. ¿Te gustaría afrontarla con total confianza y maximizar tus posibilidades de éxito? En esta ponencia, te proporcionaremos las herramientas y conocimientos fundamentales para navegar el proceso de entrevista de manera efectiva. Descubrirás cómo presentarte de la mejor forma posible, comunicar tu valor de manera impactante y dejar una impresión memorable en los reclutadores.",
             }
         },
-        // Añade más actividades aquí, usando el ID correspondiente
-        // "3": { ... }
-    };
-        },
 		 "15": {
             "title": "Innovación en el Vehículo",
             "time": "10:00 - 11:00",
@@ -124,6 +120,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
