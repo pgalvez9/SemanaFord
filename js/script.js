@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // "3": { ... }
     };
         },
-		 "m1": {
+		 "15": {
             "title": "Innovación en el Vehículo",
             "time": "10:00 - 11:00",
             "speaker": {
@@ -124,6 +124,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
