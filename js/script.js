@@ -14,9 +14,9 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Datos de ejemplo de actividades ---
     // En un proyecto real, esto podría venir de una API o un archivo JSON más grande.
     const activitiesData = {
-        "14": {
-            "title": "Digital Twins",
-            "time": "14:00 - 16:00",
+        "m-8": {
+            "title": "Gemelos Digitales: La actualidad del desarrollo de controladores",
+            "time": "14:00 - 15:00",
             "speaker": {
                 "name": "Ing Ignacio Salas",
                 "bio": "José Ignacio Salas Cerón is a mechatronic engineer with over 7 years of experience integrating digital twins of powertrain in the automotive industry.He has worked at Ford since 2018. His current role/title is HIL/SIL Integration and Deployment Engineer in the Vehicle Controls department.He enjoys taking part of challenging situations that require some sort of knowledge about the classical control theory to be resolved. He graduated from the Faculty of Engineering at UNAM, class of 2017.",
@@ -27,32 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
 			"photo": "img/activity-movilidad.jpg"
             }
         },
-        "2": {
-            "title": "Taller: Diseño Automotriz con IA",
-            "time": "10:30 - 12:30",
-            "speaker": {
-                "name": "Ing. Ricardo Solís",
-                "bio": "Jefe de Diseño UX/UI en Ford Global. Experto en la integración de la inteligencia artificial en el proceso de diseño de interfaces de usuario para vehículos. Ha trabajado en modelos como el Mustang Mach-E.",
-                "photo": "img/speaker-ricardo-solis.jpg"
-            },
-            "activity": {
-                "description": "Explora cómo la inteligencia artificial está revolucionando el diseño automotriz, desde la conceptualización hasta la personalización de la experiencia del usuario dentro del vehículo.",
-                "photo": "img/activity-diseno-ia.jpg"
-            }
-        },
-		 "m1": {
-            "title": "¿Cómo preparar tu entrevista?",
-            "time": "13:00 - 14:00",
-            "speaker": {
-                "name": "Lic Karen Vazquez",
-                "bio": "Soy psicóloga organizacional con ocho años de experiencia en Recursos Humanos, especializada en atracción y desarrollo del talento. He tenido la oportunidad de liderar proyectos clave en empresas globales del sector de Telecomunicaciones y Automotriz, donde he contribuido al fortalecimiento de la cultura organizacional y al crecimiento del talento",
-                "photo": "img/speaker-karen-vazquez.jpg"
-            },
-            "activity": {
-                "description": "La entrevista de trabajo es una etapa crucial en tu camino profesional, una oportunidad única para demostrar tu potencial y asegurar el puesto de tus sueños. ¿Te gustaría afrontarla con total confianza y maximizar tus posibilidades de éxito? En esta ponencia, te proporcionaremos las herramientas y conocimientos fundamentales para navegar el proceso de entrevista de manera efectiva. Descubrirás cómo presentarte de la mejor forma posible, comunicar tu valor de manera impactante y dejar una impresión memorable en los reclutadores.",
-            }
-        },
-		 "15": {
+		 "w-2": {
             "title": "Innovación en el Vehículo",
             "time": "10:00 - 11:00",
             "speaker": {
@@ -62,6 +37,69 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             "activity": {
                 "description": " aún no la suben ",
+            }
+        },
+		"l-6": {
+            "title": "Elaboración de CV ",
+            "time": "13:00 - 14:00",
+            "speaker": {
+                "name": "Alexia Huerta",
+                "bio": "Profesional con formación en Diseño Industrial por la Universidad Anáhuac y una Maestría en Comunicación Digital, Redes Sociales y Marketing Online por el CEUPE. Cuenta con más de 6 años de experiencia en el desarrollo y gestión de estrategias de atracción de talento y programas enfocados en talento joven. Posee expertise en la implementación de estrategias externas orientadas a potenciar la marca empleadora. Es miembro de Ford desde agosto de 2023.",
+                "photo": "img/speaker-alexia-huerta.jpg"
+            },
+            "activity": {
+                "description": "¿Quieres que tu CV destaque entre cientos de candidaturas? En esta ponencia, desvelaremos las claves para construir un CV ganador, centrándonos en el eficiente "CV estilo Harvard" y entenderás la "Visión del Reclutador": qué buscan, cómo leen tu CV en segundos y cómo asegurarte de captar su atención.",
+            }
+        },
+		"m-3": {
+            "title": "Inteligencia artificial en los vehículos",
+            "time": "10:00 - 11:00",
+            "speaker": {
+                "name": "Julieta Rojas",
+                "bio": "Ingeniera en Sistemas y Tecnologías de la Información por la Universidad Anáhuac México, actualmente me desempeño como Artificial Intelligence Engineer. Desde el área de Business Operations colaboro con los equipos de Product Development para identificar oportunidades de mejora, mapear procesos críticos, definir indicadores clave de desempeño (KPIs) que orienten la toma de decisiones y diseñar, desplegar y mantener soluciones de IA que automaticen tareas, optimicen la eficiencia operativa y mejoren la experiencia de usuario. Apasionada por la innovación y el aprendizaje continuo, combino pensamiento estratégico, creatividad y comunicación efectiva para convertir la ciencia de datos en valor tangible.",
+                "photo": "img/speaker-julieta-rojas.jpg",
+				"name": "Marco Ramírez",
+                "bio": "Ingeniero en Sistemas Computacionales en la Escuela Superior de Cómputo del IPN, me especializo en ciencia de datos en el área de Business Operations. Mis principales funciones incluyen apoyar a los empleados de PD en la adopción y uso de herramientas de inteligencia artificial dentro de Ford, colaborar en el diseño e implementación de estrategias clave para su integración, así como contribuir a la automatización de procesos y a la visualización de métricas alineadas con los objetivos y políticas tanto de los empleados como de la compañía.",
+                "photo": "img/speaker-marco-ramirez.jpg"
+            },
+            "activity": {
+                "description": "En esta ponencia veremos por qué la IA es una pieza clave para el futuro automotriz. Iniciaremos con parte de los fundamentos de Turing y McCarthy, distinguiremos entre IA débil, fuerte y superinteligencia, y ubicaremos tecnologías como machine learning, deep learning e IA generativa dentro de un mismo espectro. Explicaremos los tres modelos de aprendizaje (supervisado, no supervisado y por refuerzo) y, sobre todo, demostraremos su impacto directo en Ford: conducción autónoma, mantenimiento predictivo, personalización del usuario y control de calidad.",
+            }
+        },
+		"w-1": {
+            "title": "¿Cómo se diseña un coche Ford?",
+            "time": "09:00 - 10:00",
+            "speaker": {
+                "name": "Estefhanie Gutiérrez",
+                "bio": "Ingeniera Mecánica con 9 años de experiencia práctica en el diseño de sistemas de exteriores e interiores y ornamentación automotriz. He colaborado en proyectos como el desarrollo de interiores para la Bronco Sport, Bronco y Mustang, combinando ingeniería con visión centrada en la experiencia del usuario. Con una maestría en Project Management por la Universidad de Barcelona y certificaciones como Scrum Master y Product Owner, reflejo de mi pasión por las metodologías ágiles, la mejora continua y la gestión de proyectos complejos y multidisciplinarios.",
+                "photo": "img/speaker-esthefhanie-gutierrez.jpg"
+            },
+            "activity": {
+                "description": "En esta plática, exploraremos el proceso completo de desarrollo de producto de Ford: desde la definición de una idea hasta el lanzamiento en planta, pasando por el diseño y la validación. Verás ejemplos reales de proyectos en los que Ingenieros mexicanos están marcando la diferencia, contribuyendo en cada una de estas etapas, desde el diseño hasta el ensamblaje de vehículos. También hablaremos del lado humano de la ingeniería: cómo habilidades como la comunicación, el liderazgo y el trabajo en equipo potencian tu carrera profesional.",
+            }
+        },
+		"w-5": {
+            "title": "¿Cómo preparar tu entrevista?",
+            "time": "13:00 - 14:00",
+            "speaker": {
+                "name": "Karen Vázquez",
+                "bio": "Psicóloga organizacional con ocho años de experiencia en Recursos Humanos, especializada en atracción y desarrollo del talento. He tenido la oportunidad de liderar proyectos clave en empresas globales del sector de Telecomunicaciones y Automotriz, donde he contribuido al fortalecimiento de la cultura organizacional y al crecimiento del talento.",
+                "photo": "img/speaker-karen-vazquez.jpg"
+            },
+            "activity": {
+                "description": "¿Te sientes listo para afrontar una entrevista de trabajo con total confianza y maximizando tus posibilidades de éxito? En esta ponencia, te daremos las herramientas y conocimientos fundamentales para navegar el proceso de entrevista de manera efectiva. Descubrirás cómo presentarte de la mejor forma posible, comunicar tu valor de manera impactante y dejar una impresión memorable en los reclutadores.",
+            }
+        },
+		"j-3": {
+            "title": "Simulación de Entrevista",
+            "time": "14:00 - 15:00",
+            "speaker": {
+                "name": "Karen Palacios",
+                "bio": "Más de 12 años de experiencia en Adquisición de Talento, especializada en perfiles de TI para empresas multinacionales en Norteamérica y Latinoamérica. Proceso de principio a fin, actuando como socio y consultor, alta demanda, liderando proyectos para BPO, RPO partnering y firmas de consultoría",
+                "photo": "img/speaker-karen-palacios.jpg"
+            },
+            "activity": {
+                "description": "Esta sesión está diseñada para los ganadores de nuestra actividad tipo Shark Tank, con la intención de que pongas a prueba tus habilidades de comunicación bajo la guía de Karen, recibas feedback personalizado y de alto valor sobre tu desempeño, perfecciones tu narrativa y aprendas a destacar tu propuesta de valor en un entorno realista.",
             }
         },
         // Añade más actividades aquí, usando el ID correspondiente
@@ -120,6 +158,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
