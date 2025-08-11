@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             "activity": {
                 "description": "Nowadays, compressed vehicle development time, reduced costs, and optimized personnel utilization in the development and validation of new customer-expected features in vehicles,are imperative goals in the automotive industry.In that context, the development of digital twins to represent the operation of the powertrain and its adjacent subsystems, takes on special relevance. The digital twins provide costeffective and safe virtual environments that enable rapid development and testing of any type of control code.This presentation will cover the use of digital twins for powertrain control code development and testing at Ford.",
-			"photo": "img/activity-movilidad.jpg"
+				"photo": "img/activity-movilidad.jpg"
             }
         },
 		 "w-2": {
@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/speaker-marco-bello.jpg"
             },
             "activity": {
-                "description": " aún no la suben ",
+                "description": " aún no la suben "
             }
         },
 		"l-6": {
@@ -48,19 +48,20 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/speaker-alexia-huerta.jpg"
             },
             "activity": {
-                "description": "¿Quieres que tu CV destaque entre cientos de candidaturas? En esta ponencia, desvelaremos las claves para construir un CV ganador, centrándonos en el eficiente "CV estilo Harvard" y entenderás la "Visión del Reclutador": qué buscan, cómo leen tu CV en segundos y cómo asegurarte de captar su atención.",
+                "description": "¿Quieres que tu CV destaque entre cientos de candidaturas? En esta ponencia, desvelaremos las claves para construir un CV ganador, centrándonos en el eficiente CV estilo Harvard y entenderás la Visión del Reclutador: qué buscan, cómo leen tu CV en segundos y cómo asegurarte de captar su atención."
             }
         },
 		"m-3": {
             "title": "Inteligencia artificial en los vehículos",
             "time": "10:00 - 11:00",
             "speaker": {
-				"name": "Marco Ramírez",
-                "bio": "Ingeniero en Sistemas Computacionales en la Escuela Superior de Cómputo del IPN, me especializo en ciencia de datos en el área de Business Operations. Mis principales funciones incluyen apoyar a los empleados de PD en la adopción y uso de herramientas de inteligencia artificial dentro de Ford, colaborar en el diseño e implementación de estrategias clave para su integración, así como contribuir a la automatización de procesos y a la visualización de métricas alineadas con los objetivos y políticas tanto de los empleados como de la compañía.",
-                "photo": "img/speaker-marco-ramirez.jpg"
+                "name": "Julieta Rojas & Marco Ramirez",
+                "bio": "Ingeniera en Sistemas y Tecnologías de la Información por la Universidad Anáhuac México, actualmente me desempeño como Artificial Intelligence Engineer. Desde el área de Business Operations colaboro con los equipos de Product Development para identificar oportunidades de mejora, mapear procesos críticos, definir indicadores clave de desempeño (KPIs) que orienten la toma de decisiones y diseñar, desplegar y mantener soluciones de IA que automaticen tareas, optimicen la eficiencia operativa y mejoren la experiencia de usuario. Apasionada por la innovación y el aprendizaje continuo, combino pensamiento estratégico, creatividad y comunicación efectiva para convertir la ciencia de datos en valor tangible.",
+                "photo": "img/speaker-julieta-rojas.jpg"
             },
             "activity": {
-                "description": "En esta ponencia veremos por qué la IA es una pieza clave para el futuro automotriz. Iniciaremos con parte de los fundamentos de Turing y McCarthy, distinguiremos entre IA débil, fuerte y superinteligencia, y ubicaremos tecnologías como machine learning, deep learning e IA generativa dentro de un mismo espectro. Explicaremos los tres modelos de aprendizaje (supervisado, no supervisado y por refuerzo) y, sobre todo, demostraremos su impacto directo en Ford: conducción autónoma, mantenimiento predictivo, personalización del usuario y control de calidad.",
+                "description": "Ingeniero en Sistemas Computacionales en la Escuela Superior de Cómputo del IPN, me especializo en ciencia de datos en el área de Business Operations. Mis principales funciones incluyen apoyar a los empleados de PD en la adopción y uso de herramientas de inteligencia artificial dentro de Ford, colaborar en el diseño e implementación de estrategias clave para su integración, así como contribuir a la automatización de procesos y a la visualización de métricas alineadas con los objetivos y políticas tanto de los empleados como de la compañía.",
+				"photo": "img/speaker-marco-ramirez.jpg"
             }
         },
 		"w-1": {
@@ -72,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/speaker-esthefhanie-gutierrez.jpg"
             },
             "activity": {
-                "description": "En esta plática, exploraremos el proceso completo de desarrollo de producto de Ford: desde la definición de una idea hasta el lanzamiento en planta, pasando por el diseño y la validación. Verás ejemplos reales de proyectos en los que Ingenieros mexicanos están marcando la diferencia, contribuyendo en cada una de estas etapas, desde el diseño hasta el ensamblaje de vehículos. También hablaremos del lado humano de la ingeniería: cómo habilidades como la comunicación, el liderazgo y el trabajo en equipo potencian tu carrera profesional.",
+                "description": "En esta plática, exploraremos el proceso completo de desarrollo de producto de Ford: desde la definición de una idea hasta el lanzamiento en planta, pasando por el diseño y la validación. Verás ejemplos reales de proyectos en los que Ingenieros mexicanos están marcando la diferencia, contribuyendo en cada una de estas etapas, desde el diseño hasta el ensamblaje de vehículos. También hablaremos del lado humano de la ingeniería: cómo habilidades como la comunicación, el liderazgo y el trabajo en equipo potencian tu carrera profesional."
             }
         },
 		"w-5": {
@@ -84,7 +85,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/speaker-karen-vazquez.jpg"
             },
             "activity": {
-                "description": "¿Te sientes listo para afrontar una entrevista de trabajo con total confianza y maximizando tus posibilidades de éxito? En esta ponencia, te daremos las herramientas y conocimientos fundamentales para navegar el proceso de entrevista de manera efectiva. Descubrirás cómo presentarte de la mejor forma posible, comunicar tu valor de manera impactante y dejar una impresión memorable en los reclutadores.",
+                "description": "¿Te sientes listo para afrontar una entrevista de trabajo con total confianza y maximizando tus posibilidades de éxito? En esta ponencia, te daremos las herramientas y conocimientos fundamentales para navegar el proceso de entrevista de manera efectiva. Descubrirás cómo presentarte de la mejor forma posible, comunicar tu valor de manera impactante y dejar una impresión memorable en los reclutadores."
             }
         },
 		"j-3": {
@@ -96,7 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/speaker-karen-palacios.jpg"
             },
             "activity": {
-                "description": "Esta sesión está diseñada para los ganadores de nuestra actividad tipo Shark Tank, con la intención de que pongas a prueba tus habilidades de comunicación bajo la guía de Karen, recibas feedback personalizado y de alto valor sobre tu desempeño, perfecciones tu narrativa y aprendas a destacar tu propuesta de valor en un entorno realista.",
+                "description": "Esta sesión está diseñada para los ganadores de nuestra actividad tipo Shark Tank, con la intención de que pongas a prueba tus habilidades de comunicación bajo la guía de Karen, recibas feedback personalizado y de alto valor sobre tu desempeño, perfecciones tu narrativa y aprendas a destacar tu propuesta de valor en un entorno realista."
             }
         },
         // Añade más actividades aquí, usando el ID correspondiente
