@@ -10,6 +10,7 @@
     --category-taller: #f57d1a;
     --category-ls: #B40CF7;
     --category-ss: #87e748;
+    --category-show: #f7dc0a;
 }
 
 /* Reset y Estilos Generales */
@@ -123,6 +124,9 @@ body {
 
 .activity-card[data-category="ss"] {
     border-left-color: var(--category-ss);
+}
+.activity-card[data-category="show"] {
+    border-left-color: var(--category-show);
 }
 
 
@@ -307,6 +311,7 @@ body {
         font-size: 2em;
     }
 }
+
 
 
 
