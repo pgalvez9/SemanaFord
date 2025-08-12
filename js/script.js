@@ -24,7 +24,6 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             "activity": {
                 "description": "Nowadays, compressed vehicle development time, reduced costs, and optimized personnel utilization in the development and validation of new customer-expected features in vehicles,are imperative goals in the automotive industry.In that context, the development of digital twins to represent the operation of the powertrain and its adjacent subsystems, takes on special relevance. The digital twins provide costeffective and safe virtual environments that enable rapid development and testing of any type of control code.This presentation will cover the use of digital twins for powertrain control code development and testing at Ford.",
-				"photo": "img/activity-movilidad.jpg"
             }
         },
 		 "w-2": {
@@ -57,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speaker": {
                 "name": "Julieta Rojas & Marco Ramirez",
                 "bio": "Ingeniera en Sistemas y Tecnologías de la Información por la Universidad Anáhuac México, actualmente me desempeño como Artificial Intelligence Engineer. Desde el área de Business Operations colaboro con los equipos de Product Development para identificar oportunidades de mejora, mapear procesos críticos, definir indicadores clave de desempeño (KPIs) que orienten la toma de decisiones y diseñar, desplegar y mantener soluciones de IA que automaticen tareas, optimicen la eficiencia operativa y mejoren la experiencia de usuario. Apasionada por la innovación y el aprendizaje continuo, combino pensamiento estratégico, creatividad y comunicación efectiva para convertir la ciencia de datos en valor tangible.",
-                "photo": "img/speaker-julieta-rojas.jpg"
+                "photo": "img/speaker-julieta-rojas.png"
             },
             "activity": {
                 "description": "Ingeniero en Sistemas Computacionales en la Escuela Superior de Cómputo del IPN, me especializo en ciencia de datos en el área de Business Operations. Mis principales funciones incluyen apoyar a los empleados de PD en la adopción y uso de herramientas de inteligencia artificial dentro de Ford, colaborar en el diseño e implementación de estrategias clave para su integración, así como contribuir a la automatización de procesos y a la visualización de métricas alineadas con los objetivos y políticas tanto de los empleados como de la compañía.",
