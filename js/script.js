@@ -107,8 +107,6 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "12:00 - 13:00",
 			"audience": "General",
 			"location": "Explanada CIA",
-            
-            ,
             "activity": {
                 "description": "Ven a conocer e interactuar con nuestros vehículos Ford",
 				"photo": "img/speaker-vehicle-showtime.jpg"
@@ -270,6 +268,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
