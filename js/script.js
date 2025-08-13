@@ -29,13 +29,13 @@ document.addEventListener('DOMContentLoaded', () => {
 		 "w-2": {
             "title": "Innovación en el Vehículo",
             "time": "10:00 - 11:00",
+            "activity": {
+                "description": " aún no la suben "
+            },
             "speaker": {
                 "name": "Marco Bello",
                 "bio": "Me llamo Marco Antonio Bello Xelhuantzi, soy Ingeniero en Diseño Automotriz por el Tec de Monterrey y cuento con la maestría en Innovación para el Desarrollo Empresarial por la misma institución, tengo 9 años de experiencia, desde el área de diseño en diversos commodities hasta mi puesto actual como Coordinador de Innovación para el área de Desarrollo de Producto de Ford de México, siendo mis principales responsabilidad la estrategia de innovación, la administración del laboratorio llamado Makerspace, además de los temas relacionados a propiedad intelectual.",
                 "photo": "img/speaker-marco-bello.JPG"
-            },
-            "activity": {
-                "description": " aún no la suben "
             }
         },
 		"l-6": {
@@ -155,6 +155,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
