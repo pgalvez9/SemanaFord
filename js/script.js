@@ -50,6 +50,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 "description": "¿Quieres que tu CV destaque entre cientos de candidaturas? En esta ponencia, desvelaremos las claves para construir un CV ganador, centrándonos en el eficiente CV estilo Harvard y entenderás la Visión del Reclutador: qué buscan, cómo leen tu CV en segundos y cómo asegurarte de captar su atención."
             }
         },
+		"m-1": {
+            "title": "Inauguración / 100 años de Ingeniería en México",
+            "time": "09:00 - 10:00",
+            "speaker": {
+                "name": "Juan Santillán",
+                "bio": "Ingeniera en Sistemas y Tecnologías de la Información por la Universidad Anáhuac México, actualmente me desempeño como Artificial Intelligence Engineer. Desde el área de Business Operations colaboro con los equipos de Product Development para identificar oportunidades de mejora, mapear procesos críticos, definir indicadores clave de desempeño (KPIs) que orienten la toma de decisiones y diseñar, desplegar y mantener soluciones de IA que automaticen tareas, optimicen la eficiencia operativa y mejoren la experiencia de usuario. Apasionada por la innovación y el aprendizaje continuo, combino pensamiento estratégico, creatividad y comunicación efectiva para convertir la ciencia de datos en valor tangible.",
+                "photo": "img/speaker-juan-santillan.png"
+            },
+            "activity": {
+                "description": "Ingeniero en Sistemas Computacionales en la Escuela Superior de Cómputo del IPN, me especializo en ciencia de datos en el área de Business Operations. Mis principales funciones incluyen apoyar a los empleados de PD en la adopción y uso de herramientas de inteligencia artificial dentro de Ford, colaborar en el diseño e implementación de estrategias clave para su integración, así como contribuir a la automatización de procesos y a la visualización de métricas alineadas con los objetivos y políticas tanto de los empleados como de la compañía.",
+				"photo": "img/speaker-marco-ramirez.jpg"
+            },
 		"m-3": {
             "title": "Inteligencia artificial en los vehículos",
             "time": "10:00 - 11:00",
@@ -99,6 +111,19 @@ document.addEventListener('DOMContentLoaded', () => {
                 "description": "Esta sesión está diseñada para los ganadores de nuestra actividad tipo Shark Tank, con la intención de que pongas a prueba tus habilidades de comunicación bajo la guía de Karen, recibas feedback personalizado y de alto valor sobre tu desempeño, perfecciones tu narrativa y aprendas a destacar tu propuesta de valor en un entorno realista."
             }
         },
+		"w-3": {
+            "title": "Egresados en Ford",
+            "time": "11:00 - 12:00",
+            "speaker": {
+                "name": "Oscar Carranza, Fabián Sánchez, Karla Ramírez, Rodrigo Rodríguez, Erick Ramos, Ma. Fernanda Landeros, Brenda Ávila",
+                "bio": "Falta",
+                "photo": "img/speaker-egresados.jpg"
+            },
+            "activity": {
+                "description": "Se trata de una dinámica en la que los estudiantes pueden hacer preguntas a los ingenieros que actualmente trabajan en Ford, que son egresados de la facultad de ingeniería sobre como es su día a día laboralmente, los retos que han enfrentado y las recomendaciones que les gustarían compartir con ellos para su desarrollo profesional y conocer la empresa. Registra tu asistencia en el siguiente link: https://forms.office.com/r/gz2WHDVxTe?origin=lprLink."
+            },
+		}
+		
         // Añade más actividades aquí, usando el ID correspondiente
         // "3": { ... }
     };
@@ -155,6 +180,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
