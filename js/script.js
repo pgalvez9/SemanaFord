@@ -55,7 +55,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "activity": {
                 "description": "Ingeniero en Sistemas Computacionales en la Escuela Superior de Cómputo del IPN, me especializo en ciencia de datos en el área de Business Operations. Mis principales funciones incluyen apoyar a los empleados de PD en la adopción y uso de herramientas de inteligencia artificial dentro de Ford, colaborar en el diseño e implementación de estrategias clave para su integración, así como contribuir a la automatización de procesos y a la visualización de métricas alineadas con los objetivos y políticas tanto de los empleados como de la compañía.",
 				"photo": "img/speaker-marco-ramirez.jpg"
-            },
+            }
+		},
 		"l-2": {
             "title": "Ingenieras Mexicanas",
             "time": "10:00 - 11:00",
@@ -69,7 +70,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "activity": {
                 "description": "TBD",
 				"photo": "img/speaker-marco-ramirez.jpg"
-            },
+            }
+		},
 		"l-3": {
             "title": "Design Thinking - Taller",
             "time": "11:00 - 12:30",
@@ -83,7 +85,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "activity": {
                 "description": "El equipo de Ford ha diseñado un taller para llevar a una selección de alumnos a través de el modelo de Design Thinking",
 				"photo": "img/speaker-marco-ramirez.jpg"
-            },
+            }
+		},
 		"l-4": {
             "title": "Design Thinking",
             "time": "11:00 - 12:00",
@@ -97,18 +100,20 @@ document.addEventListener('DOMContentLoaded', () => {
             "activity": {
                 "description": "",
 				"photo": "img/speaker-marco-ramirez.jpg"
-            },
+            }
+		},
 		"l-5": {
             "title": "Vehicle Showtime",
             "time": "12:00 - 13:00",
 			"audience": "General",
 			"location": "Explanada CIA",
             
-            },
+            ,
             "activity": {
                 "description": "Ven a conocer e interactuar con nuestros vehículos Ford",
 				"photo": "img/speaker-vehicle-showtime.jpg"
-            },
+            }
+		},
 		"l-6": {
             "title": "Elaboración de CV ",
             "time": "13:00 - 14:00",
@@ -265,6 +270,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
