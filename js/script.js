@@ -385,18 +385,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 "name": "Antonio Gómez",
                 "bio": "falta",
                 "photo": "img/speaker-Antonio-Gómez.jpg",
-                "name1": "Alan González",
-                "bio1": "falta",
-                "photo1": "img/speaker-Alan-González.jpg",
-                "name2": "Pablo Guzmán",
-                "bio2": "falta",
-                "photo2": "img/speaker-Pablo-Guzmán.jpg",
-                "name3": "Omar López",
-                "bio3": "falta",
-                "photo3": "img/speaker-Omar_López.jpg",
-                "name4": "Óscar Santos",
-                "bio4": "falta",
-                "photo4": "img/speaker-Óscar_Santos.jpg"
+                "name": "Alan González",
+                "bio": "falta",
+                "photo": "img/speaker-Alan-González.jpg",
+                "name": "Pablo Guzmán",
+                "bio": "falta",
+                "photo": "img/speaker-Pablo-Guzmán.jpg",
+                "name": "Omar López",
+                "bio": "falta",
+                "photo": "img/speaker-Omar_López.jpg",
+                "name": "Óscar Santos",
+                "bio": "falta",
+                "photo": "img/speaker-Óscar_Santos.jpg"
             },
             "activity": {
                 "description": "¡Reúnete con ex-bajas y descubre el camino del éxito en Ford de la mano de quienes lo iniciaron como tú! Ellos están listos para compartir su experiencia para ayudarte en el diseño de tu vehículo y brindar una perspectiva real sobre cómo sus estudios y experiencias como baja SAE se tradujeron en habilidades aplicables y éxito en su vida laboral. Aprovecha esta conexión única para inspirarte y aprender."
@@ -463,6 +463,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
