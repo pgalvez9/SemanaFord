@@ -384,16 +384,16 @@ document.addEventListener('DOMContentLoaded', () => {
             "speaker": {
                 "name": "Antonio Gómez",
                 "bio": "falta",
-                "photo": "img/speaker-Antonio-Gómez.jpg"
+                "photo": "img/speaker-Antonio-Gómez.jpg",
                 "name1": "Alan González",
                 "bio1": "falta",
-                "photo1": "img/speaker-Alan-González.jpg"
+                "photo1": "img/speaker-Alan-González.jpg",
                 "name2": "Pablo Guzmán",
                 "bio2": "falta",
-                "photo2": "img/speaker-Pablo-Guzmán.jpg"
+                "photo2": "img/speaker-Pablo-Guzmán.jpg",
                 "name3": "Omar López",
                 "bio3": "falta",
-                "photo3": "img/speaker-Omar_López.jpg"
+                "photo3": "img/speaker-Omar_López.jpg",
                 "name4": "Óscar Santos",
                 "bio4": "falta",
                 "photo4": "img/speaker-Óscar_Santos.jpg"
@@ -463,6 +463,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
