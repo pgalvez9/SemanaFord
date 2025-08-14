@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speaker": {
                 "name": "Juan Santillán",
                 "bio": "Egresado de la Universidad Anáhuac como Ingeniero Mecánico Eléctrico con una Maestría en Planeación Estratégica y Tecnologias, Juan Santillán cuenta con 25 años de experiencia en Ford Motor Company, incluyendo 9 años en asignaciones internacionales. Su trayectoria abarca desde la ingeniería de chasis para camiones y autos de segmento familiar en EE.UU. y el desarrollo de plataformas globales en Japón (Mazda), hasta el desarrollo, pruebas y validación de vehículos compactos en Alemania. De vuelta en México, lideró lanzamientos de nuevos vehículos y, como Global Chief Engineer, dirigió el desarrollo de productos globales como Ford Bronco Sport y Maverick. Reconocido por la revista Expansión como una de las 30 promesas en México,  actualmente, como Director de Desarrollo de Producto de Ford de México, lidera un equipo de más de 3400 ingenieros, impulsando el diseño, desarrollo y validación de vehículos a nivel mundial.",
-                "photo": "img/speaker-juan-santillan.png"
+                "photo": "img/speaker-juan-santillan.jpg"
             },
             "activity": {
                 "description": "Ingeniero en Sistemas Computacionales en la Escuela Superior de Cómputo del IPN, me especializo en ciencia de datos en el área de Business Operations. Mis principales funciones incluyen apoyar a los empleados de PD en la adopción y uso de herramientas de inteligencia artificial dentro de Ford, colaborar en el diseño e implementación de estrategias clave para su integración, así como contribuir a la automatización de procesos y a la visualización de métricas alineadas con los objetivos y políticas tanto de los empleados como de la compañía.",
@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speaker": {
                 "name": "Stephanie Machorro, Michelle Jaramillo, Gabriela Vargas, Grisel Felipe",
                 "bio": "Stephanie Marín es ingeniera en gestión empresarial con maestría en ingeniería industrial. Con más de una década de experiencia en áreas como recursos humanos, ventas, manufactura, estimación de costos y gestión de programas, actualmente se desempeña como Program Manager en el área de Global Engineering Services dentro de Ford, liderando proyectos estratégicos de alto impacto. Apasionada por la ingeniería y el impulso del talento femenino en STEM, combina su carrera con su vida personal como esposa y madre de una niña pequeña, inspirando a otras mujeres a construir trayectorias profesionales plenas y equilibradas.",
-                "photo": "img/speaker-stephanie-marin.png"
+                "photo": "img/speaker-stephanie-marin.jpg"
             },
             "activity": {
                 "description": "TBD",
@@ -136,7 +136,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speaker": {
                 "name": "Pedro Gálvez",
                 "bio": "Ingeniera en Sistemas y Tecnologías de la Información por la Universidad Anáhuac México, actualmente me desempeño como Artificial Intelligence Engineer. Desde el área de Business Operations colaboro con los equipos de Product Development para identificar oportunidades de mejora, mapear procesos críticos, definir indicadores clave de desempeño (KPIs) que orienten la toma de decisiones y diseñar, desplegar y mantener soluciones de IA que automaticen tareas, optimicen la eficiencia operativa y mejoren la experiencia de usuario. Apasionada por la innovación y el aprendizaje continuo, combino pensamiento estratégico, creatividad y comunicación efectiva para convertir la ciencia de datos en valor tangible.",
-                "photo": "img/speaker-julieta-rojas.png"
+                "photo": "img/speaker-pedro-galvez.png"
             },
             "activity": {
                 "description": "TBD",
@@ -165,7 +165,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speaker": {
                 "name": "Francisco Lugo",
                 "bio": "Francisco Armando Lugo Mayorga es un destacado Ingeniero Mecatrónico, egresado de la Facultad de Ingeniería de la Universidad Nacional Autónoma de México (UNAM). Con una sólida trayectoria profesional, Francisco cuenta con más de 13 años de experiencia en la industria automotriz, específicamente en Ford Motor Company, donde ha desempeñado diversas funciones en áreas clave de ingeniería. Durante su carrera, ha demostrado una notable capacidad de liderazgo y gestión, lo que lo llevó a ocupar el cargo de Supervisor de Ingeniería en Liberaciones de Software a nivel mundial durante 3 años, cargo que sigue ocupando, aportando significativamente al desarrollo y la implementación de soluciones tecnológicas innovadoras. Además, Francisco ha complementado su formación técnica con un diplomado en Project Management, lo que le ha permitido dirigir proyectos complejos con eficiencia y eficacia, destacándose por su habilidad para coordinar equipos multidisciplinarios y asegurar el éxito en la entrega de resultados.",
-                "photo": "img/speaker-francisco-lugo.png"
+                "photo": "img/speaker-francisco-lugo.jpg"
             },
             "activity": {
                 "description": "¿Cómo transformar tu título de ingeniería en una carrera de impacto? En esta charla, compartiré mi viaje personal desde los salones de la facultad hasta la industria global. Les compartiré las habilidades clave y recomendaciones que para mí marcaron la diferencia.",
@@ -462,6 +462,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
