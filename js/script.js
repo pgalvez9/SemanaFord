@@ -111,7 +111,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/speaker-rafael-hernandez.jpg"
             },
             "activity": {
-                "description": "TBD"
+                "description": "El Hexadrive es un equipo donde se realizan pruebas de tanques de combustible.En esta platica se abordará el proceso de correlación implementado para validar estas pruebas, destacando los desafíos de ingeniería enfrentados a lo largo del proyecto, describiendo acciones futuras."
             }
         },
 		/* HORARIO MARTES */
@@ -154,7 +154,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/speaker-julieta-rojas.png"
             },
             "activity": {
-                "description": "TBD",
+                "description": "En esta presentación se explicará por qué la IA es una pieza clave para el futuro automotriz. Parte de los fundamentos de Turing y McCarthy, distingue entre IA débil, fuerte y superinteligencia, y ubica tecnologías como machine learning, deep learning e IA generativa dentro de un mismo espectro. Explicaremos los tres modelos de aprendizaje (supervisado, no supervisado y por refuerzo) y, sobre todo, demostraremos su impacto directo en Ford: conducción autónoma, mantenimiento predictivo, personalización del usuario y control de calidad.",
 				
             }
         },
@@ -204,7 +204,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speaker": {
                 "name": "Carlos Melgarejo, Ivonne Bárcenas y Pablo Gómez",
                 "bio": "TBD",
-                "photo": "img/speaker-carlos-melgarejo.png"
+                "photo": "img/speaker-carlos-melgarejo.jpg"
             },
             "activity": {
                 "description": "Una sesión de diálogo abierto que reúne a ingenieros experimentados de Ford y a estudiantes aspirantes de ingeniería, miembros del Programa de Alto Rendimiento Académico (PARA) de la Facultad de Ingeniería de la UNAM. Diseñada para cerrar la brecha entre el aprendizaje académico y los desafíos de ingeniería del mundo real, esta mesa redonda fomenta un intercambio de conocimientos. Los ponentes compartirán con los estudiantes cómo el PARA influyó en sus trayectorias profesionales y los estudiantes obtendrán conocimientos prácticos sobre el desarrollo de vehículos, metodologías de resolución de problemas y trayectorias profesionales directamente de líderes de la industria. Al mismo tiempo, los ingenieros de Ford podrán interactuar con la próxima generación de innovadores, comprendiendo filosofías de diseño emergentes y fomentando el talento futuro. Esta interacción dinámica tiene como objetivo inspirar, educar y cultivar una base sólida para la futura excelencia en ingeniería automotriz.",
@@ -217,7 +217,7 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Auditorio",
             "speaker": {
                 "name": "Ing Ignacio Salas",
-                "bio": "José Ignacio Salas Cerón is a mechatronic engineer with over 7 years of experience integrating digital twins of powertrain in the automotive industry.He has worked at Ford since 2018. His current role/title is HIL/SIL Integration and Deployment Engineer in the Vehicle Controls department.He enjoys taking part of challenging situations that require some sort of knowledge about the classical control theory to be resolved. He graduated from the Faculty of Engineering at UNAM, class of 2017.",
+                "bio": "José Ignacio Salas Cerón es ingeniero mecatrónico con más de 7 años de experiencia en la integración de gemelos digitales de sistemas de propulsión en la industria automotriz. Trabaja en Ford desde 2018. Su puesto actual es Ingeniero de Integración e Implementación de HIL/SIL en el departamento de Controles Vehiculares. Disfruta participando en situaciones desafiantes que requieren conocimientos de la teoría clásica de control para su resolución.",
 			"photo": "img/speaker-ignacio-salas.jpg"
             },
             "activity": {
@@ -480,6 +480,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
