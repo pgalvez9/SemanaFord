@@ -183,20 +183,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 "description": "¿Te sientes listo para afrontar una entrevista de trabajo con total confianza y maximizando tus posibilidades de éxito? En esta ponencia, te daremos las herramientas y conocimientos fundamentales para navegar el proceso de entrevista de manera efectiva. Descubrirás cómo presentarte de la mejor forma posible, comunicar tu valor de manera impactante y dejar una impresión memorable en los reclutadores."
             }
         },
-		"j-3": {
-            "title": "Simulación de Entrevista",
-            "time": "14:00 - 15:00",
-			"audience": "General",
-			"location": "Auditorio",
-            "speaker": {
-                "name": "Karen Palacios",
-                "bio": "Más de 12 años de experiencia en Adquisición de Talento, especializada en perfiles de TI para empresas multinacionales en Norteamérica y Latinoamérica. Proceso de principio a fin, actuando como socio y consultor, alta demanda, liderando proyectos para BPO, RPO partnering y firmas de consultoría",
-                "photo": "img/speaker-karen-palacios.jpg"
-            },
-            "activity": {
-                "description": "Esta sesión está diseñada para los ganadores de nuestra actividad tipo Shark Tank, con la intención de que pongas a prueba tus habilidades de comunicación bajo la guía de Karen, recibas feedback personalizado y de alto valor sobre tu desempeño, perfecciones tu narrativa y aprendas a destacar tu propuesta de valor en un entorno realista."
-            }
-        },
 		"w-3": {
             "title": "Egresados en Ford",
             "time": "11:00 - 12:00",
@@ -210,7 +196,76 @@ document.addEventListener('DOMContentLoaded', () => {
             "activity": {
                 "description": "Se trata de una dinámica en la que los estudiantes pueden hacer preguntas a los ingenieros que actualmente trabajan en Ford, que son egresados de la facultad de ingeniería sobre como es su día a día laboralmente, los retos que han enfrentado y las recomendaciones que les gustarían compartir con ellos para su desarrollo profesional y conocer la empresa. Registra tu asistencia en el siguiente link: https://forms.office.com/r/gz2WHDVxTe?origin=lprLink."
             },
+		"j-1": {
+            "title": "Shark tank presentation",
+            "time": "10:00 - 11:00",
+            "audience": "General",
+            "location": "TBD",
+            "activity": {
+                "description": "Te invitamos a las presentaciones finales de los equipos participantes del taller de Design Thinking.  Tendremos un panel de jueces invitados que darán retroalimentación a los equipos."
+            }
+        },
+		"j-2": {
+              "title": "Shark tank Awards",
+            "time": "11:00 - 12:00",
+            "audience": "General",
+            "location": "TBD",
+            "activity": {
+                "description": "Acompáñanos a la premiación de los equipos participantes del taller de Design Thinking."
+            }
+        },
+		"j-3": {
+            "title": "Vehicle Show Time",
+            "time": "12:00 - 13:00",
+            "audience": "General",
+            "location": "Explanada CIA",
+            "activity": {
+                "description": "Ven a conocer e interactuar con nuestros vehículos Ford."
+                "photo": "img/speaker-vehicle-showtime.jpg."
+            }
+        },
+		"j-4": {
+            "title": "Simulación de Entrevista",
+            "time": "14:00 - 15:00",
+			"audience": "General",
+			"location": "Auditorio",
+            "speaker": {
+                "name": "Karen Palacios",
+                "bio": "Más de 12 años de experiencia en Adquisición de Talento, especializada en perfiles de TI para empresas multinacionales en Norteamérica y Latinoamérica. Proceso de principio a fin, actuando como socio y consultor, alta demanda, liderando proyectos para BPO, RPO partnering y firmas de consultoría",
+                "photo": "img/speaker-karen-palacios.jpg"
+            },
+            "activity": {
+                "description": "Esta sesión está diseñada para los ganadores de nuestra actividad tipo Shark Tank, con la intención de que pongas a prueba tus habilidades de comunicación bajo la guía de Karen, recibas feedback personalizado y de alto valor sobre tu desempeño, perfecciones tu narrativa y aprendas a destacar tu propuesta de valor en un entorno realista."
+            }
+        },
+		"j-5": {
+            "title": "Ford y Baja SAE",
+            "time": "15:00 - 16:00",
+            "audience": "General",
+            "location": "TBD",
+            "speaker": {
+                "name": "Antonio Gómez",
+                "bio": "falta",
+                "photo": "img/speaker-Antonio-Gómez.jpg"
+                "name1": "Alan González",
+                "bio1": "falta",
+                "photo1": "img/speaker-Alan-González.jpg"
+                "name2": "Pablo Guzmán",
+                "bio2": "falta",
+                "photo2": "img/speaker-Pablo-Guzmán.jpg"
+                "name3": "Omar López",
+                "bio3": "falta",
+                "photo3": "img/speaker-Omar_López.jpg"
+                "name4": "Óscar Santos",
+                "bio4": "falta",
+                "photo4": "img/speaker-Óscar_Santos.jpg"
+            },
+            "activity": {
+                "description": "¡Reúnete con ex-bajas y descubre el camino del éxito en Ford de la mano de quienes lo iniciaron como tú! Ellos están listos para compartir su experiencia para ayudarte en el diseño de tu vehículo y brindar una perspectiva real sobre cómo sus estudios y experiencias como baja SAE se tradujeron en habilidades aplicables y éxito en su vida laboral. Aprovecha esta conexión única para inspirarte y aprender."
+            }
+        },
 		}
+		
 		
         // Añade más actividades aquí, usando el ID correspondiente
         // "3": { ... }
@@ -268,6 +323,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
