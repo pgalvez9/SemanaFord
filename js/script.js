@@ -14,34 +14,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Datos de ejemplo de actividades ---
     // En un proyecto real, esto podría venir de una API o un archivo JSON más grande.
     const activitiesData = {
-        "m-8": {
-            "title": "Gemelos Digitales: La actualidad del desarrollo de controladores",
-            "time": "14:00 - 15:00",
-			"audience": "General",
-			"location": "Auditorio",
-            "speaker": {
-                "name": "Ing Ignacio Salas",
-                "bio": "José Ignacio Salas Cerón is a mechatronic engineer with over 7 years of experience integrating digital twins of powertrain in the automotive industry.He has worked at Ford since 2018. His current role/title is HIL/SIL Integration and Deployment Engineer in the Vehicle Controls department.He enjoys taking part of challenging situations that require some sort of knowledge about the classical control theory to be resolved. He graduated from the Faculty of Engineering at UNAM, class of 2017.",
-			"photo": "img/speaker-ignacio-salas.jpg"
-            },
-            "activity": {
-                "description": "Nowadays, compressed vehicle development time, reduced costs, and optimized personnel utilization in the development and validation of new customer-expected features in vehicles,are imperative goals in the automotive industry.In that context, the development of digital twins to represent the operation of the powertrain and its adjacent subsystems, takes on special relevance. The digital twins provide costeffective and safe virtual environments that enable rapid development and testing of any type of control code.This presentation will cover the use of digital twins for powertrain control code development and testing at Ford.",
-            }
-        },
-		 "w-2": {
-            "title": "Innovación en el Vehículo",
-            "time": "10:00 - 11:00",
-			"audience": "General",
-			"location": "Auditorio",
-            "activity": {
-                "description": " aún no la suben "
-            },
-            "speaker": {
-                "name": "Marco Bello",
-                "bio": "Me llamo Marco Antonio Bello Xelhuantzi, soy Ingeniero en Diseño Automotriz por el Tec de Monterrey y cuento con la maestría en Innovación para el Desarrollo Empresarial por la misma institución, tengo 9 años de experiencia, desde el área de diseño en diversos commodities hasta mi puesto actual como Coordinador de Innovación para el área de Desarrollo de Producto de Ford de México, siendo mis principales responsabilidad la estrategia de innovación, la administración del laboratorio llamado Makerspace, además de los temas relacionados a propiedad intelectual.",
-                "photo": "img/speaker-marco-bello.JPG"
-            }
-        },
+		/* HORARIO LUNES */
+		
 		"l-1": {
             "title": "Inauguración / 100 años de Ingeniería en México",
             "time": "09:00 - 10:00",
@@ -54,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             "activity": {
                 "description": "Ingeniero en Sistemas Computacionales en la Escuela Superior de Cómputo del IPN, me especializo en ciencia de datos en el área de Business Operations. Mis principales funciones incluyen apoyar a los empleados de PD en la adopción y uso de herramientas de inteligencia artificial dentro de Ford, colaborar en el diseño e implementación de estrategias clave para su integración, así como contribuir a la automatización de procesos y a la visualización de métricas alineadas con los objetivos y políticas tanto de los empleados como de la compañía.",
-				"photo": "img/speaker-marco-ramirez.jpg"
+				
             }
 		},
 		"l-2": {
@@ -69,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             "activity": {
                 "description": "TBD",
-				"photo": "img/speaker-marco-ramirez.jpg"
+				
             }
 		},
 		"l-3": {
@@ -84,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             "activity": {
                 "description": "El equipo de Ford ha diseñado un taller para llevar a una selección de alumnos a través de el modelo de Design Thinking",
-				"photo": "img/speaker-marco-ramirez.jpg"
+				
             }
 		},
 		"l-4": {
@@ -99,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             "activity": {
                 "description": "",
-				"photo": "img/speaker-marco-ramirez.jpg"
+				
             }
 		},
 		"l-5": {
@@ -140,6 +114,35 @@ document.addEventListener('DOMContentLoaded', () => {
                 "description": "¿Quieres que tu CV destaque entre cientos de candidaturas? En esta ponencia, desvelaremos las claves para construir un CV ganador, centrándonos en el eficiente CV estilo Harvard y entenderás la Visión del Reclutador: qué buscan, cómo leen tu CV en segundos y cómo asegurarte de captar su atención."
             }
         },
+		/* HORARIO MARTES */
+		"m-1": {
+            "title": "Ford Clubs / Corporate Games",
+            "time": "09:00 - 10:00",
+			"audience": "General",
+			"location": "Auditorio",
+            "speaker": {
+                "name": "Jocelyn Moctezuma, Gabriela Tiscareño, Fernando Barajas y Rodrigo Téllez",
+                "bio": "TBD",
+                "photo": "img/speaker-julieta-rojas.png"
+            },
+            "activity": {
+                "description": "En esta sesión nos adentraremos en el mundo de los Ford Clubs, una iniciativa nacional diseñada para fomentar la integración, el bienestar y el espíritu de equipo entre empleados de diversas empresas a través de disciplinas deportivas, artísticas y más. Exploraremos qué son los Corporate Games y, específicamente, la experiencia de la participación de Ford en México, destacando cómo Ford ha impulsado activamente el desarrollo integral de sus colaboradores en este marco.",
+            }
+        },
+		"m-2": {
+            "title": "Inteligencia artificial en los vehículos",
+            "time": "10:00 - 11:00",
+			"audience": "General",
+			"location": "Auditorio",
+            "speaker": {
+                "name": "Julieta Rojas & Marco Ramirez",
+                "bio": "Ingeniera en Sistemas y Tecnologías de la Información por la Universidad Anáhuac México, actualmente me desempeño como Artificial Intelligence Engineer. Desde el área de Business Operations colaboro con los equipos de Product Development para identificar oportunidades de mejora, mapear procesos críticos, definir indicadores clave de desempeño (KPIs) que orienten la toma de decisiones y diseñar, desplegar y mantener soluciones de IA que automaticen tareas, optimicen la eficiencia operativa y mejoren la experiencia de usuario. Apasionada por la innovación y el aprendizaje continuo, combino pensamiento estratégico, creatividad y comunicación efectiva para convertir la ciencia de datos en valor tangible.",
+                "photo": "img/speaker-julieta-rojas.png"
+            },
+            "activity": {
+                "description": "TBD",
+            }
+        },
 		"m-3": {
             "title": "Inteligencia artificial en los vehículos",
             "time": "10:00 - 11:00",
@@ -152,7 +155,21 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             "activity": {
                 "description": "Ingeniero en Sistemas Computacionales en la Escuela Superior de Cómputo del IPN, me especializo en ciencia de datos en el área de Business Operations. Mis principales funciones incluyen apoyar a los empleados de PD en la adopción y uso de herramientas de inteligencia artificial dentro de Ford, colaborar en el diseño e implementación de estrategias clave para su integración, así como contribuir a la automatización de procesos y a la visualización de métricas alineadas con los objetivos y políticas tanto de los empleados como de la compañía.",
-				"photo": "img/speaker-marco-ramirez.jpg"
+				
+            }
+        },
+        "m-8": {
+            "title": "Gemelos Digitales: La actualidad del desarrollo de controladores",
+            "time": "14:00 - 15:00",
+			"audience": "General",
+			"location": "Auditorio",
+            "speaker": {
+                "name": "Ing Ignacio Salas",
+                "bio": "José Ignacio Salas Cerón is a mechatronic engineer with over 7 years of experience integrating digital twins of powertrain in the automotive industry.He has worked at Ford since 2018. His current role/title is HIL/SIL Integration and Deployment Engineer in the Vehicle Controls department.He enjoys taking part of challenging situations that require some sort of knowledge about the classical control theory to be resolved. He graduated from the Faculty of Engineering at UNAM, class of 2017.",
+			"photo": "img/speaker-ignacio-salas.jpg"
+            },
+            "activity": {
+                "description": "Nowadays, compressed vehicle development time, reduced costs, and optimized personnel utilization in the development and validation of new customer-expected features in vehicles,are imperative goals in the automotive industry.In that context, the development of digital twins to represent the operation of the powertrain and its adjacent subsystems, takes on special relevance. The digital twins provide costeffective and safe virtual environments that enable rapid development and testing of any type of control code.This presentation will cover the use of digital twins for powertrain control code development and testing at Ford.",
             }
         },
 		"w-1": {
@@ -169,18 +186,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 "description": "En esta plática, exploraremos el proceso completo de desarrollo de producto de Ford: desde la definición de una idea hasta el lanzamiento en planta, pasando por el diseño y la validación. Verás ejemplos reales de proyectos en los que Ingenieros mexicanos están marcando la diferencia, contribuyendo en cada una de estas etapas, desde el diseño hasta el ensamblaje de vehículos. También hablaremos del lado humano de la ingeniería: cómo habilidades como la comunicación, el liderazgo y el trabajo en equipo potencian tu carrera profesional."
             }
         },
-		"w-5": {
-            "title": "¿Cómo preparar tu entrevista?",
-            "time": "13:00 - 14:00",
+		 "w-2": {
+            "title": "Innovación en el Vehículo",
+            "time": "10:00 - 11:00",
 			"audience": "General",
 			"location": "Auditorio",
-            "speaker": {
-                "name": "Karen Vázquez",
-                "bio": "Psicóloga organizacional con ocho años de experiencia en Recursos Humanos, especializada en atracción y desarrollo del talento. He tenido la oportunidad de liderar proyectos clave en empresas globales del sector de Telecomunicaciones y Automotriz, donde he contribuido al fortalecimiento de la cultura organizacional y al crecimiento del talento.",
-                "photo": "img/speaker-karen-vazquez.jpg"
-            },
             "activity": {
-                "description": "¿Te sientes listo para afrontar una entrevista de trabajo con total confianza y maximizando tus posibilidades de éxito? En esta ponencia, te daremos las herramientas y conocimientos fundamentales para navegar el proceso de entrevista de manera efectiva. Descubrirás cómo presentarte de la mejor forma posible, comunicar tu valor de manera impactante y dejar una impresión memorable en los reclutadores."
+                "description": " aún no la suben "
+            },
+            "speaker": {
+                "name": "Marco Bello",
+                "bio": "Me llamo Marco Antonio Bello Xelhuantzi, soy Ingeniero en Diseño Automotriz por el Tec de Monterrey y cuento con la maestría en Innovación para el Desarrollo Empresarial por la misma institución, tengo 9 años de experiencia, desde el área de diseño en diversos commodities hasta mi puesto actual como Coordinador de Innovación para el área de Desarrollo de Producto de Ford de México, siendo mis principales responsabilidad la estrategia de innovación, la administración del laboratorio llamado Makerspace, además de los temas relacionados a propiedad intelectual.",
+                "photo": "img/speaker-marco-bello.JPG"
             }
         },
 		"w-3": {
@@ -196,6 +213,20 @@ document.addEventListener('DOMContentLoaded', () => {
             "activity": {
                 "description": "Se trata de una dinámica en la que los estudiantes pueden hacer preguntas a los ingenieros que actualmente trabajan en Ford, que son egresados de la facultad de ingeniería sobre como es su día a día laboralmente, los retos que han enfrentado y las recomendaciones que les gustarían compartir con ellos para su desarrollo profesional y conocer la empresa. Registra tu asistencia en el siguiente link: https://forms.office.com/r/gz2WHDVxTe?origin=lprLink."
             },
+		"w-5": {
+            "title": "¿Cómo preparar tu entrevista?",
+            "time": "13:00 - 14:00",
+			"audience": "General",
+			"location": "Auditorio",
+            "speaker": {
+                "name": "Karen Vázquez",
+                "bio": "Psicóloga organizacional con ocho años de experiencia en Recursos Humanos, especializada en atracción y desarrollo del talento. He tenido la oportunidad de liderar proyectos clave en empresas globales del sector de Telecomunicaciones y Automotriz, donde he contribuido al fortalecimiento de la cultura organizacional y al crecimiento del talento.",
+                "photo": "img/speaker-karen-vazquez.jpg"
+            },
+            "activity": {
+                "description": "¿Te sientes listo para afrontar una entrevista de trabajo con total confianza y maximizando tus posibilidades de éxito? En esta ponencia, te daremos las herramientas y conocimientos fundamentales para navegar el proceso de entrevista de manera efectiva. Descubrirás cómo presentarte de la mejor forma posible, comunicar tu valor de manera impactante y dejar una impresión memorable en los reclutadores."
+            }
+        },
 		"j-1": {
             "title": "Shark tank presentation",
             "time": "10:00 - 11:00",
@@ -323,6 +354,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
