@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/speaker-juan-santillan.jpg"
             },
             "activity": {
-                "description": "Ingeniero en Sistemas Computacionales en la Escuela Superior de Cómputo del IPN, me especializo en ciencia de datos en el área de Business Operations. Mis principales funciones incluyen apoyar a los empleados de PD en la adopción y uso de herramientas de inteligencia artificial dentro de Ford, colaborar en el diseño e implementación de estrategias clave para su integración, así como contribuir a la automatización de procesos y a la visualización de métricas alineadas con los objetivos y políticas tanto de los empleados como de la compañía.",
+                "description": "TBD",
             }
 		},
 		"l-2": {
@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/speaker-rafael-hernandez.jpg"
             },
             "activity": {
-                "description": "¿Quieres que tu CV destaque entre cientos de candidaturas? En esta ponencia, desvelaremos las claves para construir un CV ganador, centrándonos en el eficiente CV estilo Harvard y entenderás la Visión del Reclutador: qué buscan, cómo leen tu CV en segundos y cómo asegurarte de captar su atención."
+                "description": "TBD"
             }
         },
 		/* HORARIO MARTES */
@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/speaker-julieta-rojas.png"
             },
             "activity": {
-                "description": "Ingeniero en Sistemas Computacionales en la Escuela Superior de Cómputo del IPN, me especializo en ciencia de datos en el área de Business Operations. Mis principales funciones incluyen apoyar a los empleados de PD en la adopción y uso de herramientas de inteligencia artificial dentro de Ford, colaborar en el diseño e implementación de estrategias clave para su integración, así como contribuir a la automatización de procesos y a la visualización de métricas alineadas con los objetivos y políticas tanto de los empleados como de la compañía.",
+                "description": "TBD",
 				
             }
         },
@@ -268,6 +268,20 @@ document.addEventListener('DOMContentLoaded', () => {
 			
             },
 		"w-4": {
+             "title": "Taller de Design Thinking- Día 3",
+            "time": "11:00 - 12:30",
+			"audience": "Preselección",
+			"location": "CIA - Sótano",
+            "speaker": {
+                "name": "Jessica Mayo. Arturo Garcia, Uriel Loza",
+                "bio": "",
+                "photo": "img/speaker-jessica-mayo.png"
+            },
+            "activity": {
+                "description": "El equipo de Ford ha diseñado un taller para llevar a una selección de alumnos a través de el modelo de Design Thinking",
+            }
+            },
+		"w-5": {
             "title": "Vehicle Showtime",
             "time": "12:00 - 13:00",
 			"audience": "General",
@@ -277,7 +291,7 @@ document.addEventListener('DOMContentLoaded', () => {
 				"photo": "img/speaker-vehicle-showtime.jpg"
             }
             },
-		"w-5": {
+		"w-6": {
             "title": "¿Cómo preparar tu entrevista?",
             "time": "13:00 - 14:00",
 			"audience": "General",
@@ -291,7 +305,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "description": "¿Te sientes listo para afrontar una entrevista de trabajo con total confianza y maximizando tus posibilidades de éxito? En esta ponencia, te daremos las herramientas y conocimientos fundamentales para navegar el proceso de entrevista de manera efectiva. Descubrirás cómo presentarte de la mejor forma posible, comunicar tu valor de manera impactante y dejar una impresión memorable en los reclutadores."
             }
         },
-		"w-6": {
+		"w-7": {
             "title": "¿Cómo construir sistemas basados en agentes?",
             "time": "14:00 - 15:00",
 			"audience": "General",
@@ -305,7 +319,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "description": "TBD"
             }
         },
-		"w-7": {
+		"w-8": {
             "title": "Experiencia de trabajo en equipo en Ford",
             "time": "14:00 - 15:00",
 			"audience": "Preselección",
@@ -319,7 +333,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "description": "TBD"
             }
         },
-		"w-8": {
+		"w-9": {
             "title": "De 'Fórmula SAE' a la ingeniería automotriz, experiencias compartidas.",
             "time": "15:00 - 16:30",
 			"audience": "General y Agrupaciones",
@@ -462,6 +476,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
