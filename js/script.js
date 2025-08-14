@@ -95,9 +95,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 "bio": "Profesional con formación en Diseño Industrial por la Universidad Anáhuac y una Maestría en Comunicación Digital, Redes Sociales y Marketing Online por el CEUPE. Cuenta con más de 6 años de experiencia en el desarrollo y gestión de estrategias de atracción de talento y programas enfocados en talento joven. Posee expertise en la implementación de estrategias externas orientadas a potenciar la marca empleadora. Es miembro de Ford desde agosto de 2023.",
                 "photo": "img/speaker-alexia-huerta.jpg"
             },
-            "activity": {
+			"activity": {
                 "description": "¿Quieres que tu CV destaque entre cientos de candidaturas? En esta ponencia, desvelaremos las claves para construir un CV ganador, centrándonos en el eficiente CV estilo Harvard y entenderás la Visión del Reclutador: qué buscan, cómo leen tu CV en segundos y cómo asegurarte de captar su atención."
             }
+            
         },
 		"l-7": {
             "title": "Hexadrive",
@@ -115,7 +116,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 		/* HORARIO MARTES */
 		"m-1": {
-            "title": "Ford Clubs / Corporate Games",
+            "title": "Ford Clubs - Corporate Games",
             "time": "09:00 - 10:00",
 			"audience": "General",
 			"location": "Auditorio",
@@ -143,7 +144,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         },
 		"m-3": {
-            "title": "Inteligencia Artificial en los Vehículos",
+            "title": "Inteligencia Artificial en los Vehiculos",
             "time": "10:00 - 11:00",
 			"audience": "General",
 			"location": "Auditorio",
@@ -158,7 +159,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         },
 		"m-4": {
-            "title": "De la Facultad al Éxito",
+            "title": "De la Facultad al Exito",
             "time": "11:00 - 12:00",
 			"audience": "General",
 			"location": "Auditorio",
@@ -476,6 +477,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
