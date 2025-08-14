@@ -430,15 +430,18 @@ document.addEventListener('DOMContentLoaded', () => {
         const data = activitiesData[activityId];
         if (data) {
             // Rellenar el contenido del modal
+
+			activityTitleModal.textContent = data.title; // Usamos el título de la actividad principal
+            activityDescription.textContent = data.activity.description;
+			
             speakerName.textContent = data.speaker.name;
             speakerBio.textContent = data.speaker.bio;
             speakerPhoto.src = data.speaker.photo;
             speakerPhoto.alt = `Foto de ${data.speaker.name}`;
 
-            activityTitleModal.textContent = data.title; // Usamos el título de la actividad principal
-            activityDescription.textContent = data.activity.description;
-            activityPhoto.src = data.activity.photo;
-            activityPhoto.alt = `Foto de la actividad: ${data.title}`;
+            
+            //activityPhoto.src = data.activity.photo;
+            //activityPhoto.alt = `Foto de la actividad: ${data.title}`;
 
             modal.style.display = 'flex'; // Mostrar el modal
         } else {
@@ -477,6 +480,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
