@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/speaker-juan-santillan.jpg"
             },
             "activity": {
-                "description": "TBD",
+                "description": "¡Bienvenidos a la sesión de apertura de la Semana UNAM 2025! En esta sesión Juan Santillán, Director de Desarrollo de Producto de Ford de México, compartirá con nosotros la profunda historia y el impacto duradero de Ford en la industria automotriz, destacando la relevancia de esta celebración en nuestra universidad.",
             }
 		},
 		"l-2": {
@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Auditorio",
             "speaker": {
                 "name": "Jocelyn Moctezuma, Gabriela Tiscareño, Fernando Barajas y Rodrigo Téllez",
-                "bio": "TBD",
+                "bio": "Jocelyn es Ingeniero en mecatrónica graduada del TEC de Monterrey Campus Estado de México, tiene un MBA con especialidad en calidad y comenzó su carrera profesional en Ford Motor Company en el 2009. Dentro de Ford ha adquirido experiencia en diferentes áreas de la compañía, comenzando en el área de manufactura en la planta de Pintura en Cuautitán Izcalli con el proyecto del Ford Fiesta, posteriormente como ingeniero de Body Interior dentro del mismo programa solucionando y mejorando problemas de diseño. Ha sido ingeniero de diseño y desarrollo para diversos programas en Ford como F-150, Bronco Sport, Maverick, etc. Jocelyn también ha adquirido gran experiencia en el área de calidad y tiene una certificación como Black Belt en la metodología Six Sigma. Actualmente es Analista de exportación asegurándose de que las regulaciones necesarias para los diferentes mercados se cumplan y en paralelo a esto es líder de la iniciativa Ford Clubs en Ford de México desarrollando el crecimiento de esta estrategia que ha sido clave para la satisfacción y bienestar de los empleados en Ford.",
                 "photo": "img/speaker-jocelyn-moctezuma.png"
             },
             "activity": {
@@ -474,6 +474,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
