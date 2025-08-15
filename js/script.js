@@ -7,9 +7,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const speakerName = document.getElementById('speakerName');
     const speakerBio = document.getElementById('speakerBio');
     const speakerPhoto = document.querySelector('.speaker-photo');
-    const activityTitleModal = document.getElementById('activityTitleModal');
-    const activityDescription = document.getElementById('activityDescription');
-    const activityPhoto = document.querySelector('.activity-photo');
+    const activityAudience = document.getElementById('activityAudience');
+    const activityLocation = document.getElementById('activityLocation');
+    const activityTime = document.getElementById('activityTime');
 
     // --- Datos de ejemplo de actividades ---
     // En un proyecto real, esto podría venir de una API o un archivo JSON más grande.
@@ -368,15 +368,6 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         },
 		"j-3": {
-            "title": "Vehicle Show Time",
-            "time": "12:00 - 13:00",
-            "audience": "General",
-            "location": "Explanada CIA",
-            "activity": {
-                "description": "Ven a conocer e interactuar con nuestros vehículos Ford."
-            }
-        },
-		"j-4": {
             "title": "Simulación de Entrevista",
             "time": "14:00 - 15:00",
 			"audience": "General",
@@ -390,7 +381,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "description": "Esta sesión está diseñada para los ganadores de nuestra actividad tipo Shark Tank, con la intención de que pongas a prueba tus habilidades de comunicación bajo la guía de Karen, recibas feedback personalizado y de alto valor sobre tu desempeño, perfecciones tu narrativa y aprendas a destacar tu propuesta de valor en un entorno realista."
             }
         },
-		"j-5": {
+		"j-4": {
             "title": "Ford y Baja SAE",
             "time": "15:00 - 16:00",
             "audience": "General",
@@ -432,6 +423,9 @@ document.addEventListener('DOMContentLoaded', () => {
             // Rellenar el contenido del modal
 
 			activityTitleModal.textContent = data.title; // Usamos el título de la actividad principal
+            activityAudience.textContent = data.audience;
+            activityLocation.textContent = data.location;
+            activityTime.textContent = data.time;
             activityDescription.textContent = data.activity.description;
 			
             speakerName.textContent = data.speaker.name;
