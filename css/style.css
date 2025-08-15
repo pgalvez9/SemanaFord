@@ -228,6 +228,12 @@ body {
     margin-bottom: 10px;
 }
 
+.activity-info h4a {
+    color: var(--unam-gold);
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
 .speaker-info p,
 .activity-info p {
     font-size: 1em;
