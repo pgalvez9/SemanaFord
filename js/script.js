@@ -135,11 +135,11 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Sala",
             "speaker": {
                 "name": "Pedro Gálvez",
-                "bio": "Ingeniera en Sistemas y Tecnologías de la Información por la Universidad Anáhuac México, actualmente me desempeño como Artificial Intelligence Engineer. Desde el área de Business Operations colaboro con los equipos de Product Development para identificar oportunidades de mejora, mapear procesos críticos, definir indicadores clave de desempeño (KPIs) que orienten la toma de decisiones y diseñar, desplegar y mantener soluciones de IA que automaticen tareas, optimicen la eficiencia operativa y mejoren la experiencia de usuario. Apasionada por la innovación y el aprendizaje continuo, combino pensamiento estratégico, creatividad y comunicación efectiva para convertir la ciencia de datos en valor tangible.",
+                "bio": "  Con una sólida formación en ingeniería mecatrónica y una maestría en ingeniería mecánica por la UNAM, Pedro Gálvez ha consolidado una carrera exitosa en el mundo de la tecnología y la innovación. Con más de 12 años de experiencia en el desarrollo de software, ha demostrado una profunda expertise en la creación de soluciones tecnológicas avanzadas. Su trayectoria profesional ha evolucionado desde puestos técnicos hasta liderazgo, actualmente desempeñándose como Supervisor de Software Embebido en Ford",
                 "photo": "img/speaker-pedro-galvez.png"
             },
             "activity": {
-                "description": "TBD",
+                "description": "El arte de amar los lunes, SCRUM es una metodología agil, la cual nos ayuda a desarrollar proyectos cuando el panorama esta lleno de incertidumbre, cuando el equipo es nuevo o cuando no sabemos como abordar un problema. En este taller te enseñaré a desarrollar proyectos con SCRUM desde cero y la improtancia de SCRUM en el ambiente actual",
             }
         },
 		"m-3": {
@@ -473,6 +473,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
