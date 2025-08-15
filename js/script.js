@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 		},
 		"l-2": {
-            "title": "Ingenieras Mexicanas",
+            "title": "Voces de Ingenieras de Ford México en la UNAM",
             "time": "10:00 - 11:00",
 			"audience": "General",
 			"location": "Auditorio",
@@ -41,8 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/speaker-stephanie-marin.jpg"
             },
             "activity": {
-                "description": "TBD",
-				
+                "description": "¿Alguna vez te has preguntado cómo es el día a día de una ingeniera en una de las empresas automotrices más grandes del mundo? ¿Sueñas con innovar, diseñar y ser parte de la transformación de la movilidad? Te invitamos a un panel exclusivo y lleno de inspiración con cuatro destacadas ingenieras de Ford de México, y lo más importante: ¡todas ellas orgullosas exalumnas de la UNAM! Desde las líneas de producción más avanzadas hasta el desarrollo de nuevas tecnologías, nuestras panelistas compartirán sus experiencias, desafíos superados y los momentos más gratificantes de sus trayectorias profesionales, demostrando que el camino de la ingeniería egresado de la UNAM puede llevarte a las cimas de la industria global. Descubre de primera mano: Cómo es la vida de una ingeniera en la industria automotriz actual, con la perspectiva de quienes pisaron los mismos pasillos que tú. Las habilidades clave y las oportunidades de crecimiento en un sector en constante evolución. Consejos prácticos para estudiantes de ingeniería que buscan forjar su propio camino, directamente de quienes ya lo recorrieron. La visión de Ford sobre el futuro de la movilidad y el papel de la ingeniería en él. No pierdas esta oportunidad única de conectar con profesionales que están marcando la diferencia y de vislumbrar el impacto que tú puedes tener. ¡Prepárate para ser inspirado y para acelerar tu futuro profesional! ¡Te esperamos para impulsar juntos la ingeniería del mañana!",
             }
 		},
 		"l-3": {
@@ -123,7 +122,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speaker": {
                 "name": "Jocelyn Moctezuma, Gabriela Tiscareño, Fernando Barajas y Rodrigo Téllez",
                 "bio": "Jocelyn es Ingeniero en mecatrónica graduada del TEC de Monterrey Campus Estado de México, tiene un MBA con especialidad en calidad y comenzó su carrera profesional en Ford Motor Company en el 2009. Dentro de Ford ha adquirido experiencia en diferentes áreas de la compañía, comenzando en el área de manufactura en la planta de Pintura en Cuautitán Izcalli con el proyecto del Ford Fiesta, posteriormente como ingeniero de Body Interior dentro del mismo programa solucionando y mejorando problemas de diseño. Ha sido ingeniero de diseño y desarrollo para diversos programas en Ford como F-150, Bronco Sport, Maverick, etc. Jocelyn también ha adquirido gran experiencia en el área de calidad y tiene una certificación como Black Belt en la metodología Six Sigma. Actualmente es Analista de exportación asegurándose de que las regulaciones necesarias para los diferentes mercados se cumplan y en paralelo a esto es líder de la iniciativa Ford Clubs en Ford de México desarrollando el crecimiento de esta estrategia que ha sido clave para la satisfacción y bienestar de los empleados en Ford.",
-                "photo": "img/speaker-jocelyn-moctezuma.png"
+                "photo": "img/speaker-joss-moctezuma.jpg"
             },
             "activity": {
                 "description": "En esta sesión nos adentraremos en el mundo de los Ford Clubs, una iniciativa nacional diseñada para fomentar la integración, el bienestar y el espíritu de equipo entre empleados de diversas empresas a través de disciplinas deportivas, artísticas y más. Exploraremos qué son los Corporate Games y, específicamente, la experiencia de la participación de Ford en México, destacando cómo Ford ha impulsado activamente el desarrollo integral de sus colaboradores en este marco.",
@@ -203,7 +202,7 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Auditorio",
             "speaker": {
                 "name": "Carlos Melgarejo, Ivonne Bárcenas y Pablo Gómez",
-                "bio": "TBD",
+                "bio": "Carlos Melgarejo, Ingeniero en Mecatrónica egresado del Programa de Alto Rendimiento Académico (PARA) de la Facultad de Ingeniería y con Maestría en Diseño y Gestión de Sistemas por el Instituto Tecnológico de Massachusetts (MIT). Ha desempeñado diferentes puestos en el departamento de Desarrollo de Producto en Ford Motor Company y actualmente ocupa el cargo de Supervisor de Diseño de Sistemas de Distribución Eléctrica (EDS) de los vehículos Bronco Sport, Maverick, Expedition y Navigator.",
                 "photo": "img/speaker-carlos-melgarejo.jpg"
             },
             "activity": {
@@ -233,7 +232,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speaker": {
                 "name": "Estefhanie Gutiérrez",
                 "bio": "Ingeniera Mecánica con 9 años de experiencia práctica en el diseño de sistemas de exteriores e interiores y ornamentación automotriz. He colaborado en proyectos como el desarrollo de interiores para la Bronco Sport, Bronco y Mustang, combinando ingeniería con visión centrada en la experiencia del usuario. Con una maestría en Project Management por la Universidad de Barcelona y certificaciones como Scrum Master y Product Owner, reflejo de mi pasión por las metodologías ágiles, la mejora continua y la gestión de proyectos complejos y multidisciplinarios.",
-                "photo": "img/speaker-sthefhanie-gutierrez.jpg"
+                "photo": "img/speaker-estefhanie-gutierrez.jpeg"
             },
             "activity": {
                 "description": "En esta plática, exploraremos el proceso completo de desarrollo de producto de Ford: desde la definición de una idea hasta el lanzamiento en planta, pasando por el diseño y la validación. Verás ejemplos reales de proyectos en los que Ingenieros mexicanos están marcando la diferencia, contribuyendo en cada una de estas etapas, desde el diseño hasta el ensamblaje de vehículos. También hablaremos del lado humano de la ingeniería: cómo habilidades como la comunicación, el liderazgo y el trabajo en equipo potencian tu carrera profesional."
@@ -260,8 +259,8 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Auditorio",
             "speaker": {
                 "name": "Oscar Carranza, Fabián Sánchez, Karla Ramírez, Rodrigo Rodríguez, Erick Ramos, Ma. Fernanda Landeros, Brenda Ávila",
-                "bio": "Falta",
-                "photo": "img/speaker-egresados.jpg"
+                "bio": "Ingeniero Eléctrico Electrónico (egresado en 2023), con experiencia en desarrollo de software y análisis de datos y actualmente colaborando en el área de sistemas de protección eléctrica en Vehículos Híbridos y Eléctricos de Ford.",
+                "photo": "img/speaker-oscar-carranza.jpg"
             },
             "activity": {
                 "description": "Se trata de una dinámica en la que los estudiantes pueden hacer preguntas a los ingenieros que actualmente trabajan en Ford, que son egresados de la facultad de ingeniería sobre como es su día a día laboralmente, los retos que han enfrentado y las recomendaciones que les gustarían compartir con ellos para su desarrollo profesional y conocer la empresa. Registra tu asistencia en el siguiente link: https://forms.office.com/r/gz2WHDVxTe?origin=lprLink."
@@ -313,7 +312,7 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Auditorio",
             "speaker": {
                 "name": "Leonardo Trujillo y Arturo Horcasitas",
-                "bio": "",
+                "bio": "Jorge Arturo Rodríguez Horcasitas es maestro en ciencias de la computación por la UNAM, donde también se desempeña como profesor tanto a nivel diplomado como en licenciatura. En el diplomado en inteligencia artificial aplicada imparte el módulo de redes neuronales para el análisis de secuencias y a nivel licenciatura imparte la clase de aprendizaje profundo. Además de su labor académica, Jorge Arturo lidera un equipo de científicos de datos en Ford. Cuenta con siete años de experiencia en la industria, durante los cuales ha tenido la oportunidad de trabajar en diversas áreas, como visión por computadora, tratamiento del lenguaje natural, análisis de series de tiempo y análisis de datos tabulares.",
                 "photo": "img/speaker-arturo-horcasitas.jpg"
             },
             "activity": {
@@ -353,7 +352,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Shark tank presentation",
             "time": "10:00 - 11:00",
             "audience": "General",
-            "location": "TBD",
+            "location": "CIA - Sótano",
             "activity": {
                 "description": "Te invitamos a las presentaciones finales de los equipos participantes del taller de Design Thinking.  Tendremos un panel de jueces invitados que darán retroalimentación a los equipos."
             }
@@ -362,7 +361,7 @@ document.addEventListener('DOMContentLoaded', () => {
               "title": "Shark tank Awards",
             "time": "11:00 - 12:00",
             "audience": "General",
-            "location": "TBD",
+            "location": "CIA - Sótano",
             "activity": {
                 "description": "Acompáñanos a la premiación de los equipos participantes del taller de Design Thinking."
             }
@@ -370,7 +369,7 @@ document.addEventListener('DOMContentLoaded', () => {
 		"j-3": {
             "title": "Simulación de Entrevista",
             "time": "14:00 - 15:00",
-			"audience": "General",
+			"audience": "Preselección",
 			"location": "Auditorio",
             "speaker": {
                 "name": "Karen Palacios",
@@ -397,14 +396,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 "bio": "falta",
                 "photo": "img/speaker-Pablo-Guzmán.jpg",
                 "name": "Omar López",
-                "bio": "falta",
+                "bio": "Ingeniero Mecatrónico egresado de la Facultad de Ingeniería (UNAM). Experiencia en el sector automotriz, desempeñado roles en áreas como Ingeniería de Calidad, Diseño Asistido por Computadora (CAD) y Gestión de Listas de Materiales (BOM). Trayectoria en empresas automotrices como Ford Motor Company y BMW Group.",
                 "photo": "img/speaker-Omar_López.jpg",
                 "name": "Óscar Santos",
                 "bio": "falta",
                 "photo": "img/speaker-Óscar_Santos.jpg"
             },
             "activity": {
-                "description": "¡Reúnete con ex-bajas y descubre el camino del éxito en Ford de la mano de quienes lo iniciaron como tú! Ellos están listos para compartir su experiencia para ayudarte en el diseño de tu vehículo y brindar una perspectiva real sobre cómo sus estudios y experiencias como baja SAE se tradujeron en habilidades aplicables y éxito en su vida laboral. Aprovecha esta conexión única para inspirarte y aprender."
+                "description": "Una sesión de diálogo abierto que reúne a ingenieros experimentados de Ford y a estudiantes aspirantes de ingeniería del equipo de Baja SAE Puma Off-Road. Diseñada para cerrar la brecha entre el aprendizaje académico y los desafíos de ingeniería del mundo real, esta mesa redonda fomenta un intercambio de conocimientos. Los estudiantes obtendrán conocimientos prácticos sobre el desarrollo de vehículos, metodologías de resolución de problemas y trayectorias profesionales directamente de líderes de la industria. Al mismo tiempo, los ingenieros de Ford podrán interactuar con la próxima generación de innovadores, comprendiendo filosofías de diseño emergentes y fomentando el talento futuro. Esta interacción dinámica tiene como objetivo inspirar, educar y cultivar una base sólida para la futura excelencia en ingeniería automotriz."
             }
         },
 		
@@ -474,6 +473,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
