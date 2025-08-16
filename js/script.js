@@ -205,7 +205,7 @@ document.addEventListener('DOMContentLoaded', () => {
 			"audience": "General",
 			"location": "Auditorio",
             "speaker": {
-                "name": "Ing Ignacio Salas",
+                "name": "Ignacio Salas",
                 "bio": "José Ignacio Salas Cerón es ingeniero mecatrónico con más de 7 años de experiencia en la integración de gemelos digitales de sistemas de propulsión en la industria automotriz. Trabaja en Ford desde 2018. Su puesto actual es Ingeniero de Integración e Implementación de HIL/SIL en el departamento de Controles Vehiculares. Disfruta participando en situaciones desafiantes que requieren conocimientos de la teoría clásica de control para su resolución.",
 			"photo": "img/speaker-ignacio-salas.jpg"
             },
@@ -463,6 +463,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
