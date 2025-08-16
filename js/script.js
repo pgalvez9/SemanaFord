@@ -185,16 +185,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 "description": "El equipo de Ford ha diseñado un taller para llevar a una selección de alumnos a través de el modelo de Design Thinking",
             }
         },
-		/*"m-6": {
-            "title": "Vehicle Showtime",
-            "time": "12:00 - 13:00",
-			"audience": "General",
-			"location": "Explanada CIA",
-            "activity": {
-                "description": "Ven a conocer e interactuar con nuestros vehículos Ford",
-				"photo": "img/speaker-vehicle-showtime.jpg"
-            }
-        }*/,
 		"m-7": {
             "title": "Coloquio PARA - Experiencias compartidas por Ingenieros de Ford",
             "time": "13:00 - 14:00",
@@ -473,6 +463,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
