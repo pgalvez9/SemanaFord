@@ -330,11 +330,11 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Explanada CIA",
             "speaker": {
                 "name": "Santiago Aguilar, Paulo Becerril, Miguel Clemente, Salvador Honorato y Francisco Villa",
-                "bio": "TBD",
+                "bio": "Santiago Aguilar Martínez es un ingeniero mecatrónico egresado de la Universidad Nacional Autónoma de México en 2023. Inició su carrera en Ford de México como becario en la posición de Ingeniero de Integración, siendo contratado de tiempo completo en 2024. Desde Hermosillo, ha contribuido al lanzamiento de la Bronco Sport 2025/2026 y la Maverick 2026. Actualmente trabaja desde ciudad de México en los modelos del año 2029. Su experiencia previa en UNAM Motorsports, en los sistemas de Transmisión y Management, le permitió desarrollar habilidades en validación, simulación y gestión de equipos.",
                 "photo": "img/speaker-santiago-aguilar.jpg"
             },
             "activity": {
-                "description": "TBD"
+                "description": "Una sesión de diálogo abierto que reúne a ingenieros experimentados de Ford y a estudiantes de ingeniería del equipo de Fórmula SAE UNAM Motorsports. Diseñada para cerrar la brecha entre el aprendizaje académico y los desafíos de ingeniería del mundo actual en el ámbito profesional, esta mesa redonda, fomenta un intercambio de conocimientos directamente de los profesionales de la industria con la próxima generación de ingenieros y diseñadores, comprendiendo filosofías de diseño emergentes y fomentando el talento futuro. Esta interacción dinámica tiene como objetivos el inspirar, educar y cultivar una base sólida para la futura excelencia en ingeniería automotriz."
             }
         },
 			/* HORARIO JUEVES */
@@ -477,6 +477,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
