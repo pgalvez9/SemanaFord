@@ -317,7 +317,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speaker": {
                 "name": "Roberto Peña, Enrique González y Shair Mendoza",
                 "bio": "Roberto Peña es Ingeniero Mecánico y Maestro en Ingeniería Mecánica por la Universidad Nacional Autónoma de México (UNAM), con un Diplomado en Sistemas Complejos del Massachusetts Institute of Technology (MIT). Posee 15 años de sólida experiencia profesional en Ford Motor Company, donde se he especializado en el desarrollo de sistemas estructurales de carrocería metálica, así como en el diseño y liberación de sistemas de cierre (puertas laterales y traseras) y del sistema de panel de instrumentos. Su perfil se complementa con experiencia como Ingeniero de Sistemas, con un enfoque probado en modelado y optimización de funciones y diseño.",
-                "photo": "img/speaker-roberto-peña.jpg"
+                "photo": "img/speaker-roberto-peña.png"
             },
             "activity": {
                 "description": "TBD"
@@ -477,6 +477,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
