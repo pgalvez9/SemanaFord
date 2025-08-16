@@ -339,7 +339,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 			/* HORARIO JUEVES */
 		"j-1": {
-            "title": "Shark tank presentation",
+            "title": "Shark Tank",
             "time": "10:00 - 11:00",
             "audience": "General",
             "location": "CIA - Sótano",
@@ -348,7 +348,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         },
 		"j-2": {
-              "title": "Shark tank Awards",
+              "title": "Shark Tank Awards",
             "time": "11:00 - 12:00",
             "audience": "General",
             "location": "CIA - Sótano",
@@ -477,6 +477,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
