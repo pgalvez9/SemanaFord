@@ -396,6 +396,20 @@ document.addEventListener('DOMContentLoaded', () => {
                 "description": "Una sesión de diálogo abierto que reúne a ingenieros experimentados de Ford y a estudiantes aspirantes de ingeniería del equipo de Baja SAE Puma Off-Road. Diseñada para cerrar la brecha entre el aprendizaje académico y los desafíos de ingeniería del mundo real, esta mesa redonda fomenta un intercambio de conocimientos. Los estudiantes obtendrán conocimientos prácticos sobre el desarrollo de vehículos, metodologías de resolución de problemas y trayectorias profesionales directamente de líderes de la industria. Al mismo tiempo, los ingenieros de Ford podrán interactuar con la próxima generación de innovadores, comprendiendo filosofías de diseño emergentes y fomentando el talento futuro. Esta interacción dinámica tiene como objetivo inspirar, educar y cultivar una base sólida para la futura excelencia en ingeniería automotriz."
             }
         },
+		"j-5": {
+            "title": "Clausura",
+            "time": "16:30 - 16:45",
+			"audience": "General",
+			"location": "CIA - Sótano",
+            "speaker": {
+                "name": "Arian Sosa",
+                "bio": "TBD",
+                "photo": "img/speaker-arian-sosa.jpg"
+            },
+            "activity": {
+                "description": "Esta actividad dará fin a la semana UNAM 2025, acompáñanos pues habrá sorpresas y premios."
+            }
+        },
 		
 		
 		
@@ -463,6 +477,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
