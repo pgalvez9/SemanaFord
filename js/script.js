@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Inauguración / 100 años de Ingeniería en México",
             "time": "09:00 - 10:00",
 			"audience": "General",
-			"location": "Auditorio",
+			"location": "Auditorio Sotero Prieto",
             "speaker": {
                 "name": "Juan Santillán",
                 "bio": "Egresado de la Universidad Anáhuac como Ingeniero Mecánico Eléctrico con una Maestría en Planeación Estratégica y Tecnologias, Juan Santillán cuenta con 25 años de experiencia en Ford Motor Company, incluyendo 9 años en asignaciones internacionales. Su trayectoria abarca desde la ingeniería de chasis para camiones y autos de segmento familiar en EE.UU. y el desarrollo de plataformas globales en Japón (Mazda), hasta el desarrollo, pruebas y validación de vehículos compactos en Alemania. De vuelta en México, lideró lanzamientos de nuevos vehículos y, como Global Chief Engineer, dirigió el desarrollo de productos globales como Ford Bronco Sport y Maverick. Reconocido por la revista Expansión como una de las 30 promesas en México,  actualmente, como Director de Desarrollo de Producto de Ford de México, lidera un equipo de más de 3400 ingenieros, impulsando el diseño, desarrollo y validación de vehículos a nivel mundial.",
@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Voces de Ingenieras de Ford México en la UNAM",
             "time": "10:00 - 11:00",
 			"audience": "General",
-			"location": "Auditorio",
+			"location": "Auditorio Sotero Prieto",
             "speaker": {
                 "name": "Stephanie Machorro, Michelle Jaramillo, Gabriela Vargas, Grisel Felipe",
                 "bio": "Stephanie Marín es ingeniera en gestión empresarial con maestría en ingeniería industrial. Con más de una década de experiencia en áreas como recursos humanos, ventas, manufactura, estimación de costos y gestión de programas, actualmente se desempeña como Program Manager en el área de Global Engineering Services dentro de Ford, liderando proyectos estratégicos de alto impacto. Apasionada por la ingeniería y el impulso del talento femenino en STEM, combina su carrera con su vida personal como esposa y madre de una niña pequeña, inspirando a otras mujeres a construir trayectorias profesionales plenas y equilibradas.",
@@ -50,9 +50,9 @@ document.addEventListener('DOMContentLoaded', () => {
 			"audience": "Preselección",
 			"location": "CIA - Sótano",
             "speaker": {
-                "name": "Jessica Mayo. Arturo Garcia, Uriel Loza",
+                "name": "Jessica Mayo, Arturo García, Uriel Loza",
                 "bio": "",
-                "photo": "img/speaker-jessica-mayo.png"
+                "photo": "img/speaker-arturo-garcia.jpg"
             },
             "activity": {
                 "description": "El equipo de Ford ha diseñado un taller para llevar a una selección de alumnos a través de el modelo de Design Thinking",
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Design Thinking",
             "time": "11:00 - 12:00",
 			"audience": "General",
-			"location": "Auditorio",
+			"location": "Auditorio Sotero Prieto",
             "speaker": {
                 "name": "Jessica Mayo",
                 "bio": "TBD",
@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Elaboración de CV ",
             "time": "13:00 - 14:00",
 			"audience": "General",
-			"location": "Auditorio",
+			"location": "Auditorio Sotero Prieto",
             "speaker": {
                 "name": "Alexia Huerta",
                 "bio": "Profesional con formación en Diseño Industrial por la Universidad Anáhuac y una Maestría en Comunicación Digital, Redes Sociales y Marketing Online por el CEUPE. Cuenta con más de 6 años de experiencia en el desarrollo y gestión de estrategias de atracción de talento y programas enfocados en talento joven. Posee expertise en la implementación de estrategias externas orientadas a potenciar la marca empleadora. Es miembro de Ford desde agosto de 2023.",
@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Hexadrive",
             "time": "14:00 - 15:00",
 			"audience": "General",
-			"location": "Auditorio",
+			"location": "Auditorio Sotero Prieto",
             "speaker": {
                 "name": "Rafael Hernández",
                 "bio": "Rafael Hernández Cervantes es un ingeniero mecatrónico con una formación académica que incluye un MBA y estudios de maestría en Tecnologías de cómuputo y doctorado en proceso en Ciencias de la Computación. Con 12 años de trayectoria en Ford, lidera proyectos en los laboratorios de pruebas vehiculares, buscando generar ahorros a la compañía y mejorar la eficiencia operativa a través de la innovación proactiva.",
@@ -118,7 +118,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Ford Clubs - Corporate Games",
             "time": "09:00 - 10:00",
 			"audience": "General",
-			"location": "Auditorio",
+			"location": "Auditorio Sotero Prieto",
             "speaker": {
                 "name": "Jocelyn Moctezuma, Gabriela Tiscareño, Fernando Barajas y Rodrigo Téllez",
                 "bio": "Jocelyn es Ingeniero en mecatrónica graduada del TEC de Monterrey Campus Estado de México, tiene un MBA con especialidad en calidad y comenzó su carrera profesional en Ford Motor Company en el 2009. Dentro de Ford ha adquirido experiencia en diferentes áreas de la compañía, comenzando en el área de manufactura en la planta de Pintura en Cuautitán Izcalli con el proyecto del Ford Fiesta, posteriormente como ingeniero de Body Interior dentro del mismo programa solucionando y mejorando problemas de diseño. Ha sido ingeniero de diseño y desarrollo para diversos programas en Ford como F-150, Bronco Sport, Maverick, etc. Jocelyn también ha adquirido gran experiencia en el área de calidad y tiene una certificación como Black Belt en la metodología Six Sigma. Actualmente es Analista de exportación asegurándose de que las regulaciones necesarias para los diferentes mercados se cumplan y en paralelo a esto es líder de la iniciativa Ford Clubs en Ford de México desarrollando el crecimiento de esta estrategia que ha sido clave para la satisfacción y bienestar de los empleados en Ford.",
@@ -132,7 +132,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "SCRUM",
             "time": "09:00 - 10:00",
 			"audience": "Preselección",
-			"location": "Sala",
+			"location": "Lobby CIA",
             "speaker": {
                 "name": "Pedro Gálvez",
                 "bio": "  Con una sólida formación en ingeniería mecatrónica y una maestría en ingeniería mecánica por la UNAM, Pedro Gálvez ha consolidado una carrera exitosa en el mundo de la tecnología y la innovación. Con más de 12 años de experiencia en el desarrollo de software, ha demostrado una profunda expertise en la creación de soluciones tecnológicas avanzadas. Su trayectoria profesional ha evolucionado desde puestos técnicos hasta liderazgo, actualmente desempeñándose como Supervisor de Software Embebido en Ford",
@@ -146,7 +146,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Inteligencia Artificial en los Vehiculos",
             "time": "10:00 - 11:00",
 			"audience": "General",
-			"location": "Auditorio",
+			"location": "Auditorio Sotero Prieto",
             "speaker": {
                 "name": "Julieta Rojas & Marco Ramirez",
                 "bio": "Ingeniera en Sistemas y Tecnologías de la Información por la Universidad Anáhuac México, actualmente me desempeño como Artificial Intelligence Engineer. Desde el área de Business Operations colaboro con los equipos de Product Development para identificar oportunidades de mejora, mapear procesos críticos, definir indicadores clave de desempeño (KPIs) que orienten la toma de decisiones y diseñar, desplegar y mantener soluciones de IA que automaticen tareas, optimicen la eficiencia operativa y mejoren la experiencia de usuario. Apasionada por la innovación y el aprendizaje continuo, combino pensamiento estratégico, creatividad y comunicación efectiva para convertir la ciencia de datos en valor tangible.",
@@ -161,7 +161,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "De la Facultad al Exito",
             "time": "11:00 - 12:00",
 			"audience": "General",
-			"location": "Auditorio",
+			"location": "Auditorio Sotero Prieto",
             "speaker": {
                 "name": "Francisco Lugo",
                 "bio": "Francisco Armando Lugo Mayorga es un destacado Ingeniero Mecatrónico, egresado de la Facultad de Ingeniería de la Universidad Nacional Autónoma de México (UNAM). Con una sólida trayectoria profesional, Francisco cuenta con más de 13 años de experiencia en la industria automotriz, específicamente en Ford Motor Company, donde ha desempeñado diversas funciones en áreas clave de ingeniería. Durante su carrera, ha demostrado una notable capacidad de liderazgo y gestión, lo que lo llevó a ocupar el cargo de Supervisor de Ingeniería en Liberaciones de Software a nivel mundial durante 3 años, cargo que sigue ocupando, aportando significativamente al desarrollo y la implementación de soluciones tecnológicas innovadoras. Además, Francisco ha complementado su formación técnica con un diplomado en Project Management, lo que le ha permitido dirigir proyectos complejos con eficiencia y eficacia, destacándose por su habilidad para coordinar equipos multidisciplinarios y asegurar el éxito en la entrega de resultados.",
@@ -177,9 +177,9 @@ document.addEventListener('DOMContentLoaded', () => {
 			"audience": "Preselección",
 			"location": "CIA - Sótano",
             "speaker": {
-                "name": "Jessica Mayo. Arturo Garcia, Uriel Loza",
+                "name": "Jessica Mayo, Arturo García, Uriel Loza",
                 "bio": "",
-                "photo": "img/speaker-jessica-mayo.png"
+                "photo": "img/speaker-arturo-garcia.jpg"
             },
             "activity": {
                 "description": "El equipo de Ford ha diseñado un taller para llevar a una selección de alumnos a través de el modelo de Design Thinking",
@@ -189,7 +189,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Coloquio PARA - Experiencias compartidas por Ingenieros de Ford",
             "time": "13:00 - 14:00",
 			"audience": "General y Agrupaciones",
-			"location": "Auditorio",
+			"location": "Auditorio Sotero Prieto",
             "speaker": {
                 "name": "Carlos Melgarejo, Ivonne Bárcenas y Pablo Gómez",
                 "bio": "Carlos Melgarejo, Ingeniero en Mecatrónica egresado del Programa de Alto Rendimiento Académico (PARA) de la Facultad de Ingeniería y con Maestría en Diseño y Gestión de Sistemas por el Instituto Tecnológico de Massachusetts (MIT). Ha desempeñado diferentes puestos en el departamento de Desarrollo de Producto en Ford Motor Company y actualmente ocupa el cargo de Supervisor de Diseño de Sistemas de Distribución Eléctrica (EDS) de los vehículos Bronco Sport, Maverick, Expedition y Navigator.",
@@ -203,7 +203,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Gemelos Digitales: La actualidad del desarrollo de controladores",
             "time": "14:00 - 15:00",
 			"audience": "General",
-			"location": "Auditorio",
+			"location": "Auditorio Sotero Prieto",
             "speaker": {
                 "name": "Ignacio Salas",
                 "bio": "José Ignacio Salas Cerón es ingeniero mecatrónico con más de 7 años de experiencia en la integración de gemelos digitales de sistemas de propulsión en la industria automotriz. Trabaja en Ford desde 2018. Su puesto actual es Ingeniero de Integración e Implementación de HIL/SIL en el departamento de Controles Vehiculares. Disfruta participando en situaciones desafiantes que requieren conocimientos de la teoría clásica de control para su resolución.",
@@ -218,7 +218,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "¿Cómo se diseña un coche Ford?",
             "time": "09:00 - 10:00",
 			"audience": "General",
-			"location": "Auditorio",
+			"location": "Auditorio Sotero Prieto",
             "speaker": {
                 "name": "Estefhanie Gutiérrez",
                 "bio": "Ingeniera Mecánica con 9 años de experiencia práctica en el diseño de sistemas de exteriores e interiores y ornamentación automotriz. He colaborado en proyectos como el desarrollo de interiores para la Bronco Sport, Bronco y Mustang, combinando ingeniería con visión centrada en la experiencia del usuario. Con una maestría en Project Management por la Universidad de Barcelona y certificaciones como Scrum Master y Product Owner, reflejo de mi pasión por las metodologías ágiles, la mejora continua y la gestión de proyectos complejos y multidisciplinarios.",
@@ -232,7 +232,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Innovación en el Vehículo",
             "time": "10:00 - 11:00",
 			"audience": "General",
-			"location": "Auditorio",
+			"location": "Auditorio Sotero Prieto",
             "activity": {
                 "description": " aún no la suben "
             },
@@ -246,7 +246,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Egresados en Ford",
             "time": "11:00 - 12:00",
 			"audience": "General",
-			"location": "Auditorio",
+			"location": "Explanada CIA",
             "speaker": {
                 "name": "Oscar Carranza, Fabián Sánchez, Karla Ramírez, Rodrigo Rodríguez, Erick Ramos, Ma. Fernanda Landeros, Brenda Ávila",
                 "bio": "Ingeniero Eléctrico Electrónico (egresado en 2023), con experiencia en desarrollo de software y análisis de datos y actualmente colaborando en el área de sistemas de protección eléctrica en Vehículos Híbridos y Eléctricos de Ford.",
@@ -263,9 +263,9 @@ document.addEventListener('DOMContentLoaded', () => {
 			"audience": "Preselección",
 			"location": "CIA - Sótano",
             "speaker": {
-                "name": "Jessica Mayo. Arturo Garcia, Uriel Loza",
+                "name": "Jessica Mayo, Arturo García, Uriel Loza",
                 "bio": "",
-                "photo": "img/speaker-jessica-mayo.png"
+                "photo": "img/speaker-arturo-garcia.jpg"
             },
             "activity": {
                 "description": "El equipo de Ford ha diseñado un taller para llevar a una selección de alumnos a través de el modelo de Design Thinking",
@@ -285,7 +285,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "¿Cómo preparar tu entrevista?",
             "time": "13:00 - 14:00",
 			"audience": "General",
-			"location": "Auditorio",
+			"location": "Auditorio Sotero Prieto",
             "speaker": {
                 "name": "Karen Vázquez",
                 "bio": "Psicóloga organizacional con ocho años de experiencia en Recursos Humanos, especializada en atracción y desarrollo del talento. He tenido la oportunidad de liderar proyectos clave en empresas globales del sector de Telecomunicaciones y Automotriz, donde he contribuido al fortalecimiento de la cultura organizacional y al crecimiento del talento.",
@@ -299,7 +299,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "¿Cómo construir sistemas basados en agentes?",
             "time": "14:00 - 15:00",
 			"audience": "General",
-			"location": "Auditorio",
+			"location": "Auditorio Sotero Prieto",
             "speaker": {
                 "name": "Leonardo Trujillo y Arturo Horcasitas",
                 "bio": "Jorge Arturo Rodríguez Horcasitas es maestro en ciencias de la computación por la UNAM, donde también se desempeña como profesor tanto a nivel diplomado como en licenciatura. En el diplomado en inteligencia artificial aplicada imparte el módulo de redes neuronales para el análisis de secuencias y a nivel licenciatura imparte la clase de aprendizaje profundo. Además de su labor académica, Jorge Arturo lidera un equipo de científicos de datos en Ford. Cuenta con siete años de experiencia en la industria, durante los cuales ha tenido la oportunidad de trabajar en diversas áreas, como visión por computadora, tratamiento del lenguaje natural, análisis de series de tiempo y análisis de datos tabulares.",
@@ -313,7 +313,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Experiencia de trabajo en equipo en Ford",
             "time": "14:00 - 15:00",
 			"audience": "Preselección",
-			"location": "Sala",
+			"location": "Sala por definir",
             "speaker": {
                 "name": "Roberto Peña y Enrique González",
                 "bio": "TBD",
@@ -327,7 +327,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "De 'Fórmula SAE' a la ingeniería automotriz, experiencias compartidas.",
             "time": "15:00 - 16:30",
 			"audience": "General y Agrupaciones",
-			"location": "Auditorio",
+			"location": "Explanada CIA",
             "speaker": {
                 "name": "Santiago Aguilar, Paulo Becerril, Miguel Clemente, Salvador Honorato y Francisco Villa",
                 "bio": "TBD",
@@ -360,7 +360,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Simulación de Entrevista",
             "time": "14:00 - 15:00",
 			"audience": "Preselección",
-			"location": "Auditorio",
+			"location": "CIA - Sótano",
             "speaker": {
                 "name": "Karen Palacios",
                 "bio": "Más de 12 años de experiencia en Adquisición de Talento, especializada en perfiles de TI para empresas multinacionales en Norteamérica y Latinoamérica. Proceso de principio a fin, actuando como socio y consultor, alta demanda, liderando proyectos para BPO, RPO partnering y firmas de consultoría",
@@ -374,7 +374,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Ford y Baja SAE",
             "time": "15:00 - 16:00",
             "audience": "General",
-            "location": "TBD",
+            "location": "Por Definir",
             "speaker": {
                 "name": "Antonio Gómez",
                 "bio": "falta",
@@ -463,6 +463,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
