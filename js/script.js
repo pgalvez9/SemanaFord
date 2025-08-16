@@ -303,7 +303,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speaker": {
                 "name": "Leonardo Trujillo y Arturo Horcasitas",
                 "bio": "Jorge Arturo Rodríguez Horcasitas es maestro en ciencias de la computación por la UNAM, donde también se desempeña como profesor tanto a nivel diplomado como en licenciatura. En el diplomado en inteligencia artificial aplicada imparte el módulo de redes neuronales para el análisis de secuencias y a nivel licenciatura imparte la clase de aprendizaje profundo. Además de su labor académica, Jorge Arturo lidera un equipo de científicos de datos en Ford. Cuenta con siete años de experiencia en la industria, durante los cuales ha tenido la oportunidad de trabajar en diversas áreas, como visión por computadora, tratamiento del lenguaje natural, análisis de series de tiempo y análisis de datos tabulares.",
-                "photo": "img/speaker-arturo-horcasitas.jpg"
+                "photo": "img/speaker-arturo-horcasitas.png"
             },
             "activity": {
                 "description": "TBD"
@@ -463,6 +463,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
