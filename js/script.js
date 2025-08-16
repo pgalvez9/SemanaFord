@@ -389,8 +389,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 "bio": "Ingeniero Mecatrónico egresado de la Facultad de Ingeniería (UNAM). Experiencia en el sector automotriz, desempeñado roles en áreas como Ingeniería de Calidad, Diseño Asistido por Computadora (CAD) y Gestión de Listas de Materiales (BOM). Trayectoria en empresas automotrices como Ford Motor Company y BMW Group.",
                 "photo": "img/speaker-Omar_López.jpg",
                 "name": "Óscar Santos",
-                "bio": "falta",
-                "photo": "img/speaker-Óscar_Santos.jpg"
+                "bio": "Oscar Daniel Santos Galán, Ingeniero de Integración de Hardware de Vehículos en Ford, con siete años de experiencia en la industria automotriz, se especializa en el lanzamiento de nuevos modelos y la gestión de la construcción de prototipos. Participa directamente en desarrollar y trabajar continuamente en la construcción de prototipos para la línea Ford Super Duty, con el objetivo de asegurar una integración de hardware óptima desde el concepto hasta la producción.",
+                "photo": "img/speaker-oscar-Santos.jpg"
             },
             "activity": {
                 "description": "Una sesión de diálogo abierto que reúne a ingenieros experimentados de Ford y a estudiantes aspirantes de ingeniería del equipo de Baja SAE Puma Off-Road. Diseñada para cerrar la brecha entre el aprendizaje académico y los desafíos de ingeniería del mundo real, esta mesa redonda fomenta un intercambio de conocimientos. Los estudiantes obtendrán conocimientos prácticos sobre el desarrollo de vehículos, metodologías de resolución de problemas y trayectorias profesionales directamente de líderes de la industria. Al mismo tiempo, los ingenieros de Ford podrán interactuar con la próxima generación de innovadores, comprendiendo filosofías de diseño emergentes y fomentando el talento futuro. Esta interacción dinámica tiene como objetivo inspirar, educar y cultivar una base sólida para la futura excelencia en ingeniería automotriz."
@@ -463,6 +463,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
