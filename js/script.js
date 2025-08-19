@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Arturo García",
-                "bio": "M. Ing. electromecánico Arturo García Alatorre. Ingeniero de pruebas y Manager de Proyectos en Ford",
+                "bio": "Arturo García es Maestro en Ingeniería Electromecánico y actualmente tiene el puesto de Ingeniero de pruebas y Manager de Proyectos en Ford",
                 "photo": "img/speaker-arturo-garcia.jpg"
                 },
 				 {
@@ -83,12 +83,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				 {
                 "name": "Uriel Loza",
-                "bio": "M. Ing. Aeronáutico. Ingeniero de CAE Vehicle Durability en Ford",
+                "bio": "Uriel Loza es Maestro en Ingenería Aeronáutica y actualmente tiene el puesto de Ingeniero de CAE Vehicle Durability en Ford",
                 "photo": "img/speaker-uriel-loza.png"
                 }
             ],
             "activity": {
-                "description": "Design Thinking, es una metodología clave para el desarrollo de producto y de soluciones centradas en el usuario, será impartido por ingenieros expertos de Ford ¿Qué aprenderás en este taller? Fundamentos del Design Thinking, resolver desafíos reales de productos de Ford, networking con ingenieros de Ford. Esta es una oportunidad única para aplicar tus conocimientos, expandir tu red profesional y obtener una perspectiva sobre la cultura de innovación en una de las empresas líderes a nivel mundial.",
+                "description": "Design Thinking, es un modelo clave para el desarrollo de producto y de soluciones centradas en el usuario, será impartido por ingenieros expertos de Ford ¿Qué aprenderás en este taller? Fundamentos del Design Thinking, resolver desafíos reales de productos de Ford, networking con ingenieros de Ford. Esta es una oportunidad única para aplicar tus conocimientos, expandir tu red profesional y obtener una perspectiva sobre la cultura de innovación en una de las empresas líderes a nivel mundial.",
 				
             }
 		},
@@ -105,8 +105,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             ],
             "activity": {
-                "description": "TBD",
-				
+                "description": "Design Thinking es un modelo clave para el desarrollo de producto y de soluciones centradas en el usuario. Nos ayuda a comprender y diseñar para las necesidades de las personas mejor que nadie. Si bien se le conoce con diversos nombres, el Design Thinking es un enfoque creativo de resolución de problemas que ayuda a Ford a desarrollar resultados holísticos centrados en el ser humano. ",	
             }
 		},
 		"l-5": {
@@ -245,7 +244,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                  {
                 "name": "Arturo García",
-                "bio": "M. Ing. electromecánico Arturo García Alatorre. Ingeniero de pruebas y Manager de Proyectos en Ford",
+                "bio": "Arturo García es Maestro en Ingeniería Electromecánico y actualmente tiene el puesto de Ingeniero de pruebas y Manager de Proyectos en Ford",
                 "photo": "img/speaker-arturo-garcia.jpg"
                 },
 				 {
@@ -255,7 +254,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				 {
                 "name": "Uriel Loza",
-                "bio": "M. Ing. Aeronáutico. Ingeniero de CAE Vehicle Durability en Ford",
+                "bio": "Uriel Loza es Maestro en Ingenería Aeronáutica y actualmente tiene el puesto de Ingeniero de CAE Vehicle Durability en Ford",
                 "photo": "img/speaker-uriel-loza.png"
                 }
             ],
@@ -399,7 +398,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                  {
                 "name": "Arturo García",
-                "bio": "M. Ing. electromecánico Arturo García Alatorre. Ingeniero de pruebas y Manager de Proyectos en Ford",
+                "bio": "Arturo García es Maestro en Ingeniería Electromecánico y actualmente tiene el puesto de Ingeniero de pruebas y Manager de Proyectos en Ford",
                 "photo": "img/speaker-arturo-garcia.jpg"
                 },
 				 {
@@ -409,7 +408,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				 {
                 "name": "Uriel Loza",
-                "bio": "M. Ing. Aeronáutico. Ingeniero de CAE Vehicle Durability en Ford",
+                "bio": "Uriel Loza es Maestro en Ingenería Aeronáutica y actualmente tiene el puesto de Ingeniero de CAE Vehicle Durability en Ford",
                 "photo": "img/speaker-uriel-loza.png"
                 }
             ],
@@ -723,6 +722,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
