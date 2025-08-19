@@ -416,18 +416,18 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Antonio Gómez",
-                "bio": "falta",
+                "bio": "Antonio Gómez Ingeniero con formación de posgrado de la Facultad de Ingeniería. Cuenta con una sólida trayectoria en el área de Diseño y CAE, Su trayectoria profesional incluye la participación en proyectos de investigación nacionales e internacionales, así como experiencia en las industrias aeronáutica y automotriz. Actualmente se desempeña como Subject Matter Expert de Amortiguadores en Ford.",
                 "photo": "img/speaker-antonio-gomez.jpg"
                 },
                 {
                 "name": "Alan González",
-                "bio": "falta",
+                "bio": "Alan González se incorporó a Ford en 2017 y comenzó a trabajar como Trainee de Craftsmanship. Cinco meses después, comenzó su carrera en Ford como ingeniero de CAD, con experiencia en IP/Consola, Hard Trim y Seats, donde tuvo una trayectoria de 5 años. Desde 2022 a la fecha, se desempeña como ingeniero de Feasibility para Hard Trim en el departamento de Excellence Appearance Process. Desarrolla análisis de Feasibility para las superficies de la clase A (moldeo de la pieza, empaquetado de bolsas de aire, cinturones de seguridad, módulos electricos, arneses, regulaciones y normatividad por región) asegurando que el diseño de las piezas plásticas esté listo para ser manufacturadas y posteriormente ensambladas",
                 "photo": "img/speaker-alan-gonzalez.jpg"
                 },
                 {
-                "name": "Pablo Guzmán",
-                "bio": "falta",
-                "photo": "img/speaker-pablo-guzman.jpg"
+                "name": "Ulises Guzmán",
+                "bio": "Ulises Guzmán es un Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM. Cuento con experiencia en el sector automotriz, habiéndose desempeñado en roles clave dentro de Ford Motor Company, específicamente en las áreas de Ingeniería de Calidad y Business Solutions.",
+                "photo": "img/speaker-ulises-guzman.jpg"
                 },
                 {
                 "name": "Omar López",
@@ -579,6 +579,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
