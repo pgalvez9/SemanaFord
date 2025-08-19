@@ -113,9 +113,14 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "12:00 - 13:00",
 			"audience": "General",
 			"location": "Explanada CIA",
+			"speakers": [
+				{
+					"photo":"img/speaker-vehicle-showtime.jpg"
+				}
+				]
             "activity": {
                 "description": "Ven a conocer e interactuar con nuestros vehículos Ford",
-				"photo": "img/speaker-vehicle-showtime.jpg"
+				
             }
 		},
 		"l-6": {
@@ -522,8 +527,14 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "10:00 - 11:00",
             "audience": "General",
             "location": "CIA - Sótano",
+			"speakers": [
+				{
+				"photo":"img/speaker-shark-tank.jpeg"
+				}
+				]
             "activity": {
                 "description": "Te invitamos a las presentaciones finales de los equipos participantes del taller de Design Thinking.  Tendremos un panel de jueces invitados que darán retroalimentación a los equipos."
+				
             }
         },
 		"j-2": {
@@ -722,6 +733,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
