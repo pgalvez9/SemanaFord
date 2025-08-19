@@ -547,7 +547,8 @@ document.addEventListener('DOMContentLoaded', () => {
 				}
 				],
             "activity": {
-                "description": "Acompáñanos a la premiación de los equipos participantes del taller de Design Thinking."
+                "description": "Acompáñanos a la premiación de los equipos participantes del taller de Design Thinking.",
+				"photo":"img/speaker-shark-tank.jpeg"
             }
         },
 		"j-3": {
@@ -737,6 +738,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
