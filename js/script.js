@@ -147,7 +147,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Rafael Hernández",
-                "bio": "Rafael Hernández Cervantes es un ingeniero mecatrónico con una formación académica que incluye un MBA y estudios de maestría en Tecnologías de cómuputo y doctorado en proceso en Ciencias de la Computación. Con 12 años de trayectoria en Ford, lidera proyectos en los laboratorios de pruebas vehiculares, buscando generar ahorros a la compañía y mejorar la eficiencia operativa a través de la innovación proactiva.",
+                "bio": "Rafael Hernández Cervantes es un Ingeniero Mecatrónico con una formación académica que incluye un MBA y estudios de maestría en Tecnologías de cómuputo y doctorado en proceso en Ciencias de la Computación. Con 12 años de trayectoria en Ford, lidera proyectos en los laboratorios de pruebas vehiculares, buscando generar ahorros a la compañía y mejorar la eficiencia operativa a través de la innovación proactiva.",
                 "photo": "img/speaker-rafael-hernandez.jpg"
                 }
             ],
@@ -164,7 +164,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Jocelyn Moctezuma",
-                "bio": "Jocelyn es Ingeniero en mecatrónica graduada del TEC de Monterrey Campus Estado de México, tiene un MBA con especialidad en calidad y comenzó su carrera profesional en Ford Motor Company en el 2009. Dentro de Ford ha adquirido experiencia en diferentes áreas de la compañía, comenzando en el área de manufactura en la planta de Pintura en Cuautitán Izcalli con el proyecto del Ford Fiesta, posteriormente como ingeniero de Body Interior dentro del mismo programa solucionando y mejorando problemas de diseño. Ha sido ingeniero de diseño y desarrollo para diversos programas en Ford como F-150, Bronco Sport, Maverick, etc. Jocelyn también ha adquirido gran experiencia en el área de calidad y tiene una certificación como Black Belt en la metodología Six Sigma. Actualmente es Analista de exportación asegurándose de que las regulaciones necesarias para los diferentes mercados se cumplan y en paralelo a esto es líder de la iniciativa Ford Clubs en Ford de México desarrollando el crecimiento de esta estrategia que ha sido clave para la satisfacción y bienestar de los empleados en Ford.",
+                "bio": "Jocelyn es Ingeniero en Mecatrónica graduada del Tec de Monterrey Campus Estado de México, tiene un MBA con especialidad en calidad y comenzó su carrera profesional en Ford Motor Company en el 2009. Dentro de Ford ha adquirido experiencia en diferentes áreas de la compañía, comenzando en el área de manufactura en la planta de Pintura en Cuautitán Izcalli con el proyecto del Ford Fiesta, posteriormente como ingeniero de Body Interior dentro del mismo programa solucionando y mejorando problemas de diseño. Ha sido ingeniero de diseño y desarrollo para diversos programas en Ford como F-150, Bronco Sport, Maverick, etc. Jocelyn también ha adquirido gran experiencia en el área de calidad y tiene una certificación como Black Belt en la metodología Six Sigma. Actualmente es Analista de exportación asegurándose de que las regulaciones necesarias para los diferentes mercados se cumplan y en paralelo a esto es líder de la iniciativa Ford Clubs en Ford de México desarrollando el crecimiento de esta estrategia que ha sido clave para la satisfacción y bienestar de los empleados en Ford.",
                 "photo": "img/speaker-joss-moctezuma.jpg"
                 },
 				{
@@ -195,7 +195,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Pedro Gálvez",
-                "bio": "  Con una sólida formación en ingeniería mecatrónica y una maestría en ingeniería mecánica por la UNAM, Pedro Gálvez ha consolidado una carrera exitosa en el mundo de la tecnología y la innovación. Con más de 12 años de experiencia en el desarrollo de software, ha demostrado una profunda expertise en la creación de soluciones tecnológicas avanzadas. Su trayectoria profesional ha evolucionado desde puestos técnicos hasta liderazgo, actualmente desempeñándose como Supervisor de Software Embebido en Ford",
+                "bio": "  Con una sólida formación en Ingeniería Mecatrónica y una maestría en Ingeniería Mecánica por la UNAM, Pedro Gálvez ha consolidado una carrera exitosa en el mundo de la tecnología y la innovación. Con más de 12 años de experiencia en el desarrollo de software, ha demostrado una profunda expertise en la creación de soluciones tecnológicas avanzadas. Su trayectoria profesional ha evolucionado desde puestos técnicos hasta liderazgo, actualmente desempeñándose como Supervisor de Software Embebido en Ford",
                 "photo": "img/speaker-pedro-galvez.png"
                 }
             ],
@@ -279,12 +279,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				{
                 "name": "Ivonne Bárcenas",
-                "bio": "Ivonne Bárcenas, es ingeniera CAE especializada en Dinámica de Multicuerpos para el sistema de suspensión en los vehículos de Ford. Con casi nueve años en la compañía, empezó su carrera formando parte del primer programa Ford College Graduates, experiencia que amplió su perfil hacia áreas como Design and Release y Program Management. Actualmente desarrolla modelos para proveer cargas de camino mediante simulaciones de pistas de pruebas virtuales para los componentes de la suspensión. Su impulso por seguir aprendiendo la ha llevado a adquirir conocimientos variados en el área de simulación, desarrollando habilidades para el análisis de elementos finitos, análisis de fatiga y correlación de modelos con pruebas físicas.",
+                "bio": "Ivonne Bárcenas, es Ingeniera CAE especializada en Dinámica de Multicuerpos para el sistema de suspensión en los vehículos de Ford. Con casi nueve años en la compañía, empezó su carrera formando parte del primer programa Ford College Graduates, experiencia que amplió su perfil hacia áreas como Design and Release y Program Management. Actualmente desarrolla modelos para proveer cargas de camino mediante simulaciones de pistas de pruebas virtuales para los componentes de la suspensión. Su impulso por seguir aprendiendo la ha llevado a adquirir conocimientos variados en el área de simulación, desarrollando habilidades para el análisis de elementos finitos, análisis de fatiga y correlación de modelos con pruebas físicas.",
                 "photo": "img/speaker-ivonne-barcenas.jpg"
                 },
 				{
                 "name": "Pablo Gómez",
-                "bio": "Ingeniero industrial e ingeniero mecánico egresado de la facultad de ingeniería de la UNAM, fue miembro del Programa de Alto Rendimiento Académico (PARA), participó en el proyecto Fórmula SAE (temporadas 2012 y 2013), e hizo un semestre de intercambio en la NTNU en Trondheim, Noruega. Cuenta con 10 años de experiencia desempeñando diferentes puestos en el departamento de Desarrollo de Producto en Ford Motor Company en el área de Underbody en los equipos de Reducción de Costos, Mejoras de Calidad, Prevención de Modos de Fallas y actualmente ocupa el cargo de Ingeniero de Integración de Sistemas en los vehículos Expedition y Navigator.",
+                "bio": "Ingeniero Industrial e Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM, fue miembro del Programa de Alto Rendimiento Académico (PARA), participó en el proyecto Fórmula SAE (temporadas 2012 y 2013), e hizo un semestre de intercambio en la NTNU en Trondheim, Noruega. Cuenta con 10 años de experiencia desempeñando diferentes puestos en el departamento de Desarrollo de Producto en Ford Motor Company en el área de Underbody en los equipos de Reducción de Costos, Mejoras de Calidad, Prevención de Modos de Fallas y actualmente ocupa el cargo de Ingeniero de Integración de Sistemas en los vehículos Expedition y Navigator.",
                 "photo": "img/speaker-pablo-gomez.jpg"
                 }
             ],
@@ -300,7 +300,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Ignacio Salas",
-                "bio": "José Ignacio Salas Cerón es ingeniero mecatrónico con más de 7 años de experiencia en la integración de gemelos digitales de sistemas de propulsión en la industria automotriz. Trabaja en Ford desde 2018. Su puesto actual es Ingeniero de Integración e Implementación de HIL/SIL en el departamento de Controles Vehiculares. Disfruta participando en situaciones desafiantes que requieren conocimientos de la teoría clásica de control para su resolución.",
+                "bio": "José Ignacio Salas Cerón es Ingeniero Mecatrónico con más de 7 años de experiencia en la integración de gemelos digitales de sistemas de propulsión en la industria automotriz. Trabaja en Ford desde 2018. Su puesto actual es Ingeniero de Integración e Implementación de HIL/SIL en el departamento de Controles Vehiculares. Disfruta participando en situaciones desafiantes que requieren conocimientos de la teoría clásica de control para su resolución.",
                 "photo": "img/speaker-ignacio-salas.jpg"
                 }
             ],
@@ -364,7 +364,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				{
                 "name": "Karla Ramírez",
-                "bio": "Nací un 27 de septiembre del año 2000, en el Estado de México .Cursé la preparatoria en la ENP 2, posteriormente hice la licenciatura en Ingeniería mecánica (generación 2020). Pertenecí BAJA SAE en el sistema de Masas No suspendidas (2022-2024). En mi penúltimo semestre de la carrera hice movilidad internacional a Japón en ⼤阪⼤学 en el periodo otoño-invierno. Entré a Ford como CHAMP en BOM en octubre de 2024 y pasé a ser tiempo completo en marzo 2025",
+                "bio": "Nací un 27 de septiembre del año 2000, en el Estado de México. Cursé la preparatoria en la ENP 2, posteriormente hice la licenciatura en Ingeniería Mecánica (generación 2020). Pertenecí BAJA SAE en el sistema de Masas No suspendidas (2022-2024). En mi penúltimo semestre de la carrera hice movilidad internacional a Japón en ⼤阪⼤学 en el periodo otoño-invierno. Entré a Ford como CHAMP en BOM en octubre de 2024 y pasé a ser tiempo completo en marzo 2025",
                 "photo": "img/speaker-karla-ramirez.jpg"
                 },
 				{
@@ -374,7 +374,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				{
                 "name": "Erick Ramos",
-                "bio": "Egresado de mecatrónica en 2016, ingreso a Ford en 2016 con rotación en distintas áreas: Ingeniero del diseño de producto: Programa de rotaciones FCG (2016-2020), Ingeniero de diseño y liberación del sistema térmico del tren motriz, Ingeniero de Calibración, Analista de Gestión de Programasd) Ingeniero de diseño y liberación del sistema térmico de la Batería de Alto Voltaje, Ingeniero de la batería de Alto Voltaje (2020-2022) e Ingeniero de Manufactura y Líder de Lanzamiento de la Batería de Alto Voltaje",
+                "bio": "Egresado de Mecatrónica en 2016, ingreso a Ford en 2016 con rotación en distintas áreas: Ingeniero del diseño de producto: Programa de rotaciones FCG (2016-2020), Ingeniero de diseño y liberación del sistema térmico del tren motriz, Ingeniero de Calibración, Analista de Gestión de Programasd) Ingeniero de diseño y liberación del sistema térmico de la Batería de Alto Voltaje, Ingeniero de la batería de Alto Voltaje (2020-2022) e Ingeniero de Manufactura y Líder de Lanzamiento de la Batería de Alto Voltaje",
                 "photo": "img/speaker-erick-ramos.jpg"
                 },
 				{
@@ -429,7 +429,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Karen Vázquez",
-                "bio": "Psicóloga organizacional con ocho años de experiencia en Recursos Humanos, especializada en atracción y desarrollo del talento. He tenido la oportunidad de liderar proyectos clave en empresas globales del sector de Telecomunicaciones y Automotriz, donde he contribuido al fortalecimiento de la cultura organizacional y al crecimiento del talento.",
+                "bio": "Psicóloga Organizacional con ocho años de experiencia en Recursos Humanos, especializada en atracción y desarrollo del talento. He tenido la oportunidad de liderar proyectos clave en empresas globales del sector de Telecomunicaciones y Automotriz, donde he contribuido al fortalecimiento de la cultura organizacional y al crecimiento del talento.",
                 "photo": "img/speaker-karen-vazquez.jpg"
                 }
             ],
@@ -445,7 +445,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Arturo Horcasitas",
-                "bio": "Jorge Arturo Rodríguez Horcasitas es maestro en ciencias de la computación por la UNAM, donde también se desempeña como profesor tanto a nivel diplomado como en licenciatura. En el diplomado en inteligencia artificial aplicada imparte el módulo de redes neuronales para el análisis de secuencias y a nivel licenciatura imparte la clase de aprendizaje profundo. Además de su labor académica, Jorge Arturo lidera un equipo de científicos de datos en Ford. Cuenta con siete años de experiencia en la industria, durante los cuales ha tenido la oportunidad de trabajar en diversas áreas, como visión por computadora, tratamiento del lenguaje natural, análisis de series de tiempo y análisis de datos tabulares.",
+                "bio": "Jorge Arturo Rodríguez Horcasitas es Maestro en Ciencias de la Computación por la UNAM, donde también se desempeña como profesor tanto a nivel diplomado como en licenciatura. En el diplomado en inteligencia artificial aplicada imparte el módulo de redes neuronales para el análisis de secuencias y a nivel licenciatura imparte la clase de aprendizaje profundo. Además de su labor académica, Jorge Arturo lidera un equipo de científicos de datos en Ford. Cuenta con siete años de experiencia en la industria, durante los cuales ha tenido la oportunidad de trabajar en diversas áreas, como visión por computadora, tratamiento del lenguaje natural, análisis de series de tiempo y análisis de datos tabulares.",
                 "photo": "img/speaker-arturo-horcasitas.png"
                 },
 				{
@@ -492,27 +492,27 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Santiago Aguilar",
-                "bio": "Santiago Aguilar Martínez es un ingeniero mecatrónico egresado de la Universidad Nacional Autónoma de México en 2023. Inició su carrera en Ford de México como becario en la posición de Ingeniero de Integración, siendo contratado de tiempo completo en 2024. Desde Hermosillo, ha contribuido al lanzamiento de la Bronco Sport 2025/2026 y la Maverick 2026. Actualmente trabaja desde ciudad de México en los modelos del año 2029. Su experiencia previa en UNAM Motorsports, en los sistemas de Transmisión y Management, le permitió desarrollar habilidades en validación, simulación y gestión de equipos.",
+                "bio": "Santiago Aguilar Martínez es un Ingeniero Mecatrónico egresado de la Universidad Nacional Autónoma de México en 2023. Inició su carrera en Ford de México como becario en la posición de Ingeniero de Integración, siendo contratado de tiempo completo en 2024. Desde Hermosillo, ha contribuido al lanzamiento de la Bronco Sport 2025/2026 y la Maverick 2026. Actualmente trabaja desde ciudad de México en los modelos del año 2029. Su experiencia previa en UNAM Motorsports, en los sistemas de Transmisión y Management, le permitió desarrollar habilidades en validación, simulación y gestión de equipos.",
                 "photo": "img/speaker-santiago-aguilar.jpg"
                 },
 				{
                 "name": "Paulo Becerril",
-                "bio": "Paulo César Becerril González, es un ingeniero Mecatrónico egresado de la Universidad Nacional Autónoma de México (UNAM). De 2011 a 2013 participó en el equipo de Formula SAE como desarrollador del sistema de suspensión, así como del atenuador de impacto y de coordinador de pruebas de vehículo. Desde 2015 forma parte de Ford Motor Company, donde se desempeña como ingeniero de CAD en PT Electronics Hardware.",
+                "bio": "Paulo César Becerril González, es un Ingeniero Mecatrónico egresado de la Universidad Nacional Autónoma de México (UNAM). De 2011 a 2013 participó en el equipo de Formula SAE como desarrollador del sistema de suspensión, así como del atenuador de impacto y de coordinador de pruebas de vehículo. Desde 2015 forma parte de Ford Motor Company, donde se desempeña como ingeniero de CAD en PT Electronics Hardware.",
                 "photo": "img/speaker-paulo-becerril.jpg"
                 },
 				{
                 "name": "Miguel Clemente",
-                "bio": "Miguel Clemente Eguiluz, ingeniero mecánico egresado de la Facultad de Ingeniería. Miembro de UNAM Motorsports en las temporadas 2012 y 2013 en el área de management. Su trayectoria profesional abarca Project Management para el desarrollo de Bronco Sport 2021 y su rediseño 2025 así como Maverick 2025 enfocados en program planning, user experience y lanzamiento en planta de producción; así como el área comercial en planeación y estrategia de producto en México, Caribe y Centroamérica. Actualmente se desempeña en planeación estratégica de producto futuro para el mercado mexicano.",
+                "bio": "Miguel Clemente Eguiluz, Ingeniero Mecánico egresado de la Facultad de Ingeniería. Miembro de UNAM Motorsports en las temporadas 2012 y 2013 en el área de management. Su trayectoria profesional abarca Project Management para el desarrollo de Bronco Sport 2021 y su rediseño 2025 así como Maverick 2025 enfocados en program planning, user experience y lanzamiento en planta de producción; así como el área comercial en planeación y estrategia de producto en México, Caribe y Centroamérica. Actualmente se desempeña en planeación estratégica de producto futuro para el mercado mexicano.",
                 "photo": "img/speaker-miguel-clemente.jpg"
                 },
 				{
                 "name": "Salvador Honorato",
-                "bio": "Salvador Honorato Navarrete, ingeniero mecánico de la UNAM (graduado en 2024), ocupó la posición de líder del sistema de Motor y Enfriamiento para el vehículo de combustión interna de UNAM Motorsports entre 2022 y 2024. Con 2.5 años de experiencia en Ford Motor Company, se ha especializado en el diseño de intercambiadores de calor para el Mustang. Sus responsabilidades incluyen la coordinación integral del desarrollo de componentes para el enfriamiento de motor y transmisión, abarcando desde la conceptualización inicial, diseño digital, evaluación CAE, gestión de proveedores, planificación de producción, hasta el lanzamiento.",
+                "bio": "Salvador Honorato Navarrete, Ingeniero Mecánico de la UNAM (graduado en 2024), ocupó la posición de líder del sistema de Motor y Enfriamiento para el vehículo de combustión interna de UNAM Motorsports entre 2022 y 2024. Con 2.5 años de experiencia en Ford Motor Company, se ha especializado en el diseño de intercambiadores de calor para el Mustang. Sus responsabilidades incluyen la coordinación integral del desarrollo de componentes para el enfriamiento de motor y transmisión, abarcando desde la conceptualización inicial, diseño digital, evaluación CAE, gestión de proveedores, planificación de producción, hasta el lanzamiento.",
                 "photo": "img/speaker-salvador-honorato.jpg"
                 },
 				{
                 "name": "Francisco Villa",
-                "bio": "Francisco Javier Villa Mancera, ingeniero mecánico egresado de la UNAM en 2015, fue capitán del equipo Formula SAE entre 2013 y 2015, logrando un tercer lugar en el reporte de costos en Lincoln 2015. Con 10 años en Ford Motor Company, se ha especializado en el diseño de componentes de materiales compuestos para vehículos comerciales y de Ford Performance. Actualmente, optimiza costos y manufactura de piezas interiores, convirtiendo componentes metálicos estructurales a polímeros compuestos. Sus responsabilidades incluyen la coordinación del diseño digital, evaluación CAE, gestión con proveedores y planificación de producción.",
+                "bio": "Francisco Javier Villa Mancera, Ingeniero Mecánico egresado de la UNAM en 2015, fue capitán del equipo Formula SAE entre 2013 y 2015, logrando un tercer lugar en el reporte de costos en Lincoln 2015. Con 10 años en Ford Motor Company, se ha especializado en el diseño de componentes de materiales compuestos para vehículos comerciales y de Ford Performance. Actualmente, optimiza costos y manufactura de piezas interiores, convirtiendo componentes metálicos estructurales a polímeros compuestos. Sus responsabilidades incluyen la coordinación del diseño digital, evaluación CAE, gestión con proveedores y planificación de producción.",
                 "photo": "img/speaker-francisco-villa.jpg"
                 }
             ],
@@ -737,6 +737,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
