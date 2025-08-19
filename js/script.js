@@ -4,13 +4,15 @@ document.addEventListener('DOMContentLoaded', () => {
     const closeButton = document.querySelector('.close-button');
 
     // Elementos del modal para actualizar
-    const speakerName = document.getElementById('speakerName');
-    const speakerBio = document.getElementById('speakerBio');
-    const speakerPhoto = document.querySelector('.speaker-photo');
+    const modalSpeakerInfo = document.getElementById('modalSpeakerInfo');
+    const speakerDetailsContainer = document.getElementById('speakerDetailsContainer'); // NUEVO: Referencia al contenedor de ponentes
+
+
     const activityAudience = document.getElementById('activityAudience');
     const activityLocation = document.getElementById('activityLocation');
     const activityTime = document.getElementById('activityTime');
 
+    const modalContent = document.querySelector('.modal-content');
     // --- Datos de ejemplo de actividades ---
     // En un proyecto real, esto podría venir de una API o un archivo JSON más grande.
     const activitiesData = {
@@ -21,11 +23,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "09:00 - 10:00",
 			"audience": "General",
 			"location": "Auditorio Sotero Prieto",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Juan Santillán",
                 "bio": "Egresado de la Universidad Anáhuac como Ingeniero Mecánico Eléctrico con una Maestría en Planeación Estratégica y Tecnologias, Juan Santillán cuenta con 25 años de experiencia en Ford Motor Company, incluyendo 9 años en asignaciones internacionales. Su trayectoria abarca desde la ingeniería de chasis para camiones y autos de segmento familiar en EE.UU. y el desarrollo de plataformas globales en Japón (Mazda), hasta el desarrollo, pruebas y validación de vehículos compactos en Alemania. De vuelta en México, lideró lanzamientos de nuevos vehículos y, como Global Chief Engineer, dirigió el desarrollo de productos globales como Ford Bronco Sport y Maverick. Reconocido por la revista Expansión como una de las 30 promesas en México,  actualmente, como Director de Desarrollo de Producto de Ford de México, lidera un equipo de más de 3400 ingenieros, impulsando el diseño, desarrollo y validación de vehículos a nivel mundial.",
                 "photo": "img/speaker-juan-santillan.jpg"
-            },
+                }
+            ],
             "activity": {
                 "description": "¡Bienvenidos a la sesión de apertura de la Semana UNAM 2025! En esta sesión Juan Santillán, Director de Desarrollo de Producto de Ford de México, compartirá con nosotros la profunda historia y el impacto duradero de Ford en la industria automotriz, destacando la relevancia de esta celebración en nuestra universidad.",
             }
@@ -35,11 +39,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "10:00 - 11:00",
 			"audience": "General",
 			"location": "Auditorio Sotero Prieto",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Stephanie Machorro, Michelle Jaramillo, Gabriela Vargas, Grisel Felipe",
                 "bio": "Stephanie Marín es Ingeniera en Gestión Empresarial con Maestría en Ingeniería Industrial. Con más de una década de experiencia en áreas como recursos humanos, ventas, manufactura, estimación de costos y gestión de programas, actualmente se desempeña como Program Manager en el área de Global Engineering Services dentro de Ford, liderando proyectos estratégicos de alto impacto. Apasionada por la ingeniería y el impulso del talento femenino en STEM, combina su carrera con su vida personal como esposa y madre de una niña pequeña, inspirando a otras mujeres a construir trayectorias profesionales plenas y equilibradas.",
                 "photo": "img/speaker-stephanie-marin.jpg"
-            },
+                }
+            ],
             "activity": {
                 "description": "¿Alguna vez te has preguntado cómo es el día a día de una ingeniera en una de las empresas automotrices más grandes del mundo? ¿Sueñas con innovar, diseñar y ser parte de la transformación de la movilidad? Te invitamos a un panel exclusivo y lleno de inspiración con cuatro destacadas ingenieras de Ford de México, y lo más importante: ¡todas ellas orgullosas exalumnas de la UNAM! Desde las líneas de producción más avanzadas hasta el desarrollo de nuevas tecnologías, nuestras panelistas compartirán sus experiencias, desafíos superados y los momentos más gratificantes de sus trayectorias profesionales, demostrando que el camino de la ingeniería egresado de la UNAM puede llevarte a las cimas de la industria global. Descubre de primera mano: Cómo es la vida de una ingeniera en la industria automotriz actual, con la perspectiva de quienes pisaron los mismos pasillos que tú. Las habilidades clave y las oportunidades de crecimiento en un sector en constante evolución. Consejos prácticos para estudiantes de ingeniería que buscan forjar su propio camino, directamente de quienes ya lo recorrieron. La visión de Ford sobre el futuro de la movilidad y el papel de la ingeniería en él. No pierdas esta oportunidad única de conectar con profesionales que están marcando la diferencia y de vislumbrar el impacto que tú puedes tener. ¡Prepárate para ser inspirado y para acelerar tu futuro profesional! ¡Te esperamos para impulsar juntos la ingeniería del mañana!",
             }
@@ -49,11 +55,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "11:00 - 12:30",
 			"audience": "Preselección",
 			"location": "CIA - Sótano",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Jessica Mayo, Arturo García, Uriel Loza",
                 "bio": "",
                 "photo": "img/speaker-arturo-garcia.jpg"
-            },
+                }
+            ],
             "activity": {
                 "description": "El equipo de Ford ha diseñado un taller para llevar a una selección de alumnos a través de el modelo de Design Thinking",
 				
@@ -64,11 +72,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "11:00 - 12:00",
 			"audience": "General",
 			"location": "Auditorio Sotero Prieto",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Jessica Mayo",
                 "bio": "TBD",
                 "photo": "img/speaker-jessica-mayo.png"
-            },
+                }
+            ],
             "activity": {
                 "description": "",
 				
@@ -89,11 +99,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "13:00 - 14:00",
 			"audience": "General",
 			"location": "Auditorio Sotero Prieto",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Alexia Huerta",
                 "bio": "Profesional con formación en Diseño Industrial por la Universidad Anáhuac y una Maestría en Comunicación Digital, Redes Sociales y Marketing Online por el CEUPE. Cuenta con más de 6 años de experiencia en el desarrollo y gestión de estrategias de atracción de talento y programas enfocados en talento joven. Posee expertise en la implementación de estrategias externas orientadas a potenciar la marca empleadora. Es miembro de Ford desde agosto de 2023.",
                 "photo": "img/speaker-alexia-huerta.jpg"
-            },
+                }
+            ],
 			"activity": {
                 "description": "¿Quieres que tu CV destaque entre cientos de candidaturas? En esta ponencia, desvelaremos las claves para construir un CV ganador, centrándonos en el eficiente CV estilo Harvard y entenderás la Visión del Reclutador: qué buscan, cómo leen tu CV en segundos y cómo asegurarte de captar su atención."
             }
@@ -104,11 +116,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "14:00 - 15:00",
 			"audience": "General",
 			"location": "Auditorio Sotero Prieto",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Rafael Hernández",
                 "bio": "Rafael Hernández Cervantes es un ingeniero mecatrónico con una formación académica que incluye un MBA y estudios de maestría en Tecnologías de cómuputo y doctorado en proceso en Ciencias de la Computación. Con 12 años de trayectoria en Ford, lidera proyectos en los laboratorios de pruebas vehiculares, buscando generar ahorros a la compañía y mejorar la eficiencia operativa a través de la innovación proactiva.",
                 "photo": "img/speaker-rafael-hernandez.jpg"
-            },
+                }
+            ],
             "activity": {
                 "description": "El Hexadrive es un equipo donde se realizan pruebas de tanques de combustible.En esta platica se abordará el proceso de correlación implementado para validar estas pruebas, destacando los desafíos de ingeniería enfrentados a lo largo del proyecto, describiendo acciones futuras."
             }
@@ -119,11 +133,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "09:00 - 10:00",
 			"audience": "General",
 			"location": "Auditorio Sotero Prieto",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Jocelyn Moctezuma, Gabriela Tiscareño, Fernando Barajas y Rodrigo Téllez",
                 "bio": "Jocelyn es Ingeniero en mecatrónica graduada del TEC de Monterrey Campus Estado de México, tiene un MBA con especialidad en calidad y comenzó su carrera profesional en Ford Motor Company en el 2009. Dentro de Ford ha adquirido experiencia en diferentes áreas de la compañía, comenzando en el área de manufactura en la planta de Pintura en Cuautitán Izcalli con el proyecto del Ford Fiesta, posteriormente como ingeniero de Body Interior dentro del mismo programa solucionando y mejorando problemas de diseño. Ha sido ingeniero de diseño y desarrollo para diversos programas en Ford como F-150, Bronco Sport, Maverick, etc. Jocelyn también ha adquirido gran experiencia en el área de calidad y tiene una certificación como Black Belt en la metodología Six Sigma. Actualmente es Analista de exportación asegurándose de que las regulaciones necesarias para los diferentes mercados se cumplan y en paralelo a esto es líder de la iniciativa Ford Clubs en Ford de México desarrollando el crecimiento de esta estrategia que ha sido clave para la satisfacción y bienestar de los empleados en Ford.",
                 "photo": "img/speaker-joss-moctezuma.jpg"
-            },
+                }
+            ],
             "activity": {
                 "description": "En esta sesión nos adentraremos en el mundo de los Ford Clubs, una iniciativa nacional diseñada para fomentar la integración, el bienestar y el espíritu de equipo entre empleados de diversas empresas a través de disciplinas deportivas, artísticas y más. Exploraremos qué son los Corporate Games y, específicamente, la experiencia de la participación de Ford en México, destacando cómo Ford ha impulsado activamente el desarrollo integral de sus colaboradores en este marco.",
             }
@@ -133,11 +149,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "09:00 - 10:00",
 			"audience": "Preselección",
 			"location": "Lobby CIA",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Pedro Gálvez",
                 "bio": "  Con una sólida formación en ingeniería mecatrónica y una maestría en ingeniería mecánica por la UNAM, Pedro Gálvez ha consolidado una carrera exitosa en el mundo de la tecnología y la innovación. Con más de 12 años de experiencia en el desarrollo de software, ha demostrado una profunda expertise en la creación de soluciones tecnológicas avanzadas. Su trayectoria profesional ha evolucionado desde puestos técnicos hasta liderazgo, actualmente desempeñándose como Supervisor de Software Embebido en Ford",
                 "photo": "img/speaker-pedro-galvez.png"
-            },
+                }
+            ],
             "activity": {
                 "description": "El arte de amar los lunes, SCRUM es una metodología agil, la cual nos ayuda a desarrollar proyectos cuando el panorama esta lleno de incertidumbre, cuando el equipo es nuevo o cuando no sabemos como abordar un problema. En este taller te enseñaré a desarrollar proyectos con SCRUM desde cero y la improtancia de SCRUM en el ambiente actual",
             }
@@ -147,11 +165,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "10:00 - 11:00",
 			"audience": "General",
 			"location": "Auditorio Sotero Prieto",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Julieta Rojas & Marco Ramirez",
                 "bio": "Ingeniera en Sistemas y Tecnologías de la Información por la Universidad Anáhuac México, actualmente me desempeño como Artificial Intelligence Engineer. Desde el área de Business Operations colaboro con los equipos de Product Development para identificar oportunidades de mejora, mapear procesos críticos, definir indicadores clave de desempeño (KPIs) que orienten la toma de decisiones y diseñar, desplegar y mantener soluciones de IA que automaticen tareas, optimicen la eficiencia operativa y mejoren la experiencia de usuario. Apasionada por la innovación y el aprendizaje continuo, combino pensamiento estratégico, creatividad y comunicación efectiva para convertir la ciencia de datos en valor tangible.",
                 "photo": "img/speaker-julieta-rojas.png"
-            },
+                }
+            ],
             "activity": {
                 "description": "En esta presentación se explicará por qué la IA es una pieza clave para el futuro automotriz. Parte de los fundamentos de Turing y McCarthy, distingue entre IA débil, fuerte y superinteligencia, y ubica tecnologías como machine learning, deep learning e IA generativa dentro de un mismo espectro. Explicaremos los tres modelos de aprendizaje (supervisado, no supervisado y por refuerzo) y, sobre todo, demostraremos su impacto directo en Ford: conducción autónoma, mantenimiento predictivo, personalización del usuario y control de calidad.",
 				
@@ -162,11 +182,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "11:00 - 12:00",
 			"audience": "General",
 			"location": "Auditorio Sotero Prieto",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Francisco Lugo",
                 "bio": "Francisco Armando Lugo Mayorga es un destacado Ingeniero Mecatrónico, egresado de la Facultad de Ingeniería de la Universidad Nacional Autónoma de México (UNAM). Con una sólida trayectoria profesional, Francisco cuenta con más de 13 años de experiencia en la industria automotriz, específicamente en Ford Motor Company, donde ha desempeñado diversas funciones en áreas clave de ingeniería. Durante su carrera, ha demostrado una notable capacidad de liderazgo y gestión, lo que lo llevó a ocupar el cargo de Supervisor de Ingeniería en Liberaciones de Software a nivel mundial durante 3 años, cargo que sigue ocupando, aportando significativamente al desarrollo y la implementación de soluciones tecnológicas innovadoras. Además, Francisco ha complementado su formación técnica con un diplomado en Project Management, lo que le ha permitido dirigir proyectos complejos con eficiencia y eficacia, destacándose por su habilidad para coordinar equipos multidisciplinarios y asegurar el éxito en la entrega de resultados.",
                 "photo": "img/speaker-francisco-lugo.jpg"
-            },
+                }
+            ],
             "activity": {
                 "description": "¿Cómo transformar tu título de ingeniería en una carrera de impacto? En esta charla, compartiré mi viaje personal desde los salones de la facultad hasta la industria global. Les compartiré las habilidades clave y recomendaciones que para mí marcaron la diferencia.",
             }
@@ -176,11 +198,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "11:00 - 12:30",
 			"audience": "Preselección",
 			"location": "CIA - Sótano",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Jessica Mayo, Arturo García, Uriel Loza",
                 "bio": "",
                 "photo": "img/speaker-arturo-garcia.jpg"
-            },
+                }
+            ],
             "activity": {
                 "description": "El equipo de Ford ha diseñado un taller para llevar a una selección de alumnos a través de el modelo de Design Thinking",
             }
@@ -190,11 +214,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "13:00 - 14:00",
 			"audience": "General y Agrupaciones",
 			"location": "Auditorio Sotero Prieto",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Carlos Melgarejo, Ivonne Bárcenas y Pablo Gómez",
                 "bio": "Carlos Melgarejo, Ingeniero en Mecatrónica egresado del Programa de Alto Rendimiento Académico (PARA) de la Facultad de Ingeniería y con Maestría en Diseño y Gestión de Sistemas por el Instituto Tecnológico de Massachusetts (MIT). Ha desempeñado diferentes puestos en el departamento de Desarrollo de Producto en Ford Motor Company y actualmente ocupa el cargo de Supervisor de Diseño de Sistemas de Distribución Eléctrica (EDS) de los vehículos Bronco Sport, Maverick, Expedition y Navigator.",
                 "photo": "img/speaker-carlos-melgarejo.jpg"
-            },
+                }
+            ],
             "activity": {
                 "description": "Una sesión de diálogo abierto que reúne a ingenieros experimentados de Ford y a estudiantes aspirantes de ingeniería, miembros del Programa de Alto Rendimiento Académico (PARA) de la Facultad de Ingeniería de la UNAM. Diseñada para cerrar la brecha entre el aprendizaje académico y los desafíos de ingeniería del mundo real, esta mesa redonda fomenta un intercambio de conocimientos. Los ponentes compartirán con los estudiantes cómo el PARA influyó en sus trayectorias profesionales y los estudiantes obtendrán conocimientos prácticos sobre el desarrollo de vehículos, metodologías de resolución de problemas y trayectorias profesionales directamente de líderes de la industria. Al mismo tiempo, los ingenieros de Ford podrán interactuar con la próxima generación de innovadores, comprendiendo filosofías de diseño emergentes y fomentando el talento futuro. Esta interacción dinámica tiene como objetivo inspirar, educar y cultivar una base sólida para la futura excelencia en ingeniería automotriz.",
             }
@@ -204,11 +230,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "14:00 - 15:00",
 			"audience": "General",
 			"location": "Auditorio Sotero Prieto",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Ignacio Salas",
                 "bio": "José Ignacio Salas Cerón es ingeniero mecatrónico con más de 7 años de experiencia en la integración de gemelos digitales de sistemas de propulsión en la industria automotriz. Trabaja en Ford desde 2018. Su puesto actual es Ingeniero de Integración e Implementación de HIL/SIL en el departamento de Controles Vehiculares. Disfruta participando en situaciones desafiantes que requieren conocimientos de la teoría clásica de control para su resolución.",
-			"photo": "img/speaker-ignacio-salas.jpg"
-            },
+                "photo": "img/speaker-ignacio-salas.jpg"
+                }
+            ],
             "activity": {
                 "description": "Hoy en día, la disminución de los tiempos de desarrollo de un automóvil, la reducción de costos y la optimización de la utilización de personal, así como la validación de nuevas funcionalidades altamente apreciadas por los consumidores, son metas esenciales en la industria automotriz. En ese contexto, el desarrollo de gemelos digitales para representar la operación de un tren motriz y sus subsistemas adyacentes, toma especial relevancia. Los gemelos digitales proveen entornos virtuales seguros y rentables, que permiten un desarrollo veloz y la puesta a prueba de cualquier tipo de código de control. Esta presentación cubrirá el uso de gemelos digitales del tren motriz para el desarrollo y puesta a prueba del código de controladores en Ford.",
             }
@@ -219,11 +247,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "09:00 - 10:00",
 			"audience": "General",
 			"location": "Auditorio Sotero Prieto",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Estefhanie Gutiérrez",
                 "bio": "Ingeniera Mecánica con 9 años de experiencia práctica en el diseño de sistemas de exteriores e interiores y ornamentación automotriz. He colaborado en proyectos como el desarrollo de interiores para la Bronco Sport, Bronco y Mustang, combinando ingeniería con visión centrada en la experiencia del usuario. Con una maestría en Project Management por la Universidad de Barcelona y certificaciones como Scrum Master y Product Owner, reflejo de mi pasión por las metodologías ágiles, la mejora continua y la gestión de proyectos complejos y multidisciplinarios.",
                 "photo": "img/speaker-estefhanie-gutierrez.jpeg"
-            },
+                }
+            ],
             "activity": {
                 "description": "En esta plática, exploraremos el proceso completo de desarrollo de producto de Ford: desde la definición de una idea hasta el lanzamiento en planta, pasando por el diseño y la validación. Verás ejemplos reales de proyectos en los que Ingenieros mexicanos están marcando la diferencia, contribuyendo en cada una de estas etapas, desde el diseño hasta el ensamblaje de vehículos. También hablaremos del lado humano de la ingeniería: cómo habilidades como la comunicación, el liderazgo y el trabajo en equipo potencian tu carrera profesional."
             }
@@ -236,24 +266,29 @@ document.addEventListener('DOMContentLoaded', () => {
             "activity": {
                 "description": " aún no la suben "
             },
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Marco Bello",
                 "bio": "Me llamo Marco Antonio Bello Xelhuantzi, soy Ingeniero en Diseño Automotriz por el Tec de Monterrey y cuento con la maestría en Innovación para el Desarrollo Empresarial por la misma institución, tengo 9 años de experiencia, desde el área de diseño en diversos commodities hasta mi puesto actual como Coordinador de Innovación para el área de Desarrollo de Producto de Ford de México, siendo mis principales responsabilidad la estrategia de innovación, la administración del laboratorio llamado Makerspace, además de los temas relacionados a propiedad intelectual.",
                 "photo": "img/speaker-marco-bello.JPG"
-            }
+                }
+            ]
         },
 		"w-3": {
             "title": "Egresados en Ford",
             "time": "11:00 - 12:00",
 			"audience": "General",
 			"location": "Explanada CIA",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Oscar Carranza, Fabián Sánchez, Karla Ramírez, Rodrigo Rodríguez, Erick Ramos, Ma. Fernanda Landeros, Brenda Ávila",
                 "bio": "Ingeniero Eléctrico Electrónico (egresado en 2023), con experiencia en desarrollo de software y análisis de datos y actualmente colaborando en el área de sistemas de protección eléctrica en Vehículos Híbridos y Eléctricos de Ford.",
                 "photo": "img/speaker-oscar-carranza.jpg"
-            },
+                }
+            ],
             "activity": {
-                "description": "Se trata de una dinámica en la que los estudiantes pueden hacer preguntas a los ingenieros que actualmente trabajan en Ford, que son egresados de la facultad de ingeniería sobre como es su día a día laboralmente, los retos que han enfrentado y las recomendaciones que les gustarían compartir con ellos para su desarrollo profesional y conocer la empresa. Registra tu asistencia en el siguiente link: https://forms.office.com/r/gz2WHDVxTe?origin=lprLink."
+                "description": "Se trata de una dinámica en la que los estudiantes pueden hacer preguntas a los ingenieros que actualmente trabajan en Ford, que son egresados de la facultad de ingeniería sobre como es su día a día laboralmente, los retos que han enfrentado y las recomendaciones que les gustarían compartir con ellos para su desarrollo profesional y conocer la empresa.",
+                "url" : "https://forms.office.com/r/gz2WHDVxTe?origin=lprLink."
 			}
 			
             },
@@ -262,11 +297,14 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "11:00 - 12:30",
 			"audience": "Preselección",
 			"location": "CIA - Sótano",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Jessica Mayo, Arturo García, Uriel Loza",
                 "bio": "",
                 "photo": "img/speaker-arturo-garcia.jpg"
-            },
+                }
+            ],
+            
             "activity": {
                 "description": "El equipo de Ford ha diseñado un taller para llevar a una selección de alumnos a través de el modelo de Design Thinking",
             }
@@ -276,11 +314,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "13:00 - 14:00",
 			"audience": "General",
 			"location": "Auditorio Sotero Prieto",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Karen Vázquez",
                 "bio": "Psicóloga organizacional con ocho años de experiencia en Recursos Humanos, especializada en atracción y desarrollo del talento. He tenido la oportunidad de liderar proyectos clave en empresas globales del sector de Telecomunicaciones y Automotriz, donde he contribuido al fortalecimiento de la cultura organizacional y al crecimiento del talento.",
                 "photo": "img/speaker-karen-vazquez.jpg"
-            },
+                }
+            ],
             "activity": {
                 "description": "¿Te sientes listo para afrontar una entrevista de trabajo con total confianza y maximizando tus posibilidades de éxito? En esta ponencia, te daremos las herramientas y conocimientos fundamentales para navegar el proceso de entrevista de manera efectiva. Descubrirás cómo presentarte de la mejor forma posible, comunicar tu valor de manera impactante y dejar una impresión memorable en los reclutadores."
             }
@@ -290,11 +330,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "14:00 - 15:00",
 			"audience": "General",
 			"location": "Auditorio Sotero Prieto",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Leonardo Trujillo y Arturo Horcasitas",
                 "bio": "Jorge Arturo Rodríguez Horcasitas es maestro en ciencias de la computación por la UNAM, donde también se desempeña como profesor tanto a nivel diplomado como en licenciatura. En el diplomado en inteligencia artificial aplicada imparte el módulo de redes neuronales para el análisis de secuencias y a nivel licenciatura imparte la clase de aprendizaje profundo. Además de su labor académica, Jorge Arturo lidera un equipo de científicos de datos en Ford. Cuenta con siete años de experiencia en la industria, durante los cuales ha tenido la oportunidad de trabajar en diversas áreas, como visión por computadora, tratamiento del lenguaje natural, análisis de series de tiempo y análisis de datos tabulares.",
                 "photo": "img/speaker-arturo-horcasitas.png"
-            },
+                }
+            ],
             "activity": {
                 "description": "TBD"
             }
@@ -304,11 +346,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "14:00 - 15:00",
 			"audience": "Preselección",
 			"location": "Sala por definir",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Roberto Peña, Enrique González y Shair Mendoza",
                 "bio": "Roberto Peña es Ingeniero Mecánico y Maestro en Ingeniería Mecánica por la Universidad Nacional Autónoma de México (UNAM), con un Diplomado en Sistemas Complejos del Massachusetts Institute of Technology (MIT). Posee 15 años de sólida experiencia profesional en Ford Motor Company, donde se he especializado en el desarrollo de sistemas estructurales de carrocería metálica, así como en el diseño y liberación de sistemas de cierre (puertas laterales y traseras) y del sistema de panel de instrumentos. Su perfil se complementa con experiencia como Ingeniero de Sistemas, con un enfoque probado en modelado y optimización de funciones y diseño.",
                 "photo": "img/speaker-roberto-peña.png"
-            },
+                }
+            ],
             "activity": {
                 "description": "TBD"
             }
@@ -318,11 +362,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "15:00 - 16:30",
 			"audience": "General y Agrupaciones",
 			"location": "Explanada CIA",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Santiago Aguilar, Paulo Becerril, Miguel Clemente, Salvador Honorato y Francisco Villa",
                 "bio": "Santiago Aguilar Martínez es un ingeniero mecatrónico egresado de la Universidad Nacional Autónoma de México en 2023. Inició su carrera en Ford de México como becario en la posición de Ingeniero de Integración, siendo contratado de tiempo completo en 2024. Desde Hermosillo, ha contribuido al lanzamiento de la Bronco Sport 2025/2026 y la Maverick 2026. Actualmente trabaja desde ciudad de México en los modelos del año 2029. Su experiencia previa en UNAM Motorsports, en los sistemas de Transmisión y Management, le permitió desarrollar habilidades en validación, simulación y gestión de equipos.",
                 "photo": "img/speaker-santiago-aguilar.jpg"
-            },
+                }
+            ],
             "activity": {
                 "description": "Una sesión de diálogo abierto que reúne a ingenieros experimentados de Ford y a estudiantes de ingeniería del equipo de Fórmula SAE UNAM Motorsports. Diseñada para cerrar la brecha entre el aprendizaje académico y los desafíos de ingeniería del mundo actual en el ámbito profesional, esta mesa redonda, fomenta un intercambio de conocimientos directamente de los profesionales de la industria con la próxima generación de ingenieros y diseñadores, comprendiendo filosofías de diseño emergentes y fomentando el talento futuro. Esta interacción dinámica tiene como objetivos el inspirar, educar y cultivar una base sólida para la futura excelencia en ingeniería automotriz."
             }
@@ -351,11 +397,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "14:00 - 15:00",
 			"audience": "Preselección",
 			"location": "CIA - Sótano",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Karen Palacios",
                 "bio": "Más de 12 años de experiencia en Adquisición de Talento, especializada en perfiles de TI para empresas multinacionales en Norteamérica y Latinoamérica. Proceso de principio a fin, actuando como socio y consultor, alta demanda, liderando proyectos para BPO, RPO partnering y firmas de consultoría",
                 "photo": "img/speaker-karen-palacios.jpg"
-            },
+                }
+            ],
             "activity": {
                 "description": "Esta sesión está diseñada para los ganadores de nuestra actividad tipo Shark Tank, con la intención de que pongas a prueba tus habilidades de comunicación bajo la guía de Karen, recibas feedback personalizado y de alto valor sobre tu desempeño, perfecciones tu narrativa y aprendas a destacar tu propuesta de valor en un entorno realista."
             }
@@ -365,23 +413,33 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "15:00 - 16:00",
             "audience": "General",
             "location": "Por Definir",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Antonio Gómez",
                 "bio": "falta",
-                "photo": "img/speaker-antonio-gomez.jpg",
+                "photo": "img/speaker-antonio-gomez.jpg"
+                },
+                {
                 "name": "Alan González",
                 "bio": "falta",
-                "photo": "img/speaker-alan-gonzalez.jpg",
+                "photo": "img/speaker-alan-gonzalez.jpg"
+                },
+                {
                 "name": "Pablo Guzmán",
                 "bio": "falta",
-                "photo": "img/speaker-pablo-guzman.jpg",
+                "photo": "img/speaker-pablo-guzman.jpg"
+                },
+                {
                 "name": "Omar López",
                 "bio": "Ingeniero Mecatrónico egresado de la Facultad de Ingeniería (UNAM). Experiencia en el sector automotriz, desempeñado roles en áreas como Ingeniería de Calidad, Diseño Asistido por Computadora (CAD) y Gestión de Listas de Materiales (BOM). Trayectoria en empresas automotrices como Ford Motor Company y BMW Group.",
-                "photo": "img/speaker-0mar-lopez.jpg",
+                "photo": "img/speaker-0mar-lopez.jpg"
+                },
+                {
                 "name": "Óscar Santos",
                 "bio": "Oscar Daniel Santos Galán, Ingeniero de Integración de Hardware de Vehículos en Ford, con siete años de experiencia en la industria automotriz, se especializa en el lanzamiento de nuevos modelos y la gestión de la construcción de prototipos. Participa directamente en desarrollar y trabajar continuamente en la construcción de prototipos para la línea Ford Super Duty, con el objetivo de asegurar una integración de hardware óptima desde el concepto hasta la producción.",
                 "photo": "img/speaker-oscar-santos.jpg"
-            },
+                },
+            ],
             "activity": {
                 "description": "Una sesión de diálogo abierto que reúne a ingenieros experimentados de Ford y a estudiantes aspirantes de ingeniería del equipo de Baja SAE Puma Off-Road. Diseñada para cerrar la brecha entre el aprendizaje académico y los desafíos de ingeniería del mundo real, esta mesa redonda fomenta un intercambio de conocimientos. Los estudiantes obtendrán conocimientos prácticos sobre el desarrollo de vehículos, metodologías de resolución de problemas y trayectorias profesionales directamente de líderes de la industria. Al mismo tiempo, los ingenieros de Ford podrán interactuar con la próxima generación de innovadores, comprendiendo filosofías de diseño emergentes y fomentando el talento futuro. Esta interacción dinámica tiene como objetivo inspirar, educar y cultivar una base sólida para la futura excelencia en ingeniería automotriz."
             }
@@ -391,11 +449,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "16:30 - 16:45",
 			"audience": "General",
 			"location": "CIA - Sótano",
-            "speaker": {
+            "speakers": [
+                {
                 "name": "Arian Sosa",
                 "bio": "TBD",
                 "photo": "img/speaker-arian-sosa.jpg"
-            },
+            }
+            ],
             "activity": {
                 "description": "Esta actividad dará fin a la semana UNAM 2025, acompáñanos pues habrá sorpresas y premios."
             }
@@ -412,19 +472,71 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function openModal(activityId) {
         const data = activitiesData[activityId];
+        
         if (data) {
+            allSpeakersContainer.innerHTML = '';
+
+            if (data.speakers && data.speakers.length > 0) {
+                modalSpeakerInfo.style.display = 'block'; // Asegura que la sección del ponente esté visible
+                modalContent.classList.remove('single-column'); // Elimina la clase para cuando hay dos columnas
+
+                data.speakers.forEach(speaker => {
+                    const speakerDiv = document.createElement('div');
+                    speakerDiv.classList.add('dynamic-speaker-block'); // Clase para estilos de cada ponente
+
+                    const speakerPhotoElem = document.createElement('img');
+                    speakerPhotoElem.src = speaker.photo;
+                    speakerPhotoElem.alt = `Foto de ${speaker.name}`;
+                    speakerPhotoElem.classList.add('speaker-photo-large'); // Clase para la foto grande
+
+                    const speakerNameElem = document.createElement('h4');
+                    speakerNameElem.textContent = speaker.name;
+
+                    const speakerBioElem = document.createElement('p');
+                    speakerBioElem.textContent = speaker.bio;
+
+                    speakerDiv.appendChild(speakerPhotoElem);
+                    speakerDiv.appendChild(speakerNameElem);
+                    speakerDiv.appendChild(speakerBioElem);
+
+                    allSpeakersContainer.appendChild(speakerDiv);
+                });
+
+            } else {
+                modalSpeakerInfo.style.display = 'none'; // Ocultar la sección del ponente
+                modalContent.classList.add('single-column'); // Añade la clase para cuando es una sola columna
+            }
             // Rellenar el contenido del modal
 
-			activityTitleModal.textContent = data.title; // Usamos el título de la actividad principal
+			activityTitleModal.textContent = data.activity.title || data.title; // Usamos el título de la actividad principal
             activityAudience.textContent = data.audience;
             activityLocation.textContent = data.location;
             activityTime.textContent = data.time;
             activityDescription.textContent = data.activity.description;
-			
-            speakerName.textContent = data.speaker.name;
-            speakerBio.textContent = data.speaker.bio;
-            speakerPhoto.src = data.speaker.photo;
-            speakerPhoto.alt = `Foto de ${data.speaker.name}`;
+            
+			 let activityUrlContainer = document.getElementById('activityUrlContainer');
+            if (!activityUrlContainer) {
+                // Si el contenedor no existe, crearlo y añadirlo después de la descripción
+                activityUrlContainer = document.createElement('div');
+                activityUrlContainer.id = 'activityUrlContainer';
+                activityDescription.parentNode.insertBefore(activityUrlContainer, activityDescription.nextSibling);
+                // activityDescription.nextSibling asegura que se inserta después de la descripción
+            }
+            activityUrlContainer.innerHTML = ''; // Limpiar contenido anterior
+
+            if (data.activity.url) { // Verificar si la URL existe para esta actividad
+                const urlLink = document.createElement('a');
+                urlLink.href = data.activity.url;
+                urlLink.textContent = "Registra tu asistencia aquí"; // O el texto que prefieras
+                urlLink.target = "_blank"; // Abrir en una nueva pestaña
+                urlLink.rel = "noopener noreferrer"; // Buena práctica de seguridad
+
+                activityUrlContainer.appendChild(urlLink);
+                activityUrlContainer.style.display = 'block'; // Asegurarse de que el contenedor sea visible
+            } else {
+                activityUrlContainer.style.display = 'none'; // Ocultar el contenedor si no hay URL
+            }
+           
 
             
             //activityPhoto.src = data.activity.photo;
