@@ -57,9 +57,19 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "CIA - Sótano",
             "speakers": [
                 {
-                "name": "Jessica Mayo, Arturo García, Uriel Loza",
-                "bio": "",
+                "name": "Arturo García",
+                "bio": "M. Ing. electromecánico Arturo García Alatorre. Ingeniero de pruebas y Manager de Proyectos en Ford",
                 "photo": "img/speaker-arturo-garcia.jpg"
+                },
+				 {
+                "name": "Jessica Mayo",
+                "bio": "",
+                "photo": "img/speaker-jessica-mayo.jpg"
+                },
+				 {
+                "name": "Uriel Loza",
+                "bio": "M. Ing. Aeronáutico. Ingeniero de CAE Vehicle Durability en Ford",
+                "photo": "img/speaker-uriel-loza.png"
                 }
             ],
             "activity": {
@@ -199,10 +209,20 @@ document.addEventListener('DOMContentLoaded', () => {
 			"audience": "Preselección",
 			"location": "CIA - Sótano",
             "speakers": [
-                {
-                "name": "Jessica Mayo, Arturo García, Uriel Loza",
-                "bio": "",
+                 {
+                "name": "Arturo García",
+                "bio": "M. Ing. electromecánico Arturo García Alatorre. Ingeniero de pruebas y Manager de Proyectos en Ford",
                 "photo": "img/speaker-arturo-garcia.jpg"
+                },
+				 {
+                "name": "Jessica Mayo",
+                "bio": "",
+                "photo": "img/speaker-jessica-mayo.jpg"
+                },
+				 {
+                "name": "Uriel Loza",
+                "bio": "M. Ing. Aeronáutico. Ingeniero de CAE Vehicle Durability en Ford",
+                "photo": "img/speaker-uriel-loza.png"
                 }
             ],
             "activity": {
@@ -298,10 +318,20 @@ document.addEventListener('DOMContentLoaded', () => {
 			"audience": "Preselección",
 			"location": "CIA - Sótano",
             "speakers": [
-                {
-                "name": "Jessica Mayo, Arturo García, Uriel Loza",
-                "bio": "",
+                 {
+                "name": "Arturo García",
+                "bio": "M. Ing. electromecánico Arturo García Alatorre. Ingeniero de pruebas y Manager de Proyectos en Ford",
                 "photo": "img/speaker-arturo-garcia.jpg"
+                },
+				 {
+                "name": "Jessica Mayo",
+                "bio": "",
+                "photo": "img/speaker-jessica-mayo.jpg"
+                },
+				 {
+                "name": "Uriel Loza",
+                "bio": "M. Ing. Aeronáutico. Ingeniero de CAE Vehicle Durability en Ford",
+                "photo": "img/speaker-uriel-loza.png"
                 }
             ],
             
@@ -579,6 +609,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
