@@ -469,11 +469,11 @@ document.addEventListener('DOMContentLoaded', () => {
 				{
                 "name": "Enrique González",
                 "bio": "Enrique González es Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM. Fue profesor de Introducción de Estudios de Mecanismos en la Facultad de Ingeniería de 2004 al 2009. Actualmente tiene el puesto de Chassis Multi Body Dynamics CAE Engineer en Ford.",
-                "photo": "img/speaker-enrique-gonzalez.png"
+                "photo": "img/speaker-enrique-gonzalez.jpg"
                 },
 				{
                 "name": "Shair Mendoza",
-                "bio": "TBD",
+                "bio": "Shair Mendoza es Ingeniero Mecánico egresado de la Facultad de Ingeniería y cuenta con una Maestría y Doctorado en Mecánica Aplicada. Con más de 18 años de experiencia profesional, actualmente se desempeña como Safety Crash Engineer en Ford",
                 "photo": "img/speaker-shair-mendoza.png"
                 }
             ],
@@ -723,6 +723,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
