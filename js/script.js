@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				{
                 "name": "Fernando Barajas",
-                "bio": "Fernando Barajas es un profesional con una sólida formación académica y 8 años de experiencia en Ford Motor Company. Es Ingeniero Aeronáutico por el IPN, posee una Maestría en Administración de Empresas y un Doctorado en Ingeniería Mecánica. Su trayectoria en Ford se centra en la Ingeniería de Diseño de Interiores y el Desarrollo de Producto. Lidera iniciativas de innovación, implementando mejores prácticas y nuevos procesos para optimizar la eficiencia en el diseño. Previamente, Fernando acumuló valiosa experiencia en el sector aeronáutico. En Airbus, líder mundial en fabricación de aeronaves, fue responsable de la ingeniería de diseño y reparaciones estructurales. Esta diversa experiencia le ha proporcionado una perspectiva integral, aplicable al diseño automotriz actual. Más allá de su ámbito profesional, Fernando ha desempeñado un papel fundamental en la organización de eventos deportivos corporativos. Desde 2018, ha representado a Ford en los Corporate Games Mexico, contribuyendo a que la empresa obtuviera el 1er lugar como "mejor empresa deportiva en México" en 2023 y 2024, además de un récord de medallas. Combinando su sólida trayectoria profesional con la disciplina del deporte, actualmente coordina áreas de integración de innovación y los Corporate Games Mexico. Su enfoque principal es la estrategia y el valor añadido que la relación trabajo-vida genera en el bienestar de los empleados de Ford México.",
+                "bio": "Fernando Barajas es un profesional con una sólida formación académica y 8 años de experiencia en Ford Motor Company. Es Ingeniero Aeronáutico por el IPN, posee una Maestría en Administración de Empresas y un Doctorado en Ingeniería Mecánica. Su trayectoria en Ford se centra en la Ingeniería de Diseño de Interiores y el Desarrollo de Producto. Lidera iniciativas de innovación, implementando mejores prácticas y nuevos procesos para optimizar la eficiencia en el diseño. Previamente, Fernando acumuló valiosa experiencia en el sector aeronáutico. En Airbus, líder mundial en fabricación de aeronaves, fue responsable de la ingeniería de diseño y reparaciones estructurales. Esta diversa experiencia le ha proporcionado una perspectiva integral, aplicable al diseño automotriz actual. Más allá de su ámbito profesional, Fernando ha desempeñado un papel fundamental en la organización de eventos deportivos corporativos. Desde 2018, ha representado a Ford en los Corporate Games Mexico, contribuyendo a que la empresa obtuviera el 1er lugar como 'mejor empresa deportiva en México' en 2023 y 2024, además de un récord de medallas. Combinando su sólida trayectoria profesional con la disciplina del deporte, actualmente coordina áreas de integración de innovación y los Corporate Games Mexico. Su enfoque principal es la estrategia y el valor añadido que la relación trabajo-vida genera en el bienestar de los empleados de Ford México.",
                 "photo": "img/speaker-israel-barajas.jpeg"
                 },
 				{
@@ -723,6 +723,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
