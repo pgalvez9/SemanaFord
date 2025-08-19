@@ -29,6 +29,33 @@
 					<h4><p class="justified-text">Ford es una empresa con más de 100 años de historia y presencia ininterrumpida en México, abarcando áreas críticas como: diseño,  manufactura e innovación, todas ellas impulsadas por el talento mexicano.
 Los invitamos a participar en la "Semana UNAM 2025", un evento exclusivo diseñado pensando en ustedes, que se llevará a cabo en las instalaciones de nuestra querida universidad.
 A continuación se detalla el programa con la fecha, hora e información de los ponentes invitados.</p> </h4>
+
+     <div class="color-legend">
+            <h3>Leyenda de Colores</h3>
+            <ul>
+                <li>
+                    <span class="color-box tech-color"></span>
+                    Tecnología / Innovación
+                </li>
+                <li>
+                    <span class="color-box taller-color"></span>
+                    Talleres Prácticos
+                </li>
+                <li>
+                    <span class="color-box ls-color"></span>
+                    Estilo ve Vida Ford
+                </li>
+                <li>
+                    <span class="color-box ss-color"></span>
+                    Soft Skills
+                </li>
+                <li>
+                    <span class="color-box show-color"></span>
+                    Show
+                </li>
+            </ul>
+        </div>
+
         <div class="calendar-grid">
             <!-- Los días de la semana y sus actividades se generarán aquí con JS o se definirán estáticamente -->
             <div class="day-column" id="monday">
@@ -185,15 +212,16 @@ A continuación se detalla el programa con la fecha, hora e información de los 
                     <h4a id="activityTime">Time</h4a></h4>
                     <p id="activityDescription">Descripción detallada de la actividad. Qué se aprenderá, a quién va dirigida, etc.</p>
                 </div>
-                <div class="speaker-info">
-                    <h3>Ponente</h3>
-                    <img src="img/speaker-placeholder.jpg" alt="Foto del Ponente" class="speaker-photo">
-                    <h4 id="speakerName">Nombre del Ponente</h4>
-                    <p id="speakerBio">Breve reseña del ponente. Aquí puedes destacar su trayectoria y experiencia en Ford.</p>
+                <div class="speaker-info" id="modalSpeakerInfo">
+                    <h3>Ponente(s)</h3> <!-- Cambiado a plural para mayor claridad -->
+                    <div id="allSpeakersContainer">
+                        <!-- Cada ponente se inyectará aquí con su foto, nombre y biografía -->
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+
 
     <footer class="site-footer">
         <div class="container">
