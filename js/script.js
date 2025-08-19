@@ -145,6 +145,21 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Auditorio Sotero Prieto",
             "speakers": [
                 {
+                "name": "Jocelyn Moctezuma",
+                "bio": "Jocelyn es Ingeniero en mecatrónica graduada del TEC de Monterrey Campus Estado de México, tiene un MBA con especialidad en calidad y comenzó su carrera profesional en Ford Motor Company en el 2009. Dentro de Ford ha adquirido experiencia en diferentes áreas de la compañía, comenzando en el área de manufactura en la planta de Pintura en Cuautitán Izcalli con el proyecto del Ford Fiesta, posteriormente como ingeniero de Body Interior dentro del mismo programa solucionando y mejorando problemas de diseño. Ha sido ingeniero de diseño y desarrollo para diversos programas en Ford como F-150, Bronco Sport, Maverick, etc. Jocelyn también ha adquirido gran experiencia en el área de calidad y tiene una certificación como Black Belt en la metodología Six Sigma. Actualmente es Analista de exportación asegurándose de que las regulaciones necesarias para los diferentes mercados se cumplan y en paralelo a esto es líder de la iniciativa Ford Clubs en Ford de México desarrollando el crecimiento de esta estrategia que ha sido clave para la satisfacción y bienestar de los empleados en Ford.",
+                "photo": "img/speaker-joss-moctezuma.jpg"
+                },
+				{
+                "name": "Gabriela Tiscareño",
+                "bio": "Jocelyn es Ingeniero en mecatrónica graduada del TEC de Monterrey Campus Estado de México, tiene un MBA con especialidad en calidad y comenzó su carrera profesional en Ford Motor Company en el 2009. Dentro de Ford ha adquirido experiencia en diferentes áreas de la compañía, comenzando en el área de manufactura en la planta de Pintura en Cuautitán Izcalli con el proyecto del Ford Fiesta, posteriormente como ingeniero de Body Interior dentro del mismo programa solucionando y mejorando problemas de diseño. Ha sido ingeniero de diseño y desarrollo para diversos programas en Ford como F-150, Bronco Sport, Maverick, etc. Jocelyn también ha adquirido gran experiencia en el área de calidad y tiene una certificación como Black Belt en la metodología Six Sigma. Actualmente es Analista de exportación asegurándose de que las regulaciones necesarias para los diferentes mercados se cumplan y en paralelo a esto es líder de la iniciativa Ford Clubs en Ford de México desarrollando el crecimiento de esta estrategia que ha sido clave para la satisfacción y bienestar de los empleados en Ford.",
+                "photo": "img/speaker-joss-moctezuma.jpg"
+                },
+				{
+                "name": "Jocelyn Moctezuma, Gabriela Tiscareño, Fernando Barajas y Rodrigo Téllez",
+                "bio": "Jocelyn es Ingeniero en mecatrónica graduada del TEC de Monterrey Campus Estado de México, tiene un MBA con especialidad en calidad y comenzó su carrera profesional en Ford Motor Company en el 2009. Dentro de Ford ha adquirido experiencia en diferentes áreas de la compañía, comenzando en el área de manufactura en la planta de Pintura en Cuautitán Izcalli con el proyecto del Ford Fiesta, posteriormente como ingeniero de Body Interior dentro del mismo programa solucionando y mejorando problemas de diseño. Ha sido ingeniero de diseño y desarrollo para diversos programas en Ford como F-150, Bronco Sport, Maverick, etc. Jocelyn también ha adquirido gran experiencia en el área de calidad y tiene una certificación como Black Belt en la metodología Six Sigma. Actualmente es Analista de exportación asegurándose de que las regulaciones necesarias para los diferentes mercados se cumplan y en paralelo a esto es líder de la iniciativa Ford Clubs en Ford de México desarrollando el crecimiento de esta estrategia que ha sido clave para la satisfacción y bienestar de los empleados en Ford.",
+                "photo": "img/speaker-joss-moctezuma.jpg"
+                },
+				{
                 "name": "Jocelyn Moctezuma, Gabriela Tiscareño, Fernando Barajas y Rodrigo Téllez",
                 "bio": "Jocelyn es Ingeniero en mecatrónica graduada del TEC de Monterrey Campus Estado de México, tiene un MBA con especialidad en calidad y comenzó su carrera profesional en Ford Motor Company en el 2009. Dentro de Ford ha adquirido experiencia en diferentes áreas de la compañía, comenzando en el área de manufactura en la planta de Pintura en Cuautitán Izcalli con el proyecto del Ford Fiesta, posteriormente como ingeniero de Body Interior dentro del mismo programa solucionando y mejorando problemas de diseño. Ha sido ingeniero de diseño y desarrollo para diversos programas en Ford como F-150, Bronco Sport, Maverick, etc. Jocelyn también ha adquirido gran experiencia en el área de calidad y tiene una certificación como Black Belt en la metodología Six Sigma. Actualmente es Analista de exportación asegurándose de que las regulaciones necesarias para los diferentes mercados se cumplan y en paralelo a esto es líder de la iniciativa Ford Clubs en Ford de México desarrollando el crecimiento de esta estrategia que ha sido clave para la satisfacción y bienestar de los empleados en Ford.",
                 "photo": "img/speaker-joss-moctezuma.jpg"
@@ -177,9 +192,14 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Auditorio Sotero Prieto",
             "speakers": [
                 {
-                "name": "Julieta Rojas & Marco Ramirez",
+                "name": "Julieta Rojas",
                 "bio": "Ingeniera en Sistemas y Tecnologías de la Información por la Universidad Anáhuac México, actualmente me desempeño como Artificial Intelligence Engineer. Desde el área de Business Operations colaboro con los equipos de Product Development para identificar oportunidades de mejora, mapear procesos críticos, definir indicadores clave de desempeño (KPIs) que orienten la toma de decisiones y diseñar, desplegar y mantener soluciones de IA que automaticen tareas, optimicen la eficiencia operativa y mejoren la experiencia de usuario. Apasionada por la innovación y el aprendizaje continuo, combino pensamiento estratégico, creatividad y comunicación efectiva para convertir la ciencia de datos en valor tangible.",
                 "photo": "img/speaker-julieta-rojas.png"
+                },
+				{
+                "name": "Marco Ramirez",
+                "bio": "Marco Antonio Ramírez es Ingeniero de Inteligencia Artificial en el equipo de AI, perteneciente al área de Business Operations. Se formó en Ingeniería en Sistemas Computacionales en la Escuela Superior de Cómputo del IPN y actualmente se especializa en ciencia de datos. Sus principales funciones incluyen apoyar a los empleados de PD en la adopción y uso de herramientas de inteligencia artificial dentro de Ford, colaborar en el diseño e implementación de estrategias clave para su integración, así como contribuir a la automatización de procesos y a la visualización de métricas alineadas con los objetivos y políticas tanto de los empleados como de la compañía.",
+                "photo": "img/speaker-marco-ramirez.jpg"
                 }
             ],
             "activity": {
@@ -236,9 +256,19 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Auditorio Sotero Prieto",
             "speakers": [
                 {
-                "name": "Carlos Melgarejo, Ivonne Bárcenas y Pablo Gómez",
+                "name": "Carlos Melgarejo",
                 "bio": "Carlos Melgarejo, Ingeniero en Mecatrónica egresado del Programa de Alto Rendimiento Académico (PARA) de la Facultad de Ingeniería y con Maestría en Diseño y Gestión de Sistemas por el Instituto Tecnológico de Massachusetts (MIT). Ha desempeñado diferentes puestos en el departamento de Desarrollo de Producto en Ford Motor Company y actualmente ocupa el cargo de Supervisor de Diseño de Sistemas de Distribución Eléctrica (EDS) de los vehículos Bronco Sport, Maverick, Expedition y Navigator.",
                 "photo": "img/speaker-carlos-melgarejo.jpg"
+                },
+				{
+                "name": "Ivonne Bárcenas",
+                "bio": "Ivonne Bárcenas, es ingeniera CAE especializada en Dinámica de Multicuerpos para el sistema de suspensión en los vehículos de Ford. Con casi nueve años en la compañía, empezó su carrera formando parte del primer programa Ford College Graduates, experiencia que amplió su perfil hacia áreas como Design and Release y Program Management. Actualmente desarrolla modelos para proveer cargas de camino mediante simulaciones de pistas de pruebas virtuales para los componentes de la suspensión. Su impulso por seguir aprendiendo la ha llevado a adquirir conocimientos variados en el área de simulación, desarrollando habilidades para el análisis de elementos finitos, análisis de fatiga y correlación de modelos con pruebas físicas.",
+                "photo": "img/speaker-ivonne-barcenas.jpg"
+                },
+				{
+                "name": "Pablo Gómez",
+                "bio": "Ingeniero industrial e ingeniero mecánico egresado de la facultad de ingeniería de la UNAM, fue miembro del Programa de Alto Rendimiento Académico (PARA), participó en el proyecto Fórmula SAE (temporadas 2012 y 2013), e hizo un semestre de intercambio en la NTNU en Trondheim, Noruega. Cuenta con 10 años de experiencia desempeñando diferentes puestos en el departamento de Desarrollo de Producto en Ford Motor Company en el área de Underbody en los equipos de Reducción de Costos, Mejoras de Calidad, Prevención de Modos de Fallas y actualmente ocupa el cargo de Ingeniero de Integración de Sistemas en los vehículos Expedition y Navigator.",
+                "photo": "img/speaker-pablo-gomez.jpg"
                 }
             ],
             "activity": {
@@ -679,6 +709,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
