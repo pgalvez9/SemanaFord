@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             ],
             "activity": {
-                "description": "El equipo de Ford ha diseñado un taller para llevar a una selección de alumnos a través de el modelo de Design Thinking",
+                "description": "Design Thinking, es una metodología clave para el desarrollo de producto y de soluciones centradas en el usuario, será impartido por ingenieros expertos de Ford ¿Qué aprenderás en este taller? Fundamentos del Design Thinking, resolver desafíos reales de productos de Ford, networking con ingenieros de Ford. Esta es una oportunidad única para aplicar tus conocimientos, expandir tu red profesional y obtener una perspectiva sobre la cultura de innovación en una de las empresas líderes a nivel mundial.",
 				
             }
 		},
@@ -226,7 +226,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             ],
             "activity": {
-                "description": "El equipo de Ford ha diseñado un taller para llevar a una selección de alumnos a través de el modelo de Design Thinking",
+                "description": "Design Thinking, es una metodología clave para el desarrollo de producto y de soluciones centradas en el usuario, será impartido por ingenieros expertos de Ford ¿Qué aprenderás en este taller? Fundamentos del Design Thinking, resolver desafíos reales de productos de Ford, networking con ingenieros de Ford. Esta es una oportunidad única para aplicar tus conocimientos, expandir tu red profesional y obtener una perspectiva sobre la cultura de innovación en una de las empresas líderes a nivel mundial.",
             }
         },
 		"m-7": {
@@ -291,6 +291,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 "name": "Marco Bello",
                 "bio": "Me llamo Marco Antonio Bello Xelhuantzi, soy Ingeniero en Diseño Automotriz por el Tec de Monterrey y cuento con la maestría en Innovación para el Desarrollo Empresarial por la misma institución, tengo 9 años de experiencia, desde el área de diseño en diversos commodities hasta mi puesto actual como Coordinador de Innovación para el área de Desarrollo de Producto de Ford de México, siendo mis principales responsabilidad la estrategia de innovación, la administración del laboratorio llamado Makerspace, además de los temas relacionados a propiedad intelectual.",
                 "photo": "img/speaker-marco-bello.JPG"
+                },
+				{
+                "name": "Ligia Olivares",
+                "bio": "Soy Ingeniera Industrial y de Sistemas, egresada del Tecnológico de Monterrey Campus Estado de México. Inicié mi trayectoria laboral en Ford en 2019 comenzando como trainee en el área de GES. Actualmente, me desempeño como Coordinadora de Innovación en el Departamento de Desarrollo de Producto. Actualmente cuento con 1 patente a mi nombre, 1 publicación defensiva y 2 ideas en proceso de investigación para obtención de patente. De igual forma, durante toda mi carrera en Ford he sido miembro del grupo Women of Ford dentro del pilar “STEM”, para fomentar la ciencia y tecnología en mujeres y niñas.",
+                "photo": "img/speaker-ligia-olivares.JPG"
                 }
             ]
         },
@@ -301,9 +306,39 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Explanada CIA",
             "speakers": [
                 {
-                "name": "Oscar Carranza, Fabián Sánchez, Karla Ramírez, Rodrigo Rodríguez, Erick Ramos, Ma. Fernanda Landeros, Brenda Ávila",
-                "bio": "Ingeniero Eléctrico Electrónico (egresado en 2023), con experiencia en desarrollo de software y análisis de datos y actualmente colaborando en el área de sistemas de protección eléctrica en Vehículos Híbridos y Eléctricos de Ford.",
+                "name": "Oscar Carranza",
+                "bio": "Mi nombre es Fabián Sánchez Hernández, tengo 23 años y soy recién egresado de la carrera de Ingeniería Aeroespacial en la UNAM, actualmente me encuentro trabajando como Champ en el área de Body Interior, más específicamente en el equipo de despliegue de bolsas de aire, empecé a trabajar en Ford en marzo de 2025, y previamente estuve trabajando en Stellantis. A pesar de llevar relativamente poco tiempo dentro de la empresa, cada día busco aprender y prepararme para aplicar a una posición de full time, y aunque haber llegado hasta aquí ha sido complicado, siempre he creído que si te propones algo eres capaz de lograrlo.",
                 "photo": "img/speaker-oscar-carranza.jpg"
+                },
+				{
+                "name": "Fabián Sánchez",
+                "bio": "Recién egresado de la carrera de Ingeniería Aeroespacial en la UNAM, actualmente se encuentra trabajando como Champ en el área de Body Interior, más específicamente en el equipo de despliegue de bolsas de aire. Empezó a trabajar en Ford en marzo de 2025, y previamente estuvo trabajando en Stellantis. A pesar de llevar relativamente poco tiempo dentro de la empresa, cada día busca aprender y prepararse para aplicar a una posición de full time. Tiene la creencia que si te propones algo eres capaz de lograrlo.",
+                "photo": "img/speaker-fabian-sanchez.png"
+                },
+				{
+                "name": "Karla Ramírez",
+                "bio": "Nací un 27 de septiembre del año 2000, en el Estado de México .Cursé la preparatoria en la ENP 2, posteriormente hice la licenciatura en Ingeniería mecánica (generación 2020). Pertenecí BAJA SAE en el sistema de Masas No suspendidas (2022-2024). En mi penúltimo semestre de la carrera hice movilidad internacional a Japón en ⼤阪⼤学 en el periodo otoño-invierno. Entré a Ford como CHAMP en BOM en octubre de 2024 y pasé a ser tiempo completo en marzo 2025",
+                "photo": "img/speaker-oscar-carranza.jpg"
+                },
+				{
+                "name": "Rodrigo Rodríguez",
+                "bio": "Ingeniero Mecánico egresado en Diciembre 2024; ex_Ford Champ de VHES (VSET ahora), ex_Ford Champ de “Ingeniería de Sistemas y Soporte en Optimización), actualmente Ingeniero de Diseño, CAD-3D, PD.",
+                "photo": "img/speaker-rodrigo-rodriguez.jpg"
+                },
+				{
+                "name": "Erick Ramos",
+                "bio": "Egresado de mecatrónica en 2016, ingreso a Ford en 2016 con rotación en distintas áreas: Ingeniero del diseño de producto: Programa de rotaciones FCG (2016-2020), Ingeniero de diseño y liberación del sistema térmico del tren motriz, Ingeniero de Calibración, Analista de Gestión de Programasd) Ingeniero de diseño y liberación del sistema térmico de la Batería de Alto Voltaje, Ingeniero de la batería de Alto Voltaje (2020-2022) e Ingeniero de Manufactura y Líder de Lanzamiento de la Batería de Alto Voltaje",
+                "photo": "img/speaker-erick-ramos.jpg"
+                },
+				{
+                "name": "Ma. Fernanda Landeros",
+                "bio": "TBD",
+                "photo": "img/speaker-fernanda-landeros.jpg"
+                },
+				{
+                "name": "Brenda Ávila",
+                "bio": "Ingeniera Industrial egresada en 2021, forme parte del grupo estudiantil UNAM Motorsports (2018-2019) en el área de Management. Tuve la oportunidad de hacer movilidad estudiantil un semestre a la Universidad Nacional de Rosario, ARG. Posteriormente, fui becaria en Audi Mexico en el área de innovación y digitalización. Entre a Ford en 2021 en el área de compras prototipos. He sido compradora de prototipos para asientos y estampados, powertrain installations y actualmente soy compradora de componentes eléctricos.",
+                "photo": "img/speaker-brenda-avila.jpg"
                 }
             ],
             "activity": {
@@ -336,7 +371,7 @@ document.addEventListener('DOMContentLoaded', () => {
             ],
             
             "activity": {
-                "description": "El equipo de Ford ha diseñado un taller para llevar a una selección de alumnos a través de el modelo de Design Thinking",
+                "description": "Design Thinking, es una metodología clave para el desarrollo de producto y de soluciones centradas en el usuario, será impartido por ingenieros expertos de Ford ¿Qué aprenderás en este taller? Fundamentos del Design Thinking, resolver desafíos reales de productos de Ford, networking con ingenieros de Ford. Esta es una oportunidad única para aplicar tus conocimientos, expandir tu red profesional y obtener una perspectiva sobre la cultura de innovación en una de las empresas líderes a nivel mundial.",
             }
             },
 		"w-6": {
@@ -362,9 +397,14 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Auditorio Sotero Prieto",
             "speakers": [
                 {
-                "name": "Leonardo Trujillo y Arturo Horcasitas",
+                "name": "Arturo Horcasitas",
                 "bio": "Jorge Arturo Rodríguez Horcasitas es maestro en ciencias de la computación por la UNAM, donde también se desempeña como profesor tanto a nivel diplomado como en licenciatura. En el diplomado en inteligencia artificial aplicada imparte el módulo de redes neuronales para el análisis de secuencias y a nivel licenciatura imparte la clase de aprendizaje profundo. Además de su labor académica, Jorge Arturo lidera un equipo de científicos de datos en Ford. Cuenta con siete años de experiencia en la industria, durante los cuales ha tenido la oportunidad de trabajar en diversas áreas, como visión por computadora, tratamiento del lenguaje natural, análisis de series de tiempo y análisis de datos tabulares.",
                 "photo": "img/speaker-arturo-horcasitas.png"
+                },
+				{
+                "name": "Leonardo Trujillo",
+                "bio": "Leonardo Trujillo es Coordinador de presupuesto, compras y control interno para mercados emergentes en Norteamerica. Además de ser el Coordinador del Club de Inteligencia Artificial de Ford de México. Con una mentalidad estratégica y creativa, busca sembrar semillas de innovación, aprovechando la tecnología y la resolución de problemas para enfrentar desafíos complejos y dar forma al futuro.",
+                "photo": "img/speaker-leonardo-trujillo.png"
                 }
             ],
             "activity": {
@@ -378,13 +418,23 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Sala por definir",
             "speakers": [
                 {
-                "name": "Roberto Peña, Enrique González y Shair Mendoza",
+                "name": "Roberto Peña",
                 "bio": "Roberto Peña es Ingeniero Mecánico y Maestro en Ingeniería Mecánica por la Universidad Nacional Autónoma de México (UNAM), con un Diplomado en Sistemas Complejos del Massachusetts Institute of Technology (MIT). Posee 15 años de sólida experiencia profesional en Ford Motor Company, donde se he especializado en el desarrollo de sistemas estructurales de carrocería metálica, así como en el diseño y liberación de sistemas de cierre (puertas laterales y traseras) y del sistema de panel de instrumentos. Su perfil se complementa con experiencia como Ingeniero de Sistemas, con un enfoque probado en modelado y optimización de funciones y diseño.",
                 "photo": "img/speaker-roberto-peña.png"
+                },
+				{
+                "name": "Enrique González",
+                "bio": "Enrique González es Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM. Fue profesor de Introducción de Estudios de Mecanismos en la Facultad de Ingeniería de 2004 al 2009. Actualmente tiene el puesto de Chassis Multi Body Dynamics CAE Engineer en Ford.",
+                "photo": "img/speaker-enrique-gonzalez.png"
+                },
+				{
+                "name": "Shair Mendoza",
+                "bio": "TBD",
+                "photo": "img/speaker-shair-mendoza.png"
                 }
             ],
             "activity": {
-                "description": "TBD"
+                "description": "Este taller está especialmente diseñado para profesores, buscando generar una interacción dinámica y fructífera entre la academia y la industria. Descubra de primera mano: Cómo Ford identifica y define un problema o una necesidad de mercado, transformándola en un producto innovador, las etapas clave del ciclo de vida del desarrollo de un vehículo, desde el concepto y el diseño, hasta la manufactura y el servicio post-venta, el enfoque de Ford en la ingeniería sistémica y la colaboración interfuncional para superar desafíos complejos y oportunidades de diálogo y transferencia de conocimiento que pueden enriquecer su labor docente y de investigación, preparando mejor a la próxima generación de ingenieros."
             }
         },
 		"w-9": {
@@ -394,9 +444,29 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Explanada CIA",
             "speakers": [
                 {
-                "name": "Santiago Aguilar, Paulo Becerril, Miguel Clemente, Salvador Honorato y Francisco Villa",
+                "name": "Santiago Aguilar",
                 "bio": "Santiago Aguilar Martínez es un ingeniero mecatrónico egresado de la Universidad Nacional Autónoma de México en 2023. Inició su carrera en Ford de México como becario en la posición de Ingeniero de Integración, siendo contratado de tiempo completo en 2024. Desde Hermosillo, ha contribuido al lanzamiento de la Bronco Sport 2025/2026 y la Maverick 2026. Actualmente trabaja desde ciudad de México en los modelos del año 2029. Su experiencia previa en UNAM Motorsports, en los sistemas de Transmisión y Management, le permitió desarrollar habilidades en validación, simulación y gestión de equipos.",
                 "photo": "img/speaker-santiago-aguilar.jpg"
+                },
+				{
+                "name": "Paulo Becerril",
+                "bio": "Paulo César Becerril González, es un ingeniero Mecatrónico egresado de la Universidad Nacional Autónoma de México (UNAM). De 2011 a 2013 participó en el equipo de Formula SAE como desarrollador del sistema de suspensión, así como del atenuador de impacto y de coordinador de pruebas de vehículo. Desde 2015 forma parte de Ford Motor Company, donde se desempeña como ingeniero de CAD en PT Electronics Hardware.",
+                "photo": "img/speaker-paulo-becerril.jpg"
+                },
+				{
+                "name": "Miguel Clemente",
+                "bio": "Miguel Clemente Eguiluz, ingeniero mecánico egresado de la Facultad de Ingeniería. Miembro de UNAM Motorsports en las temporadas 2012 y 2013 en el área de management. Su trayectoria profesional abarca Project Management para el desarrollo de Bronco Sport 2021 y su rediseño 2025 así como Maverick 2025 enfocados en program planning, user experience y lanzamiento en planta de producción; así como el área comercial en planeación y estrategia de producto en México, Caribe y Centroamérica. Actualmente se desempeña en planeación estratégica de producto futuro para el mercado mexicano.",
+                "photo": "img/speaker-miguel-clemente.jpg"
+                },
+				{
+                "name": "Salvador Honorato",
+                "bio": "Salvador Honorato Navarrete, ingeniero mecánico de la UNAM (graduado en 2024), ocupó la posición de líder del sistema de Motor y Enfriamiento para el vehículo de combustión interna de UNAM Motorsports entre 2022 y 2024. Con 2.5 años de experiencia en Ford Motor Company, se ha especializado en el diseño de intercambiadores de calor para el Mustang. Sus responsabilidades incluyen la coordinación integral del desarrollo de componentes para el enfriamiento de motor y transmisión, abarcando desde la conceptualización inicial, diseño digital, evaluación CAE, gestión de proveedores, planificación de producción, hasta el lanzamiento.",
+                "photo": "img/speaker-salvador-honorato.jpg"
+                },
+				{
+                "name": "Francisco Villa",
+                "bio": "Francisco Javier Villa Mancera, ingeniero mecánico egresado de la UNAM en 2015, fue capitán del equipo Formula SAE entre 2013 y 2015, logrando un tercer lugar en el reporte de costos en Lincoln 2015. Con 10 años en Ford Motor Company, se ha especializado en el diseño de componentes de materiales compuestos para vehículos comerciales y de Ford Performance. Actualmente, optimiza costos y manufactura de piezas interiores, convirtiendo componentes metálicos estructurales a polímeros compuestos. Sus responsabilidades incluyen la coordinación del diseño digital, evaluación CAE, gestión con proveedores y planificación de producción.",
+                "photo": "img/speaker-francisco-villa.jpg"
                 }
             ],
             "activity": {
@@ -461,8 +531,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
                 {
                 "name": "Omar López",
-                "bio": "Ingeniero Mecatrónico egresado de la Facultad de Ingeniería (UNAM). Experiencia en el sector automotriz, desempeñado roles en áreas como Ingeniería de Calidad, Diseño Asistido por Computadora (CAD) y Gestión de Listas de Materiales (BOM). Trayectoria en empresas automotrices como Ford Motor Company y BMW Group.",
-                "photo": "img/speaker-0mar-lopez.jpg"
+                "bio": "Ingeniero Mecatrónico egresado de la Facultad de Ingeniería. Experiencia en el sector automotriz, desempeñado roles en áreas como Ingeniería de Calidad, Diseño Asistido por Computadora (CAD) y Gestión de Listas de Materiales (BOM). Trayectoria en empresas automotrices como Ford Motor Company y BMW Group.",
+                "photo": "img/speaker-omar-lopez.jpg"
                 },
                 {
                 "name": "Óscar Santos",
@@ -609,6 +679,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
