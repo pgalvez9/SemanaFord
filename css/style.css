@@ -318,6 +318,208 @@ body {
     }
 }
 
+.color-legend {
+    background-color: var(--white);
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
+    padding: 20px;
+    margin: 20px auto 40px auto; /* Centrar y dar espacio */
+    max-width: 600px; /* Ancho máximo para que no sea demasiado grande */
+    border: 1px solid var(--light-gray);
+    text-align: center; /* Centrar el texto dentro del recuadro */
+}
+
+.color-legend h3 {
+    color: var(--unam-blue);
+    font-size: 1.4em;
+    margin-bottom: 15px;
+    border-bottom: 1px solid var(--light-gray);
+    padding-bottom: 10px;
+    display: inline-block; /* Para que el borde inferior se ajuste al texto */
+}
+
+.color-legend ul {
+    list-style: none; /* Quitar los puntos de la lista */
+    padding: 0;
+    display: flex; /* Para que los elementos de la lista se pongan en fila */
+    flex-wrap: wrap; /* Para que los elementos se envuelvan en pantallas pequeñas */
+    justify-content: center; /* Centrar los elementos de la lista */
+    gap: 15px; /* Espacio entre los elementos de la lista */
+}
+
+.color-legend li {
+    display: flex;
+    align-items: center;
+    font-size: 0.95em;
+    color: var(--dark-gray);
+}
+
+.color-box {
+    display: inline-block;
+    width: 20px; /* Tamaño del cuadrado de color */
+    height: 20px; /* Tamaño del cuadrado de color */
+    border-radius: 4px; /* Ligeramente redondeado */
+    margin-right: 10px; /* Espacio entre el color y el texto */
+    border: 1px solid rgba(0, 0, 0, 0.1); /* Borde sutil para definirlo */
+}
+
+/* Asignar colores a los cuadrados de la leyenda usando las variables de color */
+.color-box.tech-color {
+    background-color: var(--category-tech);
+}
+
+.color-box.taller-color {
+    background-color: var(--category-taller);
+}
+
+.color-box.ls-color {
+    background-color: var(--category-ls);
+}
+
+.color-box.ss-color {
+    background-color: var(--category-ss);
+}
+
+.color-box.show-color {
+    background-color: var(--category-show);
+}
+/* Responsividad para la leyenda (ajuste si es necesario) */
+@media (max-width: 768px) {
+    .color-legend {
+        margin: 20px 10px 40px 10px; /* Ajustar márgenes en móviles */
+        padding: 15px;
+    }
+
+    .color-legend ul {
+        flex-direction: column; /* Apilar los elementos en móviles */
+        align-items: flex-start; /* Alinear a la izquierda */
+        gap: 10px;
+    }
+
+    .color-legend li {
+        width: 100%; /* Ocupar todo el ancho disponible */
+    }
+}
 
 
+.modal-content.single-column {
+    /* Aquí podrías ajustar el justify-content si quieres que el único item se centre por flexbox,
+       pero el 'margin: 0 auto;' en .activity-info es más directo para centrar el bloque. */
+    justify-content: center; 
+}
 
+.modal-content.single-column .activity-info {
+    flex: none; /* Deshabilita el crecimiento de flexbox para este elemento */
+    width: 100%; /* Ocupa el 100% del ancho disponible de su padre (modal-content) */
+    max-width: 550px; /* Define un ancho máximo para la columna de actividad cuando es la única. AJUSTA ESTE VALOR A TU GUSTO */
+    margin: 0 auto; /* Centra el bloque de actividad horizontalmente dentro de modal-content */
+    /* Si quieres que el texto de la descripción también se centre cuando no hay ponente, añade: */
+    /* text-align: center; */
+}
+
+/* Si en el caso de que sea una sola columna quieres que los párrafos se centren también */
+.modal-content.single-column .activity-info p {
+    text-align: center; /* Centra el texto de los párrafos solo en modo single-column */
+}
+
+/* Si quieres que la imagen de la actividad también se centre, podrías añadir: */
+.modal-content.single-column .activity-info .activity-photo {
+    display: block; /* Para que margin auto funcione */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Asegúrate que los títulos dentro de activity-info sigan centrados */
+.activity-info h3,
+.activity-info h4 {
+    text-align: center; /* Esto ya debería estar así, pero es bueno confirmarlo */
+}
+/* Estilos para el contenedor de múltiples ponentes */
+.speaker-info {
+    flex: 1; /* Mantiene su comportamiento flexbox para el diseño de dos columnas */
+    min-width: 300px; /* Ancho mínimo antes de apilarse */
+    text-align: center;
+    overflow-y: auto; /* ¡Permite el desplazamiento vertical si el contenido es demasiado largo! */
+    max-height: 70vh; /* Limita la altura de la sección para que el modal no se desborde de la pantalla */
+    padding-right: 15px; /* Añade espacio para la barra de desplazamiento si aparece */
+    scrollbar-width: thin; /* Estilo de la barra de desplazamiento para Firefox */
+    scrollbar-color: var(--ford-blue) var(--light-gray); /* Color de la barra de desplazamiento para Firefox */
+}
+
+/* Estilos para la barra de desplazamiento en navegadores basados en Webkit (Chrome, Edge, Safari) */
+.speaker-info::-webkit-scrollbar {
+    width: 8px; /* Ancho de la barra de desplazamiento */
+}
+
+.speaker-info::-webkit-scrollbar-track {
+    background: var(--light-gray); /* Color del fondo de la barra de desplazamiento */
+    border-radius: 10px;
+}
+
+.speaker-info::-webkit-scrollbar-thumb {
+    background-color: var(--ford-blue); /* Color del "pulgar" de la barra de desplazamiento */
+    border-radius: 10px;
+    border: 2px solid var(--light-gray); /* Borde alrededor del pulgar */
+}
+
+
+/* Estilos para cada bloque de ponente dinámico (el que contiene foto, nombre, bio) */
+.dynamic-speaker-block {
+    margin-bottom: 30px; /* Espacio entre cada ponente */
+    padding-bottom: 20px;
+    border-bottom: 1px solid var(--light-gray); /* Un separador sutil entre ponentes */
+}
+
+.dynamic-speaker-block:last-child {
+    border-bottom: none; /* El último ponente no necesita separador inferior */
+    margin-bottom: 0; /* No hay margen inferior para el último */
+    padding-bottom: 0;
+}
+
+/* Estilos para la foto del ponente dentro del bloque dinámico (¡la foto grande!) */
+.dynamic-speaker-block .speaker-photo-large {
+    max-width: 100%; /* Asegura que la imagen no se desborde de su contenedor */
+    height: auto; /* Mantiene la proporción de la imagen */
+    border-radius: 8px; /* Bordes ligeramente redondeados */
+    margin-bottom: 15px; /* Espacio debajo de la foto */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Sombra suave para darle profundidad */
+    display: block; /* Para que margin auto funcione al centrar */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Estilos para el nombre del ponente */
+.dynamic-speaker-block h4 {
+    color: var(--ford-blue);
+    font-size: 1.3em;
+    margin-bottom: 10px;
+}
+
+/* Estilos para la biografía del ponente */
+.dynamic-speaker-block p {
+    font-size: 1em;
+    color: #555;
+    text-align: left; /* La biografía es mejor leerla alineada a la izquierda */
+}
+
+/* Asegurarse que en móvil se apile bien */
+@media (max-width: 768px) {
+    .modal-content {
+        flex-direction: column; /* Apilar las secciones en el modal */
+    }
+
+    .speaker-info,
+    .activity-info {
+        width: 100%; /* Ocupar todo el ancho disponible */
+        min-width: unset; /* Eliminar min-width para móviles */
+    }
+
+    .speaker-info {
+        max-height: 50vh; /* Ajusta la altura máxima para el scroll en móviles si es necesario */
+    }
+
+    .dynamic-speaker-block {
+        margin-bottom: 20px;
+        padding-bottom: 15px;
+    }
+}
