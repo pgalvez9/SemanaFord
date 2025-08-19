@@ -117,10 +117,9 @@ document.addEventListener('DOMContentLoaded', () => {
 				{
 					"photo":"img/speaker-vehicle-showtime.jpg"
 				}
-				]
+				],
             "activity": {
                 "description": "Ven a conocer e interactuar con nuestros vehículos Ford",
-				
             }
 		},
 		"l-6": {
@@ -531,7 +530,7 @@ document.addEventListener('DOMContentLoaded', () => {
 				{
 				"photo":"img/speaker-shark-tank.jpeg"
 				}
-				]
+				],
             "activity": {
                 "description": "Te invitamos a las presentaciones finales de los equipos participantes del taller de Design Thinking.  Tendremos un panel de jueces invitados que darán retroalimentación a los equipos."
 				
@@ -542,6 +541,11 @@ document.addEventListener('DOMContentLoaded', () => {
             "time": "11:00 - 12:00",
             "audience": "General",
             "location": "CIA - Sótano",
+			"speakers": [
+				{
+				"photo":"img/speaker-shark-tank.jpeg"
+				}
+				],
             "activity": {
                 "description": "Acompáñanos a la premiación de los equipos participantes del taller de Design Thinking."
             }
@@ -733,6 +737,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
