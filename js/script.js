@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				{
                 "name": "Gabriela Vargas",
-                "bio": "Gabriela Ortiz Vargas es Ingeniera DevOps en el área de herramientas para desarrolladores en Ford.  Su proactividad y compromiso le han ayudado a tomar nuevas oportunidades de crecimiento profesional, ha trabajado en empresas internacionales en donde ha enriquecido su conocimiento técnico así como aprender de un ambiente multicultural. ",
+                "bio": "Gabriela Ortiz Vargas es Ingeniera DevOps en el área de herramientas para desarrolladores en Ford.  Su proactividad y compromiso le han ayudado a tomar nuevas oportunidades de crecimiento profesional, ha trabajado en empresas internacionales en donde ha enriquecido su conocimiento técnico así como aprender de un ambiente multicultural.",
                 "photo": "img/speaker-stephanie-marin.jpg"
                 },
 				{
@@ -219,7 +219,6 @@ document.addEventListener('DOMContentLoaded', () => {
             ],
             "activity": {
                 "description": "En esta presentación se explicará por qué la IA es una pieza clave para el futuro automotriz. Parte de los fundamentos de Turing y McCarthy, distingue entre IA débil, fuerte y superinteligencia, y ubica tecnologías como machine learning, deep learning e IA generativa dentro de un mismo espectro. Explicaremos los tres modelos de aprendizaje (supervisado, no supervisado y por refuerzo) y, sobre todo, demostraremos su impacto directo en Ford: conducción autónoma, mantenimiento predictivo, personalización del usuario y control de calidad.",
-				
             }
         },
 		"m-4": {
@@ -266,7 +265,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 		"m-7": {
             "title": "Coloquio PARA - Experiencias compartidas por Ingenieros de Ford",
-            "time": "13:00 - 14:00",
+            "time": "13:00 - 14:30",
 			"audience": "General y Agrupaciones",
 			"location": "Auditorio Sotero Prieto",
             "speakers": [
@@ -292,7 +291,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         "m-8": {
             "title": "Gemelos Digitales: La actualidad del desarrollo de controladores",
-            "time": "14:00 - 15:00",
+            "time": "15:00 - 16:00",
 			"audience": "General",
 			"location": "Auditorio Sotero Prieto",
             "speakers": [
@@ -724,6 +723,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
