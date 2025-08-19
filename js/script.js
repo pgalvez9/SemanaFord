@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Auditorio Sotero Prieto",
             "speakers": [
                 {
-                "name": "Stephanie Machorro",
+                "name": "Stephanie Marín",
                 "bio": "Stephanie Marín es Ingeniera en Gestión Empresarial con Maestría en Ingeniería Industrial. Con más de una década de experiencia en áreas como recursos humanos, ventas, manufactura, estimación de costos y gestión de programas, actualmente se desempeña como Program Manager en el área de Global Engineering Services dentro de Ford, liderando proyectos estratégicos de alto impacto. Apasionada por la ingeniería y el impulso del talento femenino en STEM, combina su carrera con su vida personal como esposa y madre de una niña pequeña, inspirando a otras mujeres a construir trayectorias profesionales plenas y equilibradas.",
                 "photo": "img/speaker-stephanie-marin.jpg"
                 },
@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/speaker-michelle-jaramillo.png"
                 },
 				{
-                "name": "Gabriela Vargas",
+                "name": "Gabriela Ortiz",
                 "bio": "Gabriela Ortiz Vargas es Ingeniera DevOps en el área de herramientas para desarrolladores en Ford.  Su proactividad y compromiso le han ayudado a tomar nuevas oportunidades de crecimiento profesional, ha trabajado en empresas internacionales en donde ha enriquecido su conocimiento técnico así como aprender de un ambiente multicultural.",
                 "photo": "img/speaker-stephanie-marin.jpg"
                 },
@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             ],
             "activity": {
-                "description": "",
+                "description": "TBD",
 				
             }
 		},
@@ -167,7 +167,7 @@ document.addEventListener('DOMContentLoaded', () => {
 				{
                 "name": "Gabriela Tiscareño",
                 "bio": "Gabriela Tiscareño es Licenciada en Comunicación y Medios Digitales,graduada del Tec de Monterrey Campus estado de México con especialización en Estrategia en Redes Sociales. Comenzó su trayectoria profesional como becaria en diferentes start-ups de Marketing Digital en el 2019, fue voluntaria en el Departamento de Comunicación e Información Pública de la UNESCO México, e inició su carrera profesional en Ford en marzo del 2023 como becaria en el área de Cultura y Diversidad, Equidad e Inclusión elaborando estrategias de comunicación interna. Desde diciembre del 2023 forma parte del proyecto Ford Business Solutions, área que le da soporte a los distribuidores de Estados Unidos, siendo parte primero de la región de Phoenix como Analista de Experiencia del Cliente y Servicio, y desde junio del 2025 como Analista de Planeación y Distribución en la región de Cincinnati. Forma parte de los líderes de Ford Clubs desde mayo del 2024 y dirige los temas de comunicación interna de los clubes. Estar en esta iniciativa le ha permitido vivir experiencias enriquecedoras no solo a nivel profesional sino también a nivel personal, pues permite conocer a personas de diversas áreas de la empresa, así como de diversos intereses y afinidades.",
-                "photo": "img/speaker -gabriela-tiscareno.jpeg"
+                "photo": "img/speaker-gabriela-tiscareno.jpeg"
                 },
 				{
                 "name": "Fernando Barajas",
@@ -723,6 +723,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
