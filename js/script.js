@@ -41,9 +41,24 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Auditorio Sotero Prieto",
             "speakers": [
                 {
-                "name": "Stephanie Machorro, Michelle Jaramillo, Gabriela Vargas, Grisel Felipe",
+                "name": "Stephanie Machorro",
                 "bio": "Stephanie Marín es Ingeniera en Gestión Empresarial con Maestría en Ingeniería Industrial. Con más de una década de experiencia en áreas como recursos humanos, ventas, manufactura, estimación de costos y gestión de programas, actualmente se desempeña como Program Manager en el área de Global Engineering Services dentro de Ford, liderando proyectos estratégicos de alto impacto. Apasionada por la ingeniería y el impulso del talento femenino en STEM, combina su carrera con su vida personal como esposa y madre de una niña pequeña, inspirando a otras mujeres a construir trayectorias profesionales plenas y equilibradas.",
                 "photo": "img/speaker-stephanie-marin.jpg"
+                },
+				{
+                "name": "Michelle Jaramillo",
+                "bio": "Con 29 años y más de 6 años de experiencia en la industria automotriz, Michelle Jaramillo ha liderado proyectos estratégicos en manufactura, producción e innovación. Su trayectoria incluye el lanzamiento exitoso de una planta de pintura, así como la implementación de mejoras operativas a través de metodologías de excelencia. Actualmente forma parte del equipo de CSAP, donde se desempeña en iniciativas de transformación enfocadas en eficiencia, calidad y sostenibilidad. Está certificada como Lean Six Sigma Black Belt, lo que respalda su capacidad para liderar proyectos de mejora continua con enfoque en datos y resultados. Michelle es Ingeniera egresada de la Facultad de Ingeniería de la UNAM y actualmente cursa una Maestría en el Tecnológico de Monterrey, fortaleciendo su perfil con herramientas de liderazgo, innovación y gestión avanzada de operaciones.",
+                "photo": "img/speaker-michelle-jaramillo.png"
+                },
+				{
+                "name": "Gabriela Vargas",
+                "bio": "Gabriela Ortiz Vargas es Ingeniera DevOps en el área de herramientas para desarrolladores en Ford.  Su proactividad y compromiso le han ayudado a tomar nuevas oportunidades de crecimiento profesional, ha trabajado en empresas internacionales en donde ha enriquecido su conocimiento técnico así como aprender de un ambiente multicultural. ",
+                "photo": "img/speaker-stephanie-marin.jpg"
+                },
+				{
+                "name": "Grisel Felipe",
+                "bio": "Grisel Felipe Avalos es Ingeniera en Telecomunicaciones y orgullosa egresada de la UNAM, es una líder innovadora en Ford. Con una década de experiencia, actualmente como Global Trade Services Product Manager, impulsa la innovación y lidera un equipo de desarrollo de software clave para la exportación de vehículos a escala global.",
+                "photo": "img/speaker-grisel-felipe.jpg"
                 }
             ],
             "activity": {
@@ -151,18 +166,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				{
                 "name": "Gabriela Tiscareño",
-                "bio": "Jocelyn es Ingeniero en mecatrónica graduada del TEC de Monterrey Campus Estado de México, tiene un MBA con especialidad en calidad y comenzó su carrera profesional en Ford Motor Company en el 2009. Dentro de Ford ha adquirido experiencia en diferentes áreas de la compañía, comenzando en el área de manufactura en la planta de Pintura en Cuautitán Izcalli con el proyecto del Ford Fiesta, posteriormente como ingeniero de Body Interior dentro del mismo programa solucionando y mejorando problemas de diseño. Ha sido ingeniero de diseño y desarrollo para diversos programas en Ford como F-150, Bronco Sport, Maverick, etc. Jocelyn también ha adquirido gran experiencia en el área de calidad y tiene una certificación como Black Belt en la metodología Six Sigma. Actualmente es Analista de exportación asegurándose de que las regulaciones necesarias para los diferentes mercados se cumplan y en paralelo a esto es líder de la iniciativa Ford Clubs en Ford de México desarrollando el crecimiento de esta estrategia que ha sido clave para la satisfacción y bienestar de los empleados en Ford.",
-                "photo": "img/speaker-joss-moctezuma.jpg"
+                "bio": "Gabriela Tiscareño es Licenciada en Comunicación y Medios Digitales,graduada del Tec de Monterrey Campus estado de México con especialización en Estrategia en Redes Sociales. Comenzó su trayectoria profesional como becaria en diferentes start-ups de Marketing Digital en el 2019, fue voluntaria en el Departamento de Comunicación e Información Pública de la UNESCO México, e inició su carrera profesional en Ford en marzo del 2023 como becaria en el área de Cultura y Diversidad, Equidad e Inclusión elaborando estrategias de comunicación interna. Desde diciembre del 2023 forma parte del proyecto Ford Business Solutions, área que le da soporte a los distribuidores de Estados Unidos, siendo parte primero de la región de Phoenix como Analista de Experiencia del Cliente y Servicio, y desde junio del 2025 como Analista de Planeación y Distribución en la región de Cincinnati. Forma parte de los líderes de Ford Clubs desde mayo del 2024 y dirige los temas de comunicación interna de los clubes. Estar en esta iniciativa le ha permitido vivir experiencias enriquecedoras no solo a nivel profesional sino también a nivel personal, pues permite conocer a personas de diversas áreas de la empresa, así como de diversos intereses y afinidades.",
+                "photo": "img/speaker -gabriela-tiscareno.jpeg"
                 },
 				{
-                "name": "Jocelyn Moctezuma, Gabriela Tiscareño, Fernando Barajas y Rodrigo Téllez",
-                "bio": "Jocelyn es Ingeniero en mecatrónica graduada del TEC de Monterrey Campus Estado de México, tiene un MBA con especialidad en calidad y comenzó su carrera profesional en Ford Motor Company en el 2009. Dentro de Ford ha adquirido experiencia en diferentes áreas de la compañía, comenzando en el área de manufactura en la planta de Pintura en Cuautitán Izcalli con el proyecto del Ford Fiesta, posteriormente como ingeniero de Body Interior dentro del mismo programa solucionando y mejorando problemas de diseño. Ha sido ingeniero de diseño y desarrollo para diversos programas en Ford como F-150, Bronco Sport, Maverick, etc. Jocelyn también ha adquirido gran experiencia en el área de calidad y tiene una certificación como Black Belt en la metodología Six Sigma. Actualmente es Analista de exportación asegurándose de que las regulaciones necesarias para los diferentes mercados se cumplan y en paralelo a esto es líder de la iniciativa Ford Clubs en Ford de México desarrollando el crecimiento de esta estrategia que ha sido clave para la satisfacción y bienestar de los empleados en Ford.",
-                "photo": "img/speaker-joss-moctezuma.jpg"
+                "name": "Fernando Barajas",
+                "bio": "Fernando Barajas es un profesional con una sólida formación académica y 8 años de experiencia en Ford Motor Company. Es Ingeniero Aeronáutico por el IPN, posee una Maestría en Administración de Empresas y un Doctorado en Ingeniería Mecánica. Su trayectoria en Ford se centra en la Ingeniería de Diseño de Interiores y el Desarrollo de Producto. Lidera iniciativas de innovación, implementando mejores prácticas y nuevos procesos para optimizar la eficiencia en el diseño. Previamente, Fernando acumuló valiosa experiencia en el sector aeronáutico. En Airbus, líder mundial en fabricación de aeronaves, fue responsable de la ingeniería de diseño y reparaciones estructurales. Esta diversa experiencia le ha proporcionado una perspectiva integral, aplicable al diseño automotriz actual. Más allá de su ámbito profesional, Fernando ha desempeñado un papel fundamental en la organización de eventos deportivos corporativos. Desde 2018, ha representado a Ford en los Corporate Games Mexico, contribuyendo a que la empresa obtuviera el 1er lugar como "mejor empresa deportiva en México" en 2023 y 2024, además de un récord de medallas. Combinando su sólida trayectoria profesional con la disciplina del deporte, actualmente coordina áreas de integración de innovación y los Corporate Games Mexico. Su enfoque principal es la estrategia y el valor añadido que la relación trabajo-vida genera en el bienestar de los empleados de Ford México.",
+                "photo": "img/speaker-israel-barajas.jpeg"
                 },
 				{
-                "name": "Jocelyn Moctezuma, Gabriela Tiscareño, Fernando Barajas y Rodrigo Téllez",
-                "bio": "Jocelyn es Ingeniero en mecatrónica graduada del TEC de Monterrey Campus Estado de México, tiene un MBA con especialidad en calidad y comenzó su carrera profesional en Ford Motor Company en el 2009. Dentro de Ford ha adquirido experiencia en diferentes áreas de la compañía, comenzando en el área de manufactura en la planta de Pintura en Cuautitán Izcalli con el proyecto del Ford Fiesta, posteriormente como ingeniero de Body Interior dentro del mismo programa solucionando y mejorando problemas de diseño. Ha sido ingeniero de diseño y desarrollo para diversos programas en Ford como F-150, Bronco Sport, Maverick, etc. Jocelyn también ha adquirido gran experiencia en el área de calidad y tiene una certificación como Black Belt en la metodología Six Sigma. Actualmente es Analista de exportación asegurándose de que las regulaciones necesarias para los diferentes mercados se cumplan y en paralelo a esto es líder de la iniciativa Ford Clubs en Ford de México desarrollando el crecimiento de esta estrategia que ha sido clave para la satisfacción y bienestar de los empleados en Ford.",
-                "photo": "img/speaker-joss-moctezuma.jpg"
+                "name": "Rodrigo Téllez",
+                "bio": "Rodrigo Téllez Garza es egresado de la Universidad de las Américas Puebla (UDLAP) de la carrera de Ingeniería Mecánica. Inició su carrera profesional como Operations Specialist en una start-up de Inteligencia Artificial, donde desarrolló diversos proyectos con clientes como Apple y Meta. En abril del 2022, se incorporó a Ford de México como PD Serviceability Engineer, donde lideró diferentes iniciativas para mejorar el servicio a nuestros clientes. En diciembre de 2023, se integró al área de calidad, donde como OPD Engineer se asegura que la calidad de los componentes de combustible para Norte América cumpla con ciertas regulaciones y estándares de la industria automotriz. Es líder del Club de Basketball desde 2023, en donde a través de diversas actividades ha podido crecer personal como profesionalmente, permitiéndole hacer amistades fuera del trabajo y tener una red de contactos más amplia.",
+                "photo": "img/speaker-rodrigo-tellez.PNG"
                 }
             ],
             "activity": {
@@ -709,6 +724,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
