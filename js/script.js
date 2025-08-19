@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
 				{
                 "name": "Gabriela Ortiz",
                 "bio": "Gabriela Ortiz Vargas es Ingeniera DevOps en el área de herramientas para desarrolladores en Ford.  Su proactividad y compromiso le han ayudado a tomar nuevas oportunidades de crecimiento profesional, ha trabajado en empresas internacionales en donde ha enriquecido su conocimiento técnico así como aprender de un ambiente multicultural.",
-                "photo": "img/speaker-stephanie-marin.jpg"
+                "photo": "img/speaker-gabriela-ortiz.png"
                 },
 				{
                 "name": "Grisel Felipe",
@@ -167,7 +167,7 @@ document.addEventListener('DOMContentLoaded', () => {
 				{
                 "name": "Gabriela Tiscareño",
                 "bio": "Gabriela Tiscareño es Licenciada en Comunicación y Medios Digitales,graduada del Tec de Monterrey Campus estado de México con especialización en Estrategia en Redes Sociales. Comenzó su trayectoria profesional como becaria en diferentes start-ups de Marketing Digital en el 2019, fue voluntaria en el Departamento de Comunicación e Información Pública de la UNESCO México, e inició su carrera profesional en Ford en marzo del 2023 como becaria en el área de Cultura y Diversidad, Equidad e Inclusión elaborando estrategias de comunicación interna. Desde diciembre del 2023 forma parte del proyecto Ford Business Solutions, área que le da soporte a los distribuidores de Estados Unidos, siendo parte primero de la región de Phoenix como Analista de Experiencia del Cliente y Servicio, y desde junio del 2025 como Analista de Planeación y Distribución en la región de Cincinnati. Forma parte de los líderes de Ford Clubs desde mayo del 2024 y dirige los temas de comunicación interna de los clubes. Estar en esta iniciativa le ha permitido vivir experiencias enriquecedoras no solo a nivel profesional sino también a nivel personal, pues permite conocer a personas de diversas áreas de la empresa, así como de diversos intereses y afinidades.",
-                "photo": "img/speaker-gabriela-tiscareno.jpeg"
+                "photo": "img/speaker -gabriela-tiscareno.jpeg"
                 },
 				{
                 "name": "Fernando Barajas",
@@ -339,7 +339,7 @@ document.addEventListener('DOMContentLoaded', () => {
 				{
                 "name": "Ligia Olivares",
                 "bio": "Soy Ingeniera Industrial y de Sistemas, egresada del Tecnológico de Monterrey Campus Estado de México. Inicié mi trayectoria laboral en Ford en 2019 comenzando como trainee en el área de GES. Actualmente, me desempeño como Coordinadora de Innovación en el Departamento de Desarrollo de Producto. Actualmente cuento con 1 patente a mi nombre, 1 publicación defensiva y 2 ideas en proceso de investigación para obtención de patente. De igual forma, durante toda mi carrera en Ford he sido miembro del grupo Women of Ford dentro del pilar “STEM”, para fomentar la ciencia y tecnología en mujeres y niñas.",
-                "photo": "img/speaker-ligia-olivares.JPG"
+                "photo": "img/speaker-ligia-olivares.jpg"
                 }
             ]
         },
@@ -362,7 +362,7 @@ document.addEventListener('DOMContentLoaded', () => {
 				{
                 "name": "Karla Ramírez",
                 "bio": "Nací un 27 de septiembre del año 2000, en el Estado de México .Cursé la preparatoria en la ENP 2, posteriormente hice la licenciatura en Ingeniería mecánica (generación 2020). Pertenecí BAJA SAE en el sistema de Masas No suspendidas (2022-2024). En mi penúltimo semestre de la carrera hice movilidad internacional a Japón en ⼤阪⼤学 en el periodo otoño-invierno. Entré a Ford como CHAMP en BOM en octubre de 2024 y pasé a ser tiempo completo en marzo 2025",
-                "photo": "img/speaker-oscar-carranza.jpg"
+                "photo": "img/speaker-karla-ramirez.jpg"
                 },
 				{
                 "name": "Rodrigo Rodríguez",
@@ -723,6 +723,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
