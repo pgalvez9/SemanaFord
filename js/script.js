@@ -557,6 +557,22 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         },
 			/* HORARIO JUEVES */
+		"j-0": {
+            "title": "Prompts inteligentes. Traducciones en el mundo automotriz.",
+            "time": "09:00 - 10:00",
+            "audience": "General",
+            "location": "Auditorio Sotero Prieto",
+			"speakers": [
+				{
+				"name": "María Fernanda García Díaz Arauz",
+                "bio": "María Fernanda García Díaz Arauz es Licenciada en Relaciones Internacionales por la Universidad Anáhuac Norte. Con ocho años de trayectoria en Ford de México, se ha especializado en el área de Desarrollo de Producto, enfocándose en Traducciones y Fuentes para las pantallas de vehículos y aplicaciones móviles. Su formación continua incluye diplomados como 'IA para Líderes' por la Universidad de Texas, 'Conducción de Equipos de Alto Desempeño' y 'Lidereando con Propósito', ambos por el Tecnológico de Monterrey. Entre sus logros más recientes, destaca la exitosa implementación en México del proceso de traducciones para programas de exportación y domésticos, anteriormente gestionado desde China.",
+                "photo": "img/speaker-fernanda-garcia.png"
+				}
+				],
+            "activity": {
+                "description": "En esta sesión se profundizará en la integración de tecnología de punta, como la Inteligencia Artificial, y la necesidad de invertir en el desarrollo de las capacidades humanas de los equipos a manera de maximizar el impacto dentro de las organizaciones. El comprender la dualidad de la tecnología y el talento humano que la potencia te permitirá maximizar los recursos, fomentar la agilidad y asegurar una respuesta eficaz ante los desafíos de la industria."				
+            }
+        },
 		"j-1": {
             "title": "Shark Tank",
             "time": "10:00 - 11:00",
@@ -738,6 +754,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
