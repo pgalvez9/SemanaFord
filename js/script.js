@@ -159,7 +159,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Ford y Baja SAE",
             "time": "15:00 - 16:00",
             "audience": "General",
-            "location": "Por Definir",
+            "location": "Auditorio Sotero Prieto",
             "speakers": [
                 {
                 "name": "Antonio Gómez",
@@ -188,7 +188,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
             ],
             "activity": {
-                "description": "Una sesión de diálogo abierto que reúne a ingenieros experimentados de Ford y a estudiantes aspirantes de ingeniería del equipo de Baja SAE Puma Off-Road. Diseñada para cerrar la brecha entre el aprendizaje académico y los desafíos de ingeniería del mundo real, esta mesa redonda fomenta un intercambio de conocimientos. Los estudiantes obtendrán conocimientos prácticos sobre el desarrollo de vehículos, metodologías de resolución de problemas y trayectorias profesionales directamente de líderes de la industria. Al mismo tiempo, los ingenieros de Ford podrán interactuar con la próxima generación de innovadores, comprendiendo filosofías de diseño emergentes y fomentando el talento futuro. Esta interacción dinámica tiene como objetivo inspirar, educar y cultivar una base sólida para la futura excelencia en ingeniería automotriz."
+                "description": "Una sesión de diálogo abierto que reúne a ingenieros experimentados de Ford y a estudiantes aspirantes de ingeniería del equipo de Baja SAE Puma Off-Road. Diseñada para cerrar la brecha entre el aprendizaje académico y los desafíos de ingeniería del mundo real, esta mesa redonda fomenta un intercambio de conocimientos. Los estudiantes obtendrán conocimientos prácticos sobre el desarrollo de vehículos, metodologías de resolución de problemas y trayectorias profesionales directamente de líderes de la industria. Al mismo tiempo, los ingenieros de Ford podrán interactuar con la próxima generación de innovadores, comprendiendo filosofías de diseño emergentes y fomentando el talento futuro. Esta interacción dinámica tiene como objetivo inspirar, educar y cultivar una base sólida para la futura excelencia en ingeniería automotriz. Acompáñanos al finalizar a la explanada del CIA para la exhibición del vehículo de esta agrupación."
             }
         },
 		/* HORARIO MARTES */
@@ -553,7 +553,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             ],
             "activity": {
-                "description": "Una sesión de diálogo abierto que reúne a ingenieros experimentados de Ford y a estudiantes de ingeniería del equipo de Fórmula SAE UNAM Motorsports. Diseñada para cerrar la brecha entre el aprendizaje académico y los desafíos de ingeniería del mundo actual en el ámbito profesional, esta mesa redonda, fomenta un intercambio de conocimientos directamente de los profesionales de la industria con la próxima generación de ingenieros y diseñadores, comprendiendo filosofías de diseño emergentes y fomentando el talento futuro. Esta interacción dinámica tiene como objetivos el inspirar, educar y cultivar una base sólida para la futura excelencia en ingeniería automotriz."
+                "description": "Una sesión de diálogo abierto que reúne a ingenieros experimentados de Ford y a estudiantes de ingeniería del equipo de Fórmula SAE UNAM Motorsports. Diseñada para cerrar la brecha entre el aprendizaje académico y los desafíos de ingeniería del mundo actual en el ámbito profesional, esta mesa redonda, fomenta un intercambio de conocimientos directamente de los profesionales de la industria con la próxima generación de ingenieros y diseñadores, comprendiendo filosofías de diseño emergentes y fomentando el talento futuro. Esta interacción dinámica tiene como objetivos el inspirar, educar y cultivar una base sólida para la futura excelencia en ingeniería automotriz.  Acompáñanos al finalizar a la explanada del CIA para la exhibición del vehículo de esta agrupación."
             }
         },
 			/* HORARIO JUEVES */
@@ -589,7 +589,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 		"j-3": {
             "title": "Simulación de Entrevista",
-            "time": "14:00 - 15:00",
+            "time": "13:00 - 14:00",
 			"audience": "Preselección",
 			"location": "CIA - Sótano",
             "speakers": [
@@ -605,7 +605,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 		"j-5": {
             "title": "Clausura",
-            "time": "16:30 - 16:45",
+            "time": "14:00 - 14:15",
 			"audience": "General",
 			"location": "CIA - Sótano",
             "speakers": [
@@ -738,6 +738,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
