@@ -155,6 +155,42 @@ document.addEventListener('DOMContentLoaded', () => {
                 "description": "El Hexadrive es un equipo donde se realizan pruebas de tanques de combustible.En esta platica se abordará el proceso de correlación implementado para validar estas pruebas, destacando los desafíos de ingeniería enfrentados a lo largo del proyecto, describiendo acciones futuras."
             }
         },
+		"l-8": {
+            "title": "Ford y Baja SAE",
+            "time": "15:00 - 16:00",
+            "audience": "General",
+            "location": "Por Definir",
+            "speakers": [
+                {
+                "name": "Antonio Gómez",
+                "bio": "Antonio Gómez Ingeniero con formación de posgrado de la Facultad de Ingeniería. Cuenta con una sólida trayectoria en el área de Diseño y CAE, Su trayectoria profesional incluye la participación en proyectos de investigación nacionales e internacionales, así como experiencia en las industrias aeronáutica y automotriz. Actualmente se desempeña como Subject Matter Expert de Amortiguadores en Ford.",
+                "photo": "img/speaker-antonio-gomez.jpg"
+                },
+                {
+                "name": "Alan González",
+                "bio": "Alan González se incorporó a Ford en 2017 y comenzó a trabajar como Trainee de Craftsmanship. Cinco meses después, comenzó su carrera en Ford como ingeniero de CAD, con experiencia en IP/Consola, Hard Trim y Seats, donde tuvo una trayectoria de 5 años. Desde 2022 a la fecha, se desempeña como ingeniero de Feasibility para Hard Trim en el departamento de Excellence Appearance Process. Desarrolla análisis de Feasibility para las superficies de la clase A (moldeo de la pieza, empaquetado de bolsas de aire, cinturones de seguridad, módulos electricos, arneses, regulaciones y normatividad por región) asegurando que el diseño de las piezas plásticas esté listo para ser manufacturadas y posteriormente ensambladas",
+                "photo": "img/speaker-alan-gonzalez.jpg"
+                },
+                {
+                "name": "Ulises Guzmán",
+                "bio": "Ulises Guzmán es un Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM. Cuento con experiencia en el sector automotriz, habiéndose desempeñado en roles clave dentro de Ford Motor Company, específicamente en las áreas de Ingeniería de Calidad y Business Solutions.",
+                "photo": "img/speaker-ulises-guzman.jpg"
+                },
+                {
+                "name": "Omar López",
+                "bio": "Ingeniero Mecatrónico egresado de la Facultad de Ingeniería. Experiencia en el sector automotriz, desempeñado roles en áreas como Ingeniería de Calidad, Diseño Asistido por Computadora (CAD) y Gestión de Listas de Materiales (BOM). Trayectoria en empresas automotrices como Ford Motor Company y BMW Group.",
+                "photo": "img/speaker-omar-lopez.jpg"
+                },
+                {
+                "name": "Óscar Santos",
+                "bio": "Oscar Daniel Santos Galán, Ingeniero de Integración de Hardware de Vehículos en Ford, con siete años de experiencia en la industria automotriz, se especializa en el lanzamiento de nuevos modelos y la gestión de la construcción de prototipos. Participa directamente en desarrollar y trabajar continuamente en la construcción de prototipos para la línea Ford Super Duty, con el objetivo de asegurar una integración de hardware óptima desde el concepto hasta la producción.",
+                "photo": "img/speaker-oscar-santos.jpg"
+                },
+            ],
+            "activity": {
+                "description": "Una sesión de diálogo abierto que reúne a ingenieros experimentados de Ford y a estudiantes aspirantes de ingeniería del equipo de Baja SAE Puma Off-Road. Diseñada para cerrar la brecha entre el aprendizaje académico y los desafíos de ingeniería del mundo real, esta mesa redonda fomenta un intercambio de conocimientos. Los estudiantes obtendrán conocimientos prácticos sobre el desarrollo de vehículos, metodologías de resolución de problemas y trayectorias profesionales directamente de líderes de la industria. Al mismo tiempo, los ingenieros de Ford podrán interactuar con la próxima generación de innovadores, comprendiendo filosofías de diseño emergentes y fomentando el talento futuro. Esta interacción dinámica tiene como objetivo inspirar, educar y cultivar una base sólida para la futura excelencia en ingeniería automotriz."
+            }
+        },
 		/* HORARIO MARTES */
 		"m-1": {
             "title": "Ford Clubs - Corporate Games",
@@ -567,42 +603,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 "description": "Esta sesión está diseñada para los ganadores de nuestra actividad tipo Shark Tank, con la intención de que pongas a prueba tus habilidades de comunicación bajo la guía de Karen, recibas feedback personalizado y de alto valor sobre tu desempeño, perfecciones tu narrativa y aprendas a destacar tu propuesta de valor en un entorno realista."
             }
         },
-		"j-4": {
-            "title": "Ford y Baja SAE",
-            "time": "15:00 - 16:00",
-            "audience": "General",
-            "location": "Por Definir",
-            "speakers": [
-                {
-                "name": "Antonio Gómez",
-                "bio": "Antonio Gómez Ingeniero con formación de posgrado de la Facultad de Ingeniería. Cuenta con una sólida trayectoria en el área de Diseño y CAE, Su trayectoria profesional incluye la participación en proyectos de investigación nacionales e internacionales, así como experiencia en las industrias aeronáutica y automotriz. Actualmente se desempeña como Subject Matter Expert de Amortiguadores en Ford.",
-                "photo": "img/speaker-antonio-gomez.jpg"
-                },
-                {
-                "name": "Alan González",
-                "bio": "Alan González se incorporó a Ford en 2017 y comenzó a trabajar como Trainee de Craftsmanship. Cinco meses después, comenzó su carrera en Ford como ingeniero de CAD, con experiencia en IP/Consola, Hard Trim y Seats, donde tuvo una trayectoria de 5 años. Desde 2022 a la fecha, se desempeña como ingeniero de Feasibility para Hard Trim en el departamento de Excellence Appearance Process. Desarrolla análisis de Feasibility para las superficies de la clase A (moldeo de la pieza, empaquetado de bolsas de aire, cinturones de seguridad, módulos electricos, arneses, regulaciones y normatividad por región) asegurando que el diseño de las piezas plásticas esté listo para ser manufacturadas y posteriormente ensambladas",
-                "photo": "img/speaker-alan-gonzalez.jpg"
-                },
-                {
-                "name": "Ulises Guzmán",
-                "bio": "Ulises Guzmán es un Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM. Cuento con experiencia en el sector automotriz, habiéndose desempeñado en roles clave dentro de Ford Motor Company, específicamente en las áreas de Ingeniería de Calidad y Business Solutions.",
-                "photo": "img/speaker-ulises-guzman.jpg"
-                },
-                {
-                "name": "Omar López",
-                "bio": "Ingeniero Mecatrónico egresado de la Facultad de Ingeniería. Experiencia en el sector automotriz, desempeñado roles en áreas como Ingeniería de Calidad, Diseño Asistido por Computadora (CAD) y Gestión de Listas de Materiales (BOM). Trayectoria en empresas automotrices como Ford Motor Company y BMW Group.",
-                "photo": "img/speaker-omar-lopez.jpg"
-                },
-                {
-                "name": "Óscar Santos",
-                "bio": "Oscar Daniel Santos Galán, Ingeniero de Integración de Hardware de Vehículos en Ford, con siete años de experiencia en la industria automotriz, se especializa en el lanzamiento de nuevos modelos y la gestión de la construcción de prototipos. Participa directamente en desarrollar y trabajar continuamente en la construcción de prototipos para la línea Ford Super Duty, con el objetivo de asegurar una integración de hardware óptima desde el concepto hasta la producción.",
-                "photo": "img/speaker-oscar-santos.jpg"
-                },
-            ],
-            "activity": {
-                "description": "Una sesión de diálogo abierto que reúne a ingenieros experimentados de Ford y a estudiantes aspirantes de ingeniería del equipo de Baja SAE Puma Off-Road. Diseñada para cerrar la brecha entre el aprendizaje académico y los desafíos de ingeniería del mundo real, esta mesa redonda fomenta un intercambio de conocimientos. Los estudiantes obtendrán conocimientos prácticos sobre el desarrollo de vehículos, metodologías de resolución de problemas y trayectorias profesionales directamente de líderes de la industria. Al mismo tiempo, los ingenieros de Ford podrán interactuar con la próxima generación de innovadores, comprendiendo filosofías de diseño emergentes y fomentando el talento futuro. Esta interacción dinámica tiene como objetivo inspirar, educar y cultivar una base sólida para la futura excelencia en ingeniería automotriz."
-            }
-        },
 		"j-5": {
             "title": "Clausura",
             "time": "16:30 - 16:45",
@@ -738,6 +738,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
