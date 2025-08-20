@@ -415,7 +415,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				{
                 "name": "Ma. Fernanda Landeros",
-                "bio": "TBD",
+                "bio": "Ingeniera industrial por la UNAM, hoy impulsa la inteligencia de negocio y el aprendizaje técnico para desarrollo de producto en Ford. Antes optimizó compras globales en MSD con negociaciones de alcance global. En el ámbito social, gestionó el centro de documentación del INDESOL, elevando la eficiencia documental de los manuales de organizaciones de sociedad civil, mediante metodologías de evaluación basadas en datos, y previamente fortaleció los controles de calidad en MURCAR, reduciendo significativamente defectos y retrabajos en línea de producción. Líder nata, cat-lover y promotora STEM.",
                 "photo": "img/speaker-fernanda-landeros.jpg"
                 },
 				{
@@ -754,6 +754,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
