@@ -331,7 +331,7 @@ document.addEventListener('DOMContentLoaded', () => {
 			"audience": "General",
 			"location": "Auditorio Sotero Prieto",
             "activity": {
-                "description": " aún no la suben "
+                "description": "La innovación es el motor que impulsa a Ford, transformando la industria automotriz desde el Modelo T hasta los vehículos eléctricos y autónomos de hoy. En esta charla, exploraremos cómo la innovación es clave en Ford y el papel fundamental de los coordinadores de innovación, quienes identifican oportunidades y gestionan proyectos de vanguardia. Es una oportunidad para que los estudiantes de ingeniería de la UNAM vean cómo su disciplina moldea el futuro de la movilidad y descubran cómo pueden ser parte de esta emocionante transformación."
             },
             "speakers": [
                 {
@@ -738,6 +738,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
