@@ -42,13 +42,13 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Stephanie Marín",
-                "bio": "Stephanie Marín es Ingeniera en Gestión Empresarial con Maestría en Ingeniería Industrial. Con más de una década de experiencia en áreas como recursos humanos, ventas, manufactura, estimación de costos y gestión de programas, actualmente se desempeña como Program Manager en el área de Global Engineering Services dentro de Ford, liderando proyectos estratégicos de alto impacto. Apasionada por la ingeniería y el impulso del talento femenino en STEM, combina su carrera con su vida personal como esposa y madre de una niña pequeña, inspirando a otras mujeres a construir trayectorias profesionales plenas y equilibradas.",
+                "bio": "Stephanie Marín es <b>Ingeniera en Gestión Empresarial con Maestría en Ingeniería Industrial</b>. Con más de una década de experiencia en áreas como recursos humanos, ventas, manufactura, estimación de costos y gestión de programas, actualmente se desempeña como Program Manager en el área de Global Engineering Services dentro de Ford, liderando proyectos estratégicos de alto impacto. Apasionada por la ingeniería y el impulso del talento femenino en STEM, combina su carrera con su vida personal como esposa y madre de una niña pequeña, inspirando a otras mujeres a construir trayectorias profesionales plenas y equilibradas.",
                 "photo": "img/speaker-stephanie-marin.jpg"
                 },
 				{
                 "name": "Michelle Jaramillo",
                 "bio": "Con 29 años y más de 6 años de experiencia en la industria automotriz, Michelle Jaramillo ha liderado proyectos estratégicos en manufactura, producción e innovación. Su trayectoria incluye el lanzamiento exitoso de una planta de pintura, así como la implementación de mejoras operativas a través de metodologías de excelencia. Actualmente forma parte del equipo de CSAP, donde se desempeña en iniciativas de transformación enfocadas en eficiencia, calidad y sostenibilidad. Está certificada como Lean Six Sigma Black Belt, lo que respalda su capacidad para liderar proyectos de mejora continua con enfoque en datos y resultados. Michelle es Ingeniera egresada de la Facultad de Ingeniería de la UNAM y actualmente cursa una Maestría en el Tecnológico de Monterrey, fortaleciendo su perfil con herramientas de liderazgo, innovación y gestión avanzada de operaciones.",
-                "photo": "img/speaker-michelle-jaramillo.png"
+                "photo": "img/speaker-michelle-jaramillo.jpg"
                 },
 				{
                 "name": "Gabriela Ortiz",
@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				{
                 "name": "Grisel Felipe",
-                "bio": "Grisel Felipe Avalos es Ingeniera en Telecomunicaciones y orgullosa egresada de la UNAM, es una líder innovadora en Ford. Con una década de experiencia, actualmente como Global Trade Services Product Manager, impulsa la innovación y lidera un equipo de desarrollo de software clave para la exportación de vehículos a escala global.",
+                "bio": "Grisel Felipe Avalos es <b>Ingeniera en Telecomunicaciones</b> y orgullosa <b>egresada de la UNAM</b>, es una líder innovadora en Ford. Con una década de experiencia, actualmente como Global Trade Services Product Manager, impulsa la innovación y lidera un equipo de desarrollo de software clave para la exportación de vehículos a escala global.",
                 "photo": "img/speaker-grisel-felipe.jpg"
                 }
             ],
@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Arturo García",
-                "bio": "Arturo García es Maestro en Ingeniería Electromecánico y actualmente tiene el puesto de Ingeniero de pruebas y Manager de Proyectos en Ford",
+                "bio": "Arturo García es <b>Maestro en Ingeniería Electromecánico</b> y actualmente tiene el puesto de Ingeniero de pruebas y Manager de Proyectos en Ford",
                 "photo": "img/speaker-arturo-garcia.jpg"
                 },
 				 {
@@ -83,8 +83,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				 {
                 "name": "Uriel Loza",
-                "bio": "Uriel Loza es Maestro en Ingenería Aeronáutica y actualmente tiene el puesto de Ingeniero de CAE Vehicle Durability en Ford",
-                "photo": "img/speaker-uriel-loza.png"
+                "bio": "Uriel Loza es <b>Maestro en Ingenería Aeronáutica</b> y actualmente tiene el puesto de Ingeniero de CAE Vehicle Durability en Ford",
+                "photo": "img/speaker-uriel-loza.jpg"
                 }
             ],
             "activity": {
@@ -130,7 +130,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Alexia Huerta",
-                "bio": "Profesional con formación en Diseño Industrial por la Universidad Anáhuac y una Maestría en Comunicación Digital, Redes Sociales y Marketing Online por el CEUPE. Cuenta con más de 6 años de experiencia en el desarrollo y gestión de estrategias de atracción de talento y programas enfocados en talento joven. Posee expertise en la implementación de estrategias externas orientadas a potenciar la marca empleadora. Es miembro de Ford desde agosto de 2023.",
+                "bio": "Profesional con formación en <b>Diseño Industrial por la Universidad Anáhuac</b> y una <b>Maestría en Comunicación Digital, Redes Sociales y Marketing Online por el CEUPE</b>. Cuenta con más de 6 años de experiencia en el desarrollo y gestión de estrategias de atracción de talento y programas enfocados en talento joven. Posee expertise en la implementación de estrategias externas orientadas a potenciar la marca empleadora. Es miembro de Ford desde agosto de 2023.",
                 "photo": "img/speaker-alexia-huerta.jpg"
                 }
             ],
@@ -147,7 +147,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Rafael Hernández",
-                "bio": "Rafael Hernández Cervantes es un Ingeniero Mecatrónico con una formación académica que incluye un MBA y estudios de maestría en Tecnologías de cómuputo y doctorado en proceso en Ciencias de la Computación. Con 12 años de trayectoria en Ford, lidera proyectos en los laboratorios de pruebas vehiculares, buscando generar ahorros a la compañía y mejorar la eficiencia operativa a través de la innovación proactiva.",
+                "bio": "Rafael Hernández Cervantes es un <b>Ingeniero Mecatrónico</b> con una formación académica que incluye un <b>MBA y estudios de maestría en Tecnologías de cómuputo y doctorado en proceso en Ciencias de la Computación</b>. Con 12 años de trayectoria en Ford, lidera proyectos en los laboratorios de pruebas vehiculares, buscando generar ahorros a la compañía y mejorar la eficiencia operativa a través de la innovación proactiva.",
                 "photo": "img/speaker-rafael-hernandez.jpg"
                 }
             ],
@@ -173,12 +173,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
                 {
                 "name": "Ulises Guzmán",
-                "bio": "Ulises Guzmán es un Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM. Cuento con experiencia en el sector automotriz, habiéndose desempeñado en roles clave dentro de Ford Motor Company, específicamente en las áreas de Ingeniería de Calidad y Business Solutions.",
+                "bio": "Ulises Guzmán es un <b>Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM</b>. Cuento con experiencia en el sector automotriz, habiéndose desempeñado en roles clave dentro de Ford Motor Company, específicamente en las áreas de Ingeniería de Calidad y Business Solutions.",
                 "photo": "img/speaker-ulises-guzman.jpg"
                 },
                 {
                 "name": "Omar López",
-                "bio": "Ingeniero Mecatrónico egresado de la Facultad de Ingeniería. Experiencia en el sector automotriz, desempeñado roles en áreas como Ingeniería de Calidad, Diseño Asistido por Computadora (CAD) y Gestión de Listas de Materiales (BOM). Trayectoria en empresas automotrices como Ford Motor Company y BMW Group.",
+                "bio": "<b>Ingeniero Mecatrónico egresado de la Facultad de Ingeniería</b>. Experiencia en el sector automotriz, desempeñado roles en áreas como Ingeniería de Calidad, Diseño Asistido por Computadora (CAD) y Gestión de Listas de Materiales (BOM). Trayectoria en empresas automotrices como Ford Motor Company y BMW Group.",
                 "photo": "img/speaker-omar-lopez.jpg"
                 },
                 {
@@ -200,23 +200,23 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Jocelyn Moctezuma",
-                "bio": "Jocelyn es Ingeniero en Mecatrónica graduada del Tec de Monterrey Campus Estado de México, tiene un MBA con especialidad en calidad y comenzó su carrera profesional en Ford Motor Company en el 2009. Dentro de Ford ha adquirido experiencia en diferentes áreas de la compañía, comenzando en el área de manufactura en la planta de Pintura en Cuautitán Izcalli con el proyecto del Ford Fiesta, posteriormente como ingeniero de Body Interior dentro del mismo programa solucionando y mejorando problemas de diseño. Ha sido ingeniero de diseño y desarrollo para diversos programas en Ford como F-150, Bronco Sport, Maverick, etc. Jocelyn también ha adquirido gran experiencia en el área de calidad y tiene una certificación como Black Belt en la metodología Six Sigma. Actualmente es Analista de exportación asegurándose de que las regulaciones necesarias para los diferentes mercados se cumplan y en paralelo a esto es líder de la iniciativa Ford Clubs en Ford de México desarrollando el crecimiento de esta estrategia que ha sido clave para la satisfacción y bienestar de los empleados en Ford.",
+                "bio": "Jocelyn es <b>Ingeniero en Mecatrónica graduada del Tec de Monterrey Campus Estado de México</b>, tiene un <b>MBA con especialidad en calidad</b> y comenzó su carrera profesional en Ford Motor Company en el 2009. Dentro de Ford ha adquirido experiencia en diferentes áreas de la compañía, comenzando en el área de manufactura en la planta de Pintura en Cuautitán Izcalli con el proyecto del Ford Fiesta, posteriormente como ingeniero de Body Interior dentro del mismo programa solucionando y mejorando problemas de diseño. Ha sido ingeniero de diseño y desarrollo para diversos programas en Ford como F-150, Bronco Sport, Maverick, etc. Jocelyn también ha adquirido gran experiencia en el área de calidad y tiene una certificación como Black Belt en la metodología Six Sigma. Actualmente es Analista de exportación asegurándose de que las regulaciones necesarias para los diferentes mercados se cumplan y en paralelo a esto es líder de la iniciativa Ford Clubs en Ford de México desarrollando el crecimiento de esta estrategia que ha sido clave para la satisfacción y bienestar de los empleados en Ford.",
                 "photo": "img/speaker-joss-moctezuma.jpg"
                 },
 				{
                 "name": "Gabriela Tiscareño",
-                "bio": "Gabriela Tiscareño es Licenciada en Comunicación y Medios Digitales,graduada del Tec de Monterrey Campus estado de México con especialización en Estrategia en Redes Sociales. Comenzó su trayectoria profesional como becaria en diferentes start-ups de Marketing Digital en el 2019, fue voluntaria en el Departamento de Comunicación e Información Pública de la UNESCO México, e inició su carrera profesional en Ford en marzo del 2023 como becaria en el área de Cultura y Diversidad, Equidad e Inclusión elaborando estrategias de comunicación interna. Desde diciembre del 2023 forma parte del proyecto Ford Business Solutions, área que le da soporte a los distribuidores de Estados Unidos, siendo parte primero de la región de Phoenix como Analista de Experiencia del Cliente y Servicio, y desde junio del 2025 como Analista de Planeación y Distribución en la región de Cincinnati. Forma parte de los líderes de Ford Clubs desde mayo del 2024 y dirige los temas de comunicación interna de los clubes. Estar en esta iniciativa le ha permitido vivir experiencias enriquecedoras no solo a nivel profesional sino también a nivel personal, pues permite conocer a personas de diversas áreas de la empresa, así como de diversos intereses y afinidades.",
-                "photo": "img/speaker -gabriela-tiscareno.jpeg"
+                "bio": "Gabriela Tiscareño es <b>Licenciada en Comunicación y Medios Digitales,graduada del Tec de Monterrey Campus estado de México con especialización en Estrategia en Redes Sociales</b>. Comenzó su trayectoria profesional como becaria en diferentes start-ups de Marketing Digital en el 2019, fue voluntaria en el Departamento de Comunicación e Información Pública de la UNESCO México, e inició su carrera profesional en Ford en marzo del 2023 como becaria en el área de Cultura y Diversidad, Equidad e Inclusión elaborando estrategias de comunicación interna. Desde diciembre del 2023 forma parte del proyecto Ford Business Solutions, área que le da soporte a los distribuidores de Estados Unidos, siendo parte primero de la región de Phoenix como Analista de Experiencia del Cliente y Servicio, y desde junio del 2025 como Analista de Planeación y Distribución en la región de Cincinnati. Forma parte de los líderes de Ford Clubs desde mayo del 2024 y dirige los temas de comunicación interna de los clubes. Estar en esta iniciativa le ha permitido vivir experiencias enriquecedoras no solo a nivel profesional sino también a nivel personal, pues permite conocer a personas de diversas áreas de la empresa, así como de diversos intereses y afinidades.",
+                "photo": "img/speaker -gabriela-tiscareno.jpg"
                 },
 				{
                 "name": "Fernando Barajas",
-                "bio": "Fernando Barajas es un profesional con una sólida formación académica y 8 años de experiencia en Ford Motor Company. Es Ingeniero Aeronáutico por el IPN, posee una Maestría en Administración de Empresas y un Doctorado en Ingeniería Mecánica. Su trayectoria en Ford se centra en la Ingeniería de Diseño de Interiores y el Desarrollo de Producto. Lidera iniciativas de innovación, implementando mejores prácticas y nuevos procesos para optimizar la eficiencia en el diseño. Previamente, Fernando acumuló valiosa experiencia en el sector aeronáutico. En Airbus, líder mundial en fabricación de aeronaves, fue responsable de la ingeniería de diseño y reparaciones estructurales. Esta diversa experiencia le ha proporcionado una perspectiva integral, aplicable al diseño automotriz actual. Más allá de su ámbito profesional, Fernando ha desempeñado un papel fundamental en la organización de eventos deportivos corporativos. Desde 2018, ha representado a Ford en los Corporate Games Mexico, contribuyendo a que la empresa obtuviera el 1er lugar como 'mejor empresa deportiva en México' en 2023 y 2024, además de un récord de medallas. Combinando su sólida trayectoria profesional con la disciplina del deporte, actualmente coordina áreas de integración de innovación y los Corporate Games Mexico. Su enfoque principal es la estrategia y el valor añadido que la relación trabajo-vida genera en el bienestar de los empleados de Ford México.",
-                "photo": "img/speaker-israel-barajas.jpeg"
+                "bio": "Fernando Barajas es un profesional con una sólida formación académica y 8 años de experiencia en Ford Motor Company. Es <b>Ingeniero Aeronáutico por el IPN</b>, posee una <b>Maestría en Administración de Empresas y un Doctorado en Ingeniería Mecánica</b>. Su trayectoria en Ford se centra en la Ingeniería de Diseño de Interiores y el Desarrollo de Producto. Lidera iniciativas de innovación, implementando mejores prácticas y nuevos procesos para optimizar la eficiencia en el diseño. Previamente, Fernando acumuló valiosa experiencia en el sector aeronáutico. En Airbus, líder mundial en fabricación de aeronaves, fue responsable de la ingeniería de diseño y reparaciones estructurales. Esta diversa experiencia le ha proporcionado una perspectiva integral, aplicable al diseño automotriz actual. Más allá de su ámbito profesional, Fernando ha desempeñado un papel fundamental en la organización de eventos deportivos corporativos. Desde 2018, ha representado a Ford en los Corporate Games Mexico, contribuyendo a que la empresa obtuviera el 1er lugar como 'mejor empresa deportiva en México' en 2023 y 2024, además de un récord de medallas. Combinando su sólida trayectoria profesional con la disciplina del deporte, actualmente coordina áreas de integración de innovación y los Corporate Games Mexico. Su enfoque principal es la estrategia y el valor añadido que la relación trabajo-vida genera en el bienestar de los empleados de Ford México.",
+                "photo": "img/speaker-israel-barajas.jpg"
                 },
 				{
                 "name": "Rodrigo Téllez",
-                "bio": "Rodrigo Téllez Garza es egresado de la Universidad de las Américas Puebla (UDLAP) de la carrera de Ingeniería Mecánica. Inició su carrera profesional como Operations Specialist en una start-up de Inteligencia Artificial, donde desarrolló diversos proyectos con clientes como Apple y Meta. En abril del 2022, se incorporó a Ford de México como PD Serviceability Engineer, donde lideró diferentes iniciativas para mejorar el servicio a nuestros clientes. En diciembre de 2023, se integró al área de calidad, donde como OPD Engineer se asegura que la calidad de los componentes de combustible para Norte América cumpla con ciertas regulaciones y estándares de la industria automotriz. Es líder del Club de Basketball desde 2023, en donde a través de diversas actividades ha podido crecer personal como profesionalmente, permitiéndole hacer amistades fuera del trabajo y tener una red de contactos más amplia.",
-                "photo": "img/speaker-rodrigo-tellez.PNG"
+                "bio": "Rodrigo Téllez Garza es egresado de la <b>Universidad de las Américas Puebla (UDLAP) de la carrera de Ingeniería Mecánica</b>. Inició su carrera profesional como Operations Specialist en una start-up de Inteligencia Artificial, donde desarrolló diversos proyectos con clientes como Apple y Meta. En abril del 2022, se incorporó a Ford de México como PD Serviceability Engineer, donde lideró diferentes iniciativas para mejorar el servicio a nuestros clientes. En diciembre de 2023, se integró al área de calidad, donde como OPD Engineer se asegura que la calidad de los componentes de combustible para Norte América cumpla con ciertas regulaciones y estándares de la industria automotriz. Es líder del Club de Basketball desde 2023, en donde a través de diversas actividades ha podido crecer personal como profesionalmente, permitiéndole hacer amistades fuera del trabajo y tener una red de contactos más amplia.",
+                "photo": "img/speaker-rodrigo-tellez.jpg"
                 }
             ],
             "activity": {
@@ -231,7 +231,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Pedro Gálvez",
-                "bio": "  Con una sólida formación en Ingeniería Mecatrónica y una maestría en Ingeniería Mecánica por la UNAM, Pedro Gálvez ha consolidado una carrera exitosa en el mundo de la tecnología y la innovación. Con más de 12 años de experiencia en el desarrollo de software, ha demostrado una profunda expertise en la creación de soluciones tecnológicas avanzadas. Su trayectoria profesional ha evolucionado desde puestos técnicos hasta liderazgo, actualmente desempeñándose como Supervisor de Software Embebido en Ford",
+                "bio": "  Con una sólida formación en <b>Ingeniería Mecatrónica y una maestría en Ingeniería Mecánica por la UNAM</b>, Pedro Gálvez ha consolidado una carrera exitosa en el mundo de la tecnología y la innovación. Con más de 12 años de experiencia en el desarrollo de software, ha demostrado una profunda expertise en la creación de soluciones tecnológicas avanzadas. Su trayectoria profesional ha evolucionado desde puestos técnicos hasta liderazgo, actualmente desempeñándose como Supervisor de Software Embebido en Ford",
                 "photo": "img/speaker-pedro-galvez.png"
                 }
             ],
@@ -247,12 +247,12 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Julieta Rojas",
-                "bio": "Ingeniera en Sistemas y Tecnologías de la Información por la Universidad Anáhuac México, actualmente me desempeño como Artificial Intelligence Engineer. Desde el área de Business Operations colaboro con los equipos de Product Development para identificar oportunidades de mejora, mapear procesos críticos, definir indicadores clave de desempeño (KPIs) que orienten la toma de decisiones y diseñar, desplegar y mantener soluciones de IA que automaticen tareas, optimicen la eficiencia operativa y mejoren la experiencia de usuario. Apasionada por la innovación y el aprendizaje continuo, combino pensamiento estratégico, creatividad y comunicación efectiva para convertir la ciencia de datos en valor tangible.",
+                "bio": "<b>Ingeniera en Sistemas y Tecnologías de la Información por la Universidad Anáhuac México</b>, actualmente me desempeño como Artificial Intelligence Engineer. Desde el área de Business Operations colaboro con los equipos de Product Development para identificar oportunidades de mejora, mapear procesos críticos, definir indicadores clave de desempeño (KPIs) que orienten la toma de decisiones y diseñar, desplegar y mantener soluciones de IA que automaticen tareas, optimicen la eficiencia operativa y mejoren la experiencia de usuario. Apasionada por la innovación y el aprendizaje continuo, combino pensamiento estratégico, creatividad y comunicación efectiva para convertir la ciencia de datos en valor tangible.",
                 "photo": "img/speaker-julieta-rojas.png"
                 },
 				{
                 "name": "Marco Ramirez",
-                "bio": "Marco Antonio Ramírez es Ingeniero de Inteligencia Artificial en el equipo de AI, perteneciente al área de Business Operations. Se formó en Ingeniería en Sistemas Computacionales en la Escuela Superior de Cómputo del IPN y actualmente se especializa en ciencia de datos. Sus principales funciones incluyen apoyar a los empleados de PD en la adopción y uso de herramientas de inteligencia artificial dentro de Ford, colaborar en el diseño e implementación de estrategias clave para su integración, así como contribuir a la automatización de procesos y a la visualización de métricas alineadas con los objetivos y políticas tanto de los empleados como de la compañía.",
+                "bio": "Marco Antonio Ramírez es Ingeniero de Inteligencia Artificial en el equipo de AI, perteneciente al área de Business Operations. Se formó en <b>Ingeniería en Sistemas Computacionales en la Escuela Superior de Cómputo del IPN</b> y actualmente se especializa en ciencia de datos. Sus principales funciones incluyen apoyar a los empleados de PD en la adopción y uso de herramientas de inteligencia artificial dentro de Ford, colaborar en el diseño e implementación de estrategias clave para su integración, así como contribuir a la automatización de procesos y a la visualización de métricas alineadas con los objetivos y políticas tanto de los empleados como de la compañía.",
                 "photo": "img/speaker-marco-ramirez.jpg"
                 }
             ],
@@ -268,7 +268,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Francisco Lugo",
-                "bio": "Francisco Armando Lugo Mayorga es un destacado Ingeniero Mecatrónico, egresado de la Facultad de Ingeniería de la Universidad Nacional Autónoma de México (UNAM). Con una sólida trayectoria profesional, Francisco cuenta con más de 13 años de experiencia en la industria automotriz, específicamente en Ford Motor Company, donde ha desempeñado diversas funciones en áreas clave de ingeniería. Durante su carrera, ha demostrado una notable capacidad de liderazgo y gestión, lo que lo llevó a ocupar el cargo de Supervisor de Ingeniería en Liberaciones de Software a nivel mundial durante 3 años, cargo que sigue ocupando, aportando significativamente al desarrollo y la implementación de soluciones tecnológicas innovadoras. Además, Francisco ha complementado su formación técnica con un diplomado en Project Management, lo que le ha permitido dirigir proyectos complejos con eficiencia y eficacia, destacándose por su habilidad para coordinar equipos multidisciplinarios y asegurar el éxito en la entrega de resultados.",
+                "bio": "Francisco Armando Lugo Mayorga es un destacado <b>Ingeniero Mecatrónico, egresado de la Facultad de Ingeniería de la Universidad Nacional Autónoma de México (UNAM)</b>. Con una sólida trayectoria profesional, Francisco cuenta con más de 13 años de experiencia en la industria automotriz, específicamente en Ford Motor Company, donde ha desempeñado diversas funciones en áreas clave de ingeniería. Durante su carrera, ha demostrado una notable capacidad de liderazgo y gestión, lo que lo llevó a ocupar el cargo de Supervisor de Ingeniería en Liberaciones de Software a nivel mundial durante 3 años, cargo que sigue ocupando, aportando significativamente al desarrollo y la implementación de soluciones tecnológicas innovadoras. Además, Francisco ha complementado su formación técnica con un diplomado en Project Management, lo que le ha permitido dirigir proyectos complejos con eficiencia y eficacia, destacándose por su habilidad para coordinar equipos multidisciplinarios y asegurar el éxito en la entrega de resultados.",
                 "photo": "img/speaker-francisco-lugo.jpg"
                 }
             ],
@@ -284,7 +284,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                  {
                 "name": "Arturo García",
-                "bio": "Arturo García es Maestro en Ingeniería Electromecánico y actualmente tiene el puesto de Ingeniero de pruebas y Manager de Proyectos en Ford",
+                "bio": "Arturo García es <b>Maestro en Ingeniería Electromecánico</b> y actualmente tiene el puesto de Ingeniero de pruebas y Manager de Proyectos en Ford",
                 "photo": "img/speaker-arturo-garcia.jpg"
                 },
 				 {
@@ -294,8 +294,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				 {
                 "name": "Uriel Loza",
-                "bio": "Uriel Loza es Maestro en Ingenería Aeronáutica y actualmente tiene el puesto de Ingeniero de CAE Vehicle Durability en Ford",
-                "photo": "img/speaker-uriel-loza.png"
+                "bio": "Uriel Loza es <b>Maestro en Ingenería Aeronáutica</b> y actualmente tiene el puesto de Ingeniero de CAE Vehicle Durability en Ford",
+                "photo": "img/speaker-uriel-loza.jpg"
                 }
             ],
             "activity": {
@@ -310,7 +310,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Carlos Melgarejo",
-                "bio": "Carlos Melgarejo, Ingeniero en Mecatrónica egresado del Programa de Alto Rendimiento Académico (PARA) de la Facultad de Ingeniería y con Maestría en Diseño y Gestión de Sistemas por el Instituto Tecnológico de Massachusetts (MIT). Ha desempeñado diferentes puestos en el departamento de Desarrollo de Producto en Ford Motor Company y actualmente ocupa el cargo de Supervisor de Diseño de Sistemas de Distribución Eléctrica (EDS) de los vehículos Bronco Sport, Maverick, Expedition y Navigator.",
+                "bio": "Carlos Melgarejo, <b>Ingeniero en Mecatrónica egresado del Programa de Alto Rendimiento Académico (PARA) de la Facultad de Ingeniería y con Maestría en Diseño y Gestión de Sistemas por el Instituto Tecnológico de Massachusetts (MIT)</b>. Ha desempeñado diferentes puestos en el departamento de Desarrollo de Producto en Ford Motor Company y actualmente ocupa el cargo de Supervisor de Diseño de Sistemas de Distribución Eléctrica (EDS) de los vehículos Bronco Sport, Maverick, Expedition y Navigator.",
                 "photo": "img/speaker-carlos-melgarejo.jpg"
                 },
 				{
@@ -320,7 +320,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				{
                 "name": "Pablo Gómez",
-                "bio": "Ingeniero Industrial e Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM, fue miembro del Programa de Alto Rendimiento Académico (PARA), participó en el proyecto Fórmula SAE (temporadas 2012 y 2013), e hizo un semestre de intercambio en la NTNU en Trondheim, Noruega. Cuenta con 10 años de experiencia desempeñando diferentes puestos en el departamento de Desarrollo de Producto en Ford Motor Company en el área de Underbody en los equipos de Reducción de Costos, Mejoras de Calidad, Prevención de Modos de Fallas y actualmente ocupa el cargo de Ingeniero de Integración de Sistemas en los vehículos Expedition y Navigator.",
+                "bio": "<b>Ingeniero Industrial e Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM</b>, fue miembro del Programa de Alto Rendimiento Académico (PARA), participó en el proyecto Fórmula SAE (temporadas 2012 y 2013), e hizo un semestre de intercambio en la NTNU en Trondheim, Noruega. Cuenta con 10 años de experiencia desempeñando diferentes puestos en el departamento de Desarrollo de Producto en Ford Motor Company en el área de Underbody en los equipos de Reducción de Costos, Mejoras de Calidad, Prevención de Modos de Fallas y actualmente ocupa el cargo de Ingeniero de Integración de Sistemas en los vehículos Expedition y Navigator.",
                 "photo": "img/speaker-pablo-gomez.jpg"
                 }
             ],
@@ -336,7 +336,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Ignacio Salas",
-                "bio": "José Ignacio Salas Cerón es Ingeniero Mecatrónico con más de 7 años de experiencia en la integración de gemelos digitales de sistemas de propulsión en la industria automotriz. Trabaja en Ford desde 2018. Su puesto actual es Ingeniero de Integración e Implementación de HIL/SIL en el departamento de Controles Vehiculares. Disfruta participando en situaciones desafiantes que requieren conocimientos de la teoría clásica de control para su resolución.",
+                "bio": "José Ignacio Salas Cerón es <b>Ingeniero Mecatrónico</b> con más de 7 años de experiencia en la integración de gemelos digitales de sistemas de propulsión en la industria automotriz. Trabaja en Ford desde 2018. Su puesto actual es Ingeniero de Integración e Implementación de HIL/SIL en el departamento de Controles Vehiculares. Disfruta participando en situaciones desafiantes que requieren conocimientos de la teoría clásica de control para su resolución.",
                 "photo": "img/speaker-ignacio-salas.jpg"
                 }
             ],
@@ -353,8 +353,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Estefhanie Gutiérrez",
-                "bio": "Ingeniera Mecánica con 9 años de experiencia práctica en el diseño de sistemas de exteriores e interiores y ornamentación automotriz. He colaborado en proyectos como el desarrollo de interiores para la Bronco Sport, Bronco y Mustang, combinando ingeniería con visión centrada en la experiencia del usuario. Con una maestría en Project Management por la Universidad de Barcelona y certificaciones como Scrum Master y Product Owner, reflejo de mi pasión por las metodologías ágiles, la mejora continua y la gestión de proyectos complejos y multidisciplinarios.",
-                "photo": "img/speaker-estefhanie-gutierrez.jpeg"
+                "bio": "<b>Ingeniera Mecánica</b> con 9 años de experiencia práctica en el diseño de sistemas de exteriores e interiores y ornamentación automotriz. He colaborado en proyectos como el desarrollo de interiores para la Bronco Sport, Bronco y Mustang, combinando ingeniería con visión centrada en la experiencia del usuario. Con una maestría en Project Management por la Universidad de Barcelona y certificaciones como Scrum Master y Product Owner, reflejo de mi pasión por las metodologías ágiles, la mejora continua y la gestión de proyectos complejos y multidisciplinarios.",
+                "photo": "img/speaker-estefhanie-gutierrez.jpg"
                 }
             ],
             "activity": {
@@ -372,12 +372,12 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Marco Bello",
-                "bio": "Me llamo Marco Antonio Bello Xelhuantzi, soy Ingeniero en Diseño Automotriz por el Tec de Monterrey y cuento con la maestría en Innovación para el Desarrollo Empresarial por la misma institución, tengo 9 años de experiencia, desde el área de diseño en diversos commodities hasta mi puesto actual como Coordinador de Innovación para el área de Desarrollo de Producto de Ford de México, siendo mis principales responsabilidad la estrategia de innovación, la administración del laboratorio llamado Makerspace, además de los temas relacionados a propiedad intelectual.",
+                "bio": "Me llamo Marco Antonio Bello Xelhuantzi, soy <b>Ingeniero en Diseño Automotriz por el Tec de Monterrey y cuento con la maestría en Innovación para el Desarrollo Empresarial</b> por la misma institución, tengo 9 años de experiencia, desde el área de diseño en diversos commodities hasta mi puesto actual como Coordinador de Innovación para el área de Desarrollo de Producto de Ford de México, siendo mis principales responsabilidad la estrategia de innovación, la administración del laboratorio llamado Makerspace, además de los temas relacionados a propiedad intelectual.",
                 "photo": "img/speaker-marco-bello.JPG"
                 },
 				{
                 "name": "Ligia Olivares",
-                "bio": "Soy Ingeniera Industrial y de Sistemas, egresada del Tecnológico de Monterrey Campus Estado de México. Inicié mi trayectoria laboral en Ford en 2019 comenzando como trainee en el área de GES. Actualmente, me desempeño como Coordinadora de Innovación en el Departamento de Desarrollo de Producto. Actualmente cuento con 1 patente a mi nombre, 1 publicación defensiva y 2 ideas en proceso de investigación para obtención de patente. De igual forma, durante toda mi carrera en Ford he sido miembro del grupo Women of Ford dentro del pilar “STEM”, para fomentar la ciencia y tecnología en mujeres y niñas.",
+                "bio": "Soy <b>Ingeniera Industrial y de Sistemas, egresada del Tecnológico de Monterrey Campus Estado de México</b>. Inicié mi trayectoria laboral en Ford en 2019 comenzando como trainee en el área de GES. Actualmente, me desempeño como Coordinadora de Innovación en el Departamento de Desarrollo de Producto. Actualmente cuento con 1 patente a mi nombre, 1 publicación defensiva y 2 ideas en proceso de investigación para obtención de patente. De igual forma, durante toda mi carrera en Ford he sido miembro del grupo Women of Ford dentro del pilar “STEM”, para fomentar la ciencia y tecnología en mujeres y niñas.",
                 "photo": "img/speaker-ligia-olivares.jpg"
                 }
             ]
@@ -390,37 +390,37 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Oscar Carranza",
-                "bio": "Mi nombre es Fabián Sánchez Hernández, tengo 23 años y soy recién egresado de la carrera de Ingeniería Aeroespacial en la UNAM, actualmente me encuentro trabajando como Champ en el área de Body Interior, más específicamente en el equipo de despliegue de bolsas de aire, empecé a trabajar en Ford en marzo de 2025, y previamente estuve trabajando en Stellantis. A pesar de llevar relativamente poco tiempo dentro de la empresa, cada día busco aprender y prepararme para aplicar a una posición de full time, y aunque haber llegado hasta aquí ha sido complicado, siempre he creído que si te propones algo eres capaz de lograrlo.",
+                "bio": "Mi nombre es Fabián Sánchez Hernández, tengo 23 años y soy recién egresado de la carrera de <b>Ingeniería Aeroespacial en la UNAM</b>, actualmente me encuentro trabajando como Champ en el área de Body Interior, más específicamente en el equipo de despliegue de bolsas de aire, empecé a trabajar en Ford en marzo de 2025, y previamente estuve trabajando en Stellantis. A pesar de llevar relativamente poco tiempo dentro de la empresa, cada día busco aprender y prepararme para aplicar a una posición de full time, y aunque haber llegado hasta aquí ha sido complicado, siempre he creído que si te propones algo eres capaz de lograrlo.",
                 "photo": "img/speaker-oscar-carranza.jpg"
                 },
 				{
                 "name": "Fabián Sánchez",
-                "bio": "Recién egresado de la carrera de Ingeniería Aeroespacial en la UNAM, actualmente se encuentra trabajando como Champ en el área de Body Interior, más específicamente en el equipo de despliegue de bolsas de aire. Empezó a trabajar en Ford en marzo de 2025, y previamente estuvo trabajando en Stellantis. A pesar de llevar relativamente poco tiempo dentro de la empresa, cada día busca aprender y prepararse para aplicar a una posición de full time. Tiene la creencia que si te propones algo eres capaz de lograrlo.",
-                "photo": "img/speaker-fabian-sanchez.png"
+                "bio": "Recién egresado de la carrera de <b>Ingeniería Aeroespacial en la UNAM</b>, actualmente se encuentra trabajando como Champ en el área de Body Interior, más específicamente en el equipo de despliegue de bolsas de aire. Empezó a trabajar en Ford en marzo de 2025, y previamente estuvo trabajando en Stellantis. A pesar de llevar relativamente poco tiempo dentro de la empresa, cada día busca aprender y prepararse para aplicar a una posición de full time. Tiene la creencia que si te propones algo eres capaz de lograrlo.",
+                "photo": "img/speaker-fabian-sanchez.jpg"
                 },
 				{
                 "name": "Karla Ramírez",
-                "bio": "Nací un 27 de septiembre del año 2000, en el Estado de México. Cursé la preparatoria en la ENP 2, posteriormente hice la licenciatura en Ingeniería Mecánica (generación 2020). Pertenecí BAJA SAE en el sistema de Masas No suspendidas (2022-2024). En mi penúltimo semestre de la carrera hice movilidad internacional a Japón en ⼤阪⼤学 en el periodo otoño-invierno. Entré a Ford como CHAMP en BOM en octubre de 2024 y pasé a ser tiempo completo en marzo 2025",
+                "bio": "Nací un 27 de septiembre del año 2000, en el Estado de México. Cursé la preparatoria en la ENP 2, posteriormente hice la licenciatura en <b>Ingeniería Mecánica</b> (generación 2020). Pertenecí BAJA SAE en el sistema de Masas No suspendidas (2022-2024). En mi penúltimo semestre de la carrera hice movilidad internacional a Japón en ⼤阪⼤学 en el periodo otoño-invierno. Entré a Ford como CHAMP en BOM en octubre de 2024 y pasé a ser tiempo completo en marzo 2025",
                 "photo": "img/speaker-karla-ramirez.jpg"
                 },
 				{
                 "name": "Rodrigo Rodríguez",
-                "bio": "Ingeniero Mecánico egresado en Diciembre 2024; ex_Ford Champ de VHES (VSET ahora), ex_Ford Champ de “Ingeniería de Sistemas y Soporte en Optimización), actualmente Ingeniero de Diseño, CAD-3D, PD.",
+                "bio": "<b>Ingeniero Mecánico</b> egresado en Diciembre 2024; ex_Ford Champ de VHES (VSET ahora), ex_Ford Champ de “Ingeniería de Sistemas y Soporte en Optimización), actualmente Ingeniero de Diseño, CAD-3D, PD.",
                 "photo": "img/speaker-rodrigo-rodriguez.jpg"
                 },
 				{
                 "name": "Erick Ramos",
-                "bio": "Egresado de Mecatrónica en 2016, ingreso a Ford en 2016 con rotación en distintas áreas: Ingeniero del diseño de producto: Programa de rotaciones FCG (2016-2020), Ingeniero de diseño y liberación del sistema térmico del tren motriz, Ingeniero de Calibración, Analista de Gestión de Programasd) Ingeniero de diseño y liberación del sistema térmico de la Batería de Alto Voltaje, Ingeniero de la batería de Alto Voltaje (2020-2022) e Ingeniero de Manufactura y Líder de Lanzamiento de la Batería de Alto Voltaje",
+                "bio": "<b>Egresado de Mecatrónica</b> en 2016, ingreso a Ford en 2016 con rotación en distintas áreas: Ingeniero del diseño de producto: Programa de rotaciones FCG (2016-2020), Ingeniero de diseño y liberación del sistema térmico del tren motriz, Ingeniero de Calibración, Analista de Gestión de Programasd) Ingeniero de diseño y liberación del sistema térmico de la Batería de Alto Voltaje, Ingeniero de la batería de Alto Voltaje (2020-2022) e Ingeniero de Manufactura y Líder de Lanzamiento de la Batería de Alto Voltaje",
                 "photo": "img/speaker-erick-ramos.jpg"
                 },
 				{
                 "name": "Ma. Fernanda Landeros",
-                "bio": "Ingeniera industrial por la UNAM, hoy impulsa la inteligencia de negocio y el aprendizaje técnico para desarrollo de producto en Ford. Antes optimizó compras globales en MSD con negociaciones de alcance global. En el ámbito social, gestionó el centro de documentación del INDESOL, elevando la eficiencia documental de los manuales de organizaciones de sociedad civil, mediante metodologías de evaluación basadas en datos, y previamente fortaleció los controles de calidad en MURCAR, reduciendo significativamente defectos y retrabajos en línea de producción. Líder nata, cat-lover y promotora STEM.",
+                "bio": "<b>Ingeniera industrial por la UNAM</b>, hoy impulsa la inteligencia de negocio y el aprendizaje técnico para desarrollo de producto en Ford. Antes optimizó compras globales en MSD con negociaciones de alcance global. En el ámbito social, gestionó el centro de documentación del INDESOL, elevando la eficiencia documental de los manuales de organizaciones de sociedad civil, mediante metodologías de evaluación basadas en datos, y previamente fortaleció los controles de calidad en MURCAR, reduciendo significativamente defectos y retrabajos en línea de producción. Líder nata, cat-lover y promotora STEM.",
                 "photo": "img/speaker-fernanda-landeros.jpg"
                 },
 				{
                 "name": "Brenda Ávila",
-                "bio": "Ingeniera Industrial egresada en 2021, forme parte del grupo estudiantil UNAM Motorsports (2018-2019) en el área de Management. Tuve la oportunidad de hacer movilidad estudiantil un semestre a la Universidad Nacional de Rosario, ARG. Posteriormente, fui becaria en Audi Mexico en el área de innovación y digitalización. Entre a Ford en 2021 en el área de compras prototipos. He sido compradora de prototipos para asientos y estampados, powertrain installations y actualmente soy compradora de componentes eléctricos.",
+                "bio": "<b<Ingeniera Industrial</b> egresada en 2021, forme parte del grupo estudiantil UNAM Motorsports (2018-2019) en el área de Management. Tuve la oportunidad de hacer movilidad estudiantil un semestre a la Universidad Nacional de Rosario, ARG. Posteriormente, fui becaria en Audi Mexico en el área de innovación y digitalización. Entre a Ford en 2021 en el área de compras prototipos. He sido compradora de prototipos para asientos y estampados, powertrain installations y actualmente soy compradora de componentes eléctricos.",
                 "photo": "img/speaker-brenda-avila.jpg"
                 }
             ],
@@ -436,9 +436,9 @@ document.addEventListener('DOMContentLoaded', () => {
 			"audience": "Preselección",
 			"location": "CIA - Sótano",
             "speakers": [
-                 {
+                {
                 "name": "Arturo García",
-                "bio": "Arturo García es Maestro en Ingeniería Electromecánico y actualmente tiene el puesto de Ingeniero de pruebas y Manager de Proyectos en Ford",
+                "bio": "Arturo García es <b>Maestro en Ingeniería Electromecánico</b> y actualmente tiene el puesto de Ingeniero de pruebas y Manager de Proyectos en Ford",
                 "photo": "img/speaker-arturo-garcia.jpg"
                 },
 				 {
@@ -448,8 +448,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				 {
                 "name": "Uriel Loza",
-                "bio": "Uriel Loza es Maestro en Ingenería Aeronáutica y actualmente tiene el puesto de Ingeniero de CAE Vehicle Durability en Ford",
-                "photo": "img/speaker-uriel-loza.png"
+                "bio": "Uriel Loza es <b>Maestro en Ingenería Aeronáutica</b> y actualmente tiene el puesto de Ingeniero de CAE Vehicle Durability en Ford",
+                "photo": "img/speaker-uriel-loza.jpg"
                 }
             ],
             
@@ -465,7 +465,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Karen Vázquez",
-                "bio": "Psicóloga Organizacional con ocho años de experiencia en Recursos Humanos, especializada en atracción y desarrollo del talento. He tenido la oportunidad de liderar proyectos clave en empresas globales del sector de Telecomunicaciones y Automotriz, donde he contribuido al fortalecimiento de la cultura organizacional y al crecimiento del talento.",
+                "bio": "<b>Psicóloga Organizacional</b> con ocho años de experiencia en Recursos Humanos, especializada en atracción y desarrollo del talento. He tenido la oportunidad de liderar proyectos clave en empresas globales del sector de Telecomunicaciones y Automotriz, donde he contribuido al fortalecimiento de la cultura organizacional y al crecimiento del talento.",
                 "photo": "img/speaker-karen-vazquez.jpg"
                 }
             ],
@@ -474,15 +474,15 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         },
 		"w-7": {
-            "title": "¿Cómo construir sistemas basados en agentes?",
+            "title": "Agentes de IA: Optimizando el Bienestar Personal y la Productividad",
             "time": "14:00 - 15:00",
 			"audience": "General",
 			"location": "Auditorio Sotero Prieto",
             "speakers": [
                 {
                 "name": "Arturo Horcasitas",
-                "bio": "Jorge Arturo Rodríguez Horcasitas es Maestro en Ciencias de la Computación por la UNAM, donde también se desempeña como profesor tanto a nivel diplomado como en licenciatura. En el diplomado en inteligencia artificial aplicada imparte el módulo de redes neuronales para el análisis de secuencias y a nivel licenciatura imparte la clase de aprendizaje profundo. Además de su labor académica, Jorge Arturo lidera un equipo de científicos de datos en Ford. Cuenta con siete años de experiencia en la industria, durante los cuales ha tenido la oportunidad de trabajar en diversas áreas, como visión por computadora, tratamiento del lenguaje natural, análisis de series de tiempo y análisis de datos tabulares.",
-                "photo": "img/speaker-arturo-horcasitas.png"
+                "bio": "Jorge Arturo Rodríguez Horcasitas es <b>Maestro en Ciencias de la Computación por la UNAM</b>, donde también se desempeña como profesor tanto a nivel diplomado como en licenciatura. En el diplomado en inteligencia artificial aplicada imparte el módulo de redes neuronales para el análisis de secuencias y a nivel licenciatura imparte la clase de aprendizaje profundo. Además de su labor académica, Jorge Arturo lidera un equipo de científicos de datos en Ford. Cuenta con siete años de experiencia en la industria, durante los cuales ha tenido la oportunidad de trabajar en diversas áreas, como visión por computadora, tratamiento del lenguaje natural, análisis de series de tiempo y análisis de datos tabulares.",
+                "photo": "img/speaker-arturo-horcasitas.jpg"
                 },
 				{
                 "name": "Leonardo Trujillo",
@@ -491,7 +491,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             ],
             "activity": {
-                "description": "TBD"
+                "description": "En esta sesión se explorará cómo los agentes de IA, sistemas autónomos impulsados por LLMs, están redefiniendo el bienestar y la productividad. Se presentarán sus aplicaciones actuales en herramientas que optimizan tareas y salud, y se analizará su futuro impacto, incluyendo los desafíos éticos."
             }
         },
 		"w-8": {
@@ -502,17 +502,17 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Roberto Peña",
-                "bio": "Roberto Peña es Ingeniero Mecánico y Maestro en Ingeniería Mecánica por la Universidad Nacional Autónoma de México (UNAM), con un Diplomado en Sistemas Complejos del Massachusetts Institute of Technology (MIT). Posee 15 años de sólida experiencia profesional en Ford Motor Company, donde se he especializado en el desarrollo de sistemas estructurales de carrocería metálica, así como en el diseño y liberación de sistemas de cierre (puertas laterales y traseras) y del sistema de panel de instrumentos. Su perfil se complementa con experiencia como Ingeniero de Sistemas, con un enfoque probado en modelado y optimización de funciones y diseño.",
-                "photo": "img/speaker-roberto-peña.png"
+                "bio": "Roberto Peña es <b>Ingeniero Mecánico y Maestro en Ingeniería Mecánica por la Universidad Nacional Autónoma de México (UNAM)</b>, con un Diplomado en Sistemas Complejos del Massachusetts Institute of Technology (MIT). Posee 15 años de sólida experiencia profesional en Ford Motor Company, donde se he especializado en el desarrollo de sistemas estructurales de carrocería metálica, así como en el diseño y liberación de sistemas de cierre (puertas laterales y traseras) y del sistema de panel de instrumentos. Su perfil se complementa con experiencia como Ingeniero de Sistemas, con un enfoque probado en modelado y optimización de funciones y diseño.",
+                "photo": "img/speaker-roberto-peña.jpg"
                 },
 				{
                 "name": "Enrique González",
-                "bio": "Enrique González es Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM. Fue profesor de Introducción de Estudios de Mecanismos en la Facultad de Ingeniería de 2004 al 2009. Actualmente tiene el puesto de Chassis Multi Body Dynamics CAE Engineer en Ford.",
+                "bio": "Enrique González es <b>Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM</b>. Fue profesor de Introducción de Estudios de Mecanismos en la Facultad de Ingeniería de 2004 al 2009. Actualmente tiene el puesto de Chassis Multi Body Dynamics CAE Engineer en Ford.",
                 "photo": "img/speaker-enrique-gonzalez.jpg"
                 },
 				{
                 "name": "Shair Mendoza",
-                "bio": "Shair Mendoza es Ingeniero Mecánico egresado de la Facultad de Ingeniería y cuenta con una Maestría y Doctorado en Mecánica Aplicada. Con más de 18 años de experiencia profesional, actualmente se desempeña como Safety Crash Engineer en Ford",
+                "bio": "Shair Mendoza es <b>Ingeniero Mecánico egresado de la Facultad de Ingeniería</b> y cuenta con una <b>Maestría y Doctorado en Mecánica Aplicada</b>. Con más de 18 años de experiencia profesional, actualmente se desempeña como Safety Crash Engineer en Ford",
                 "photo": "img/speaker-shair-mendoza.png"
                 }
             ],
@@ -528,27 +528,27 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Santiago Aguilar",
-                "bio": "Santiago Aguilar Martínez es un Ingeniero Mecatrónico egresado de la Universidad Nacional Autónoma de México en 2023. Inició su carrera en Ford de México como becario en la posición de Ingeniero de Integración, siendo contratado de tiempo completo en 2024. Desde Hermosillo, ha contribuido al lanzamiento de la Bronco Sport 2025/2026 y la Maverick 2026. Actualmente trabaja desde ciudad de México en los modelos del año 2029. Su experiencia previa en UNAM Motorsports, en los sistemas de Transmisión y Management, le permitió desarrollar habilidades en validación, simulación y gestión de equipos.",
+                "bio": "Santiago Aguilar Martínez es un <b>Ingeniero Mecatrónico egresado de la Universidad Nacional Autónoma de México</b> en 2023. Inició su carrera en Ford de México como becario en la posición de Ingeniero de Integración, siendo contratado de tiempo completo en 2024. Desde Hermosillo, ha contribuido al lanzamiento de la Bronco Sport 2025/2026 y la Maverick 2026. Actualmente trabaja desde ciudad de México en los modelos del año 2029. Su experiencia previa en UNAM Motorsports, en los sistemas de Transmisión y Management, le permitió desarrollar habilidades en validación, simulación y gestión de equipos.",
                 "photo": "img/speaker-santiago-aguilar.jpg"
                 },
 				{
                 "name": "Paulo Becerril",
-                "bio": "Paulo César Becerril González, es un Ingeniero Mecatrónico egresado de la Universidad Nacional Autónoma de México (UNAM). De 2011 a 2013 participó en el equipo de Formula SAE como desarrollador del sistema de suspensión, así como del atenuador de impacto y de coordinador de pruebas de vehículo. Desde 2015 forma parte de Ford Motor Company, donde se desempeña como ingeniero de CAD en PT Electronics Hardware.",
+                "bio": "Paulo César Becerril González, es un <b>Ingeniero Mecatrónico egresado de la Universidad Nacional Autónoma de México (UNAM)</b>. De 2011 a 2013 participó en el equipo de Formula SAE como desarrollador del sistema de suspensión, así como del atenuador de impacto y de coordinador de pruebas de vehículo. Desde 2015 forma parte de Ford Motor Company, donde se desempeña como ingeniero de CAD en PT Electronics Hardware.",
                 "photo": "img/speaker-paulo-becerril.jpg"
                 },
 				{
                 "name": "Miguel Clemente",
-                "bio": "Miguel Clemente Eguiluz, Ingeniero Mecánico egresado de la Facultad de Ingeniería. Miembro de UNAM Motorsports en las temporadas 2012 y 2013 en el área de management. Su trayectoria profesional abarca Project Management para el desarrollo de Bronco Sport 2021 y su rediseño 2025 así como Maverick 2025 enfocados en program planning, user experience y lanzamiento en planta de producción; así como el área comercial en planeación y estrategia de producto en México, Caribe y Centroamérica. Actualmente se desempeña en planeación estratégica de producto futuro para el mercado mexicano.",
+                "bio": "Miguel Clemente Eguiluz, <b>Ingeniero Mecánico egresado de la Facultad de Ingeniería</b>. Miembro de UNAM Motorsports en las temporadas 2012 y 2013 en el área de management. Su trayectoria profesional abarca Project Management para el desarrollo de Bronco Sport 2021 y su rediseño 2025 así como Maverick 2025 enfocados en program planning, user experience y lanzamiento en planta de producción; así como el área comercial en planeación y estrategia de producto en México, Caribe y Centroamérica. Actualmente se desempeña en planeación estratégica de producto futuro para el mercado mexicano.",
                 "photo": "img/speaker-miguel-clemente.jpg"
                 },
 				{
                 "name": "Salvador Honorato",
-                "bio": "Salvador Honorato Navarrete, Ingeniero Mecánico de la UNAM (graduado en 2024), ocupó la posición de líder del sistema de Motor y Enfriamiento para el vehículo de combustión interna de UNAM Motorsports entre 2022 y 2024. Con 2.5 años de experiencia en Ford Motor Company, se ha especializado en el diseño de intercambiadores de calor para el Mustang. Sus responsabilidades incluyen la coordinación integral del desarrollo de componentes para el enfriamiento de motor y transmisión, abarcando desde la conceptualización inicial, diseño digital, evaluación CAE, gestión de proveedores, planificación de producción, hasta el lanzamiento.",
+                "bio": "Salvador Honorato Navarrete, <b>Ingeniero Mecánico de la UNAM</b> (graduado en 2024), ocupó la posición de líder del sistema de Motor y Enfriamiento para el vehículo de combustión interna de UNAM Motorsports entre 2022 y 2024. Con 2.5 años de experiencia en Ford Motor Company, se ha especializado en el diseño de intercambiadores de calor para el Mustang. Sus responsabilidades incluyen la coordinación integral del desarrollo de componentes para el enfriamiento de motor y transmisión, abarcando desde la conceptualización inicial, diseño digital, evaluación CAE, gestión de proveedores, planificación de producción, hasta el lanzamiento.",
                 "photo": "img/speaker-salvador-honorato.jpg"
                 },
 				{
                 "name": "Francisco Villa",
-                "bio": "Francisco Javier Villa Mancera, Ingeniero Mecánico egresado de la UNAM en 2015, fue capitán del equipo Formula SAE entre 2013 y 2015, logrando un tercer lugar en el reporte de costos en Lincoln 2015. Con 10 años en Ford Motor Company, se ha especializado en el diseño de componentes de materiales compuestos para vehículos comerciales y de Ford Performance. Actualmente, optimiza costos y manufactura de piezas interiores, convirtiendo componentes metálicos estructurales a polímeros compuestos. Sus responsabilidades incluyen la coordinación del diseño digital, evaluación CAE, gestión con proveedores y planificación de producción.",
+                "bio": "Francisco Javier Villa Mancera, <b>Ingeniero Mecánico egresado de la UNAM</b> en 2015, fue capitán del equipo Formula SAE entre 2013 y 2015, logrando un tercer lugar en el reporte de costos en Lincoln 2015. Con 10 años en Ford Motor Company, se ha especializado en el diseño de componentes de materiales compuestos para vehículos comerciales y de Ford Performance. Actualmente, optimiza costos y manufactura de piezas interiores, convirtiendo componentes metálicos estructurales a polímeros compuestos. Sus responsabilidades incluyen la coordinación del diseño digital, evaluación CAE, gestión con proveedores y planificación de producción.",
                 "photo": "img/speaker-francisco-villa.jpg"
                 }
             ],
@@ -565,7 +565,7 @@ document.addEventListener('DOMContentLoaded', () => {
 			"speakers": [
 				{
 				"name": "María Fernanda García Díaz Arauz",
-                "bio": "María Fernanda García Díaz Arauz es Licenciada en Relaciones Internacionales por la Universidad Anáhuac Norte. Con ocho años de trayectoria en Ford de México, se ha especializado en el área de Desarrollo de Producto, enfocándose en Traducciones y Fuentes para las pantallas de vehículos y aplicaciones móviles. Su formación continua incluye diplomados como 'IA para Líderes' por la Universidad de Texas, 'Conducción de Equipos de Alto Desempeño' y 'Lidereando con Propósito', ambos por el Tecnológico de Monterrey. Entre sus logros más recientes, destaca la exitosa implementación en México del proceso de traducciones para programas de exportación y domésticos, anteriormente gestionado desde China.",
+                "bio": "María Fernanda García Díaz Arauz es <b>Licenciada en Relaciones Internacionales por la Universidad Anáhuac Norte</b>. Con ocho años de trayectoria en Ford de México, se ha especializado en el área de Desarrollo de Producto, enfocándose en Traducciones y Fuentes para las pantallas de vehículos y aplicaciones móviles. Su formación continua incluye diplomados como 'IA para Líderes' por la Universidad de Texas, 'Conducción de Equipos de Alto Desempeño' y 'Lidereando con Propósito', ambos por el Tecnológico de Monterrey. Entre sus logros más recientes, destaca la exitosa implementación en México del proceso de traducciones para programas de exportación y domésticos, anteriormente gestionado desde China.",
                 "photo": "img/speaker-fernanda-garcia.png"
 				}
 				],
@@ -627,7 +627,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Arian Sosa",
-                "bio": "TBD",
+                "bio": "Arian Sosa es <b>egresado de la primera generación de Mecatrónica de la FI-UNAM (CU)</b> -Generación 2002-1. Hizo una estancia en la Universidad de Skövde en 2005 y 2006 obteniendo <b<Master of Science in Mechanical Engineering</b> y desarrolló su proyecto de tesis en el laboratorio de termo fluidos de la Universidad de Chalmers. Cuenta con 19 años de experiencia profesional en áreas como Tren Motriz, Ingeniería de Vehículo, Calibración de Motor, Diseño de Características (Features) y Pruebas y Validación en Desarrollo de Producto (incluyendo una asignación internacional en 2019 y 2020). Actualmente tiene el puesto de Gerente de Pruebas en GTBC, lidereando un equipo de 180 personas.",
                 "photo": "img/speaker-arian-sosa.jpg"
             }
             ],
@@ -754,6 +754,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
