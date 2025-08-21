@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
 				{
                 "name": "Gabriela Ortiz",
                 "bio": "Gabriela Ortiz Vargas es Ingeniera DevOps en el área de herramientas para desarrolladores en Ford.  Su proactividad y compromiso le han ayudado a tomar nuevas oportunidades de crecimiento profesional, ha trabajado en empresas internacionales en donde ha enriquecido su conocimiento técnico así como aprender de un ambiente multicultural.",
-                "photo": "img/speaker-gabriela-ortiz.png"
+                "photo": "img/speaker-gabriela-ortiz.jpg"
                 },
 				{
                 "name": "Grisel Felipe",
@@ -754,6 +754,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
