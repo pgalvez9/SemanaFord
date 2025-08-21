@@ -225,7 +225,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 		"m-2": {
             "title": "SCRUM",
-            "time": "09:00 - 10:00",
+            "time": "08:00 - 12:00",
 			"audience": "Preselección",
 			"location": "Lobby CIA",
             "speakers": [
@@ -754,6 +754,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
