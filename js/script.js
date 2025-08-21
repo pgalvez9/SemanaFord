@@ -668,7 +668,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     speakerNameElem.textContent = speaker.name;
 
                     const speakerBioElem = document.createElement('p');
-                    speakerBioElem.textContent = speaker.bio;
+                    speakerBioElem.innerHTML = speaker.bio;
 
                     speakerDiv.appendChild(speakerPhotoElem);
                     speakerDiv.appendChild(speakerNameElem);
@@ -754,6 +754,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
