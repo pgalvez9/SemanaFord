@@ -600,7 +600,29 @@ document.addEventListener('DOMContentLoaded', () => {
 				],
             "activity": {
                 "description": "Acompáñanos a la premiación de los equipos participantes del taller de Design Thinking.",
-				"photo":"img/speaker-shark-tank.jpeg"
+				
+            }
+        },
+		"j-21": {
+              "title": "Ingeniería de Diseño Automotriz en México: del concepto al modelo digital (CAD)”",
+            "time": "11:00 - 12:00",
+            "audience": "General",
+            "location": "Auditorio Sotero Prieto",
+			"speakers": [
+				{
+				"name": "Alan Tinoco",
+                "bio": "Alan Fernando Tinoco Jiménez, Ingeniero de Interiores en Ford Motor Company, con 10 años de experiencia. <b>Egresado de la Facultad de Ingeniería de la UNAM</b> con un semestre de intercambio en la Universidad del País Vasco, con Diplomado por el MIT en 'Architecture and Systems Engineering'. Ha diseñado componentes de interiores de alrededor de 10 nuevos vehículos, algunos tan emblemáticos como la Ford Lobo, Bronco & Bronco Raptor. Reconocido por eficientar el uso de componentes y reducir costos ensambles completos. Su pasión es innovar y liderar equipos hacia un diseño robusto que sobrepase las expectativas del cliente. Cuenta con una patente en Estados Unidos que integra un nuevo componente de consolas. Su objetivo es construir y probar que los futuros vehículos provean la mejor calidad y sensación para nuestros clientes finales.",
+                "photo": "img/speaker-alan-tinoco.jpeg"
+				},
+				{
+				"name": "Juan Palencia",
+                "bio": "Juan Angel Palencia Morales, <b>Ingeniero Mecánico con especialidad en Diseño Mecánico egresado de la Facultad de Ingeniería de la UNAM</b>. Realizó su Servicio Social, Prácticas Profesionales y Tesis colaborando en el Instituto de Astronomía (IA-UNAM) en el desarrollo de Instrumentación para telescopios. Cuenta con un Diplomado en 'Architecture and Systems Engineering' del MIT y actualmente está cursando el Diplomado 'Artificial Inteligence for Leaders' de la Universidad de Texas. Juan cuenta con 20 años de experiencia en la industria automotriz, habiendo trabajado para Ford y Nissan. Su experiencia abarca una amplia variedad de sistemas, incluidos el Panel de instrumentos (IP), las Consolas, los paneles de acabado de interiores y asientos. Actualmente es Supervisor de Desarrollo de Producto del equipo de Consolas en la organización de Engineering Design.",
+                "photo": "img/speaker-juan-palencia.jpeg"
+				}
+				],
+            "activity": {
+                "description": "¿Realmente se hace diseño automotriz en México? La respuesta es sí. Hoy, el diseño de automóviles se realiza mayoritariamente con modelos 3D (CAD): se construye el vehículo de forma digital antes de fabricarlo. Sobre ese gemelo tridimensional se ejecutan simulaciones, se verifican compatibilidades e interferencias entre componentes y se simulan las secuencias de ensamblaje y los procesos de fabricación para garantizar la producibilidad. Gracias a este enfoque digital, se pueden probar ideas, corregir errores y optimizar piezas sin recurrir a tantos prototipos físicos, lo que reduce tiempos y costos. En Ford de México contamos con un equipo de más de 250 ingenieros que diseñan nuevos modelos, acompañando el proceso desde la concepción hasta la entrega de un modelo 3D digital listo para su validación y posterior producción.",
+				
             }
         },
 		"j-3": {
@@ -754,6 +776,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
