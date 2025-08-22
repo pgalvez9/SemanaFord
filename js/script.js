@@ -487,7 +487,7 @@ document.addEventListener('DOMContentLoaded', () => {
 				{
                 "name": "Leonardo Trujillo",
                 "bio": "Leonardo Trujillo es Coordinador de presupuesto, compras y control interno para mercados emergentes en Norteamerica. Además de ser el Coordinador del Club de Inteligencia Artificial de Ford de México. Con una mentalidad estratégica y creativa, busca sembrar semillas de innovación, aprovechando la tecnología y la resolución de problemas para enfrentar desafíos complejos y dar forma al futuro.",
-                "photo": "img/speaker-leonardo-trujillo.png"
+                "photo": "img/speaker-leonardo-trujillo.jpg"
                 }
             ],
             "activity": {
@@ -776,6 +776,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
