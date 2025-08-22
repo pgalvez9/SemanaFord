@@ -157,7 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 		"l-8": {
             "title": "Ford y Baja SAE",
-            "time": "15:00 - 16:00",
+            "time": "15:30 - 17:00",
             "audience": "General",
             "location": "Auditorio Sotero Prieto",
             "speakers": [
@@ -173,7 +173,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
                 {
                 "name": "Ulises Guzmán",
-                "bio": "Ulises Guzmán es un <b>Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM</b>. Cuento con experiencia en el sector automotriz, habiéndose desempeñado en roles clave dentro de Ford Motor Company, específicamente en las áreas de Ingeniería de Calidad y Business Solutions.",
+                "bio": "Ulises Guzmán es un <b>Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM</b>. Cuenta con experiencia en el sector automotriz, habiéndose desempeñado en roles clave dentro de Ford Motor Company, específicamente en las áreas de Ingeniería de Calidad y Business Solutions.",
                 "photo": "img/speaker -ulises-guzman.jpg"
                 },
                 {
@@ -776,6 +776,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
