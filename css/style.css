@@ -64,6 +64,7 @@ body {
 /* Sección del Calendario */
 .calendar-section {
     padding: 40px 0;
+    ext-align: center;
 }
 
 .calendar-section h2 {
@@ -522,4 +523,5 @@ body {
         margin-bottom: 20px;
         padding-bottom: 15px;
     }
+
 }
