@@ -174,7 +174,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 {
                 "name": "Ulises Guzmán",
                 "bio": "Ulises Guzmán es un <b>Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM</b>. Cuento con experiencia en el sector automotriz, habiéndose desempeñado en roles clave dentro de Ford Motor Company, específicamente en las áreas de Ingeniería de Calidad y Business Solutions.",
-                "photo": "img/speaker-ulises-guzman.jpg"
+                "photo": "img/speaker -ulises-guzman.jpg"
                 },
                 {
                 "name": "Omar López",
@@ -776,6 +776,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
