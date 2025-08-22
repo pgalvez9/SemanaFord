@@ -416,7 +416,7 @@ document.addEventListener('DOMContentLoaded', () => {
 				{
                 "name": "Ma. Fernanda Landeros",
                 "bio": "<b>Ingeniera industrial por la UNAM</b>, hoy impulsa la inteligencia de negocio y el aprendizaje técnico para desarrollo de producto en Ford. Antes optimizó compras globales en MSD con negociaciones de alcance global. En el ámbito social, gestionó el centro de documentación del INDESOL, elevando la eficiencia documental de los manuales de organizaciones de sociedad civil, mediante metodologías de evaluación basadas en datos, y previamente fortaleció los controles de calidad en MURCAR, reduciendo significativamente defectos y retrabajos en línea de producción. Líder nata, cat-lover y promotora STEM.",
-                "photo": "img/speaker-fernanda-landeros.jpg"
+                "photo": "img/speaker-mafer-landeros.jpg"
                 },
 				{
                 "name": "Brenda Ávila",
@@ -425,7 +425,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             ],
             "activity": {
-                "description": "Se trata de una dinámica en la que los estudiantes pueden hacer preguntas a los ingenieros que actualmente trabajan en Ford, que son egresados de la facultad de ingeniería sobre como es su día a día laboralmente, los retos que han enfrentado y las recomendaciones que les gustarían compartir con ellos para su desarrollo profesional y conocer la empresa.",
+                "description": "Se trata de una dinámica en la que los estudiantes pueden hacer preguntas a los ingenieros que actualmente trabajan en Ford, que son egresados de la facultad de ingeniería sobre como es su día a día laboralmente, los retos que han enfrentado y las recomendaciones que les gustarían compartir con ellos para su desarrollo profesional y conocer la empresa. Nota: Cupo Limitado a 25 personas por grupo.",
                 "url" : "https://forms.office.com/r/gz2WHDVxTe?origin=lprLink."
 			}
 			
@@ -513,7 +513,7 @@ document.addEventListener('DOMContentLoaded', () => {
 				{
                 "name": "Shair Mendoza",
                 "bio": "Shair Mendoza es <b>Ingeniero Mecánico egresado de la Facultad de Ingeniería</b> y cuenta con una <b>Maestría y Doctorado en Mecánica Aplicada</b>. Con más de 18 años de experiencia profesional, actualmente se desempeña como Safety Crash Engineer en Ford",
-                "photo": "img/speaker-shair-mendoza.png"
+                "photo": "img/speaker-shair-mendoza.jpeg"
                 }
             ],
             "activity": {
@@ -776,6 +776,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
