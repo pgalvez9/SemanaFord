@@ -115,6 +115,7 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Explanada CIA",
 			"speakers": [
 				{
+					"bio": "",
 					"photo":"img/speaker-vehicle-showtime.jpg"
 				}
 				],
@@ -580,6 +581,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "location": "CIA - Sótano",
 			"speakers": [
 				{
+				"bio": "",
 				"photo":"img/speaker-shark-tank.jpeg"
 				}
 				],
@@ -595,6 +597,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "location": "CIA - Sótano",
 			"speakers": [
 				{
+				"bio": "",
 				"photo":"img/speaker-shark-tank.jpeg"
 				}
 				],
@@ -776,6 +779,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
