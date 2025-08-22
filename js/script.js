@@ -604,7 +604,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         },
 		"j-21": {
-              "title": "Ingeniería de Diseño Automotriz en México: del concepto al modelo digital (CAD)”",
+              "title": "Ingeniería de Diseño Automotriz en México: del concepto al modelo digital (CAD)",
             "time": "11:00 - 12:00",
             "audience": "General",
             "location": "Auditorio Sotero Prieto",
@@ -776,6 +776,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
