@@ -420,7 +420,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				{
                 "name": "Brenda Ávila",
-                "bio": "<b<Ingeniera Industrial</b> egresada en 2021, forme parte del grupo estudiantil UNAM Motorsports (2018-2019) en el área de Management. Tuve la oportunidad de hacer movilidad estudiantil un semestre a la Universidad Nacional de Rosario, ARG. Posteriormente, fui becaria en Audi Mexico en el área de innovación y digitalización. Entre a Ford en 2021 en el área de compras prototipos. He sido compradora de prototipos para asientos y estampados, powertrain installations y actualmente soy compradora de componentes eléctricos.",
+                "bio": "<b>Ingeniera Industrial</b> egresada en 2021, formé parte del grupo estudiantil UNAM Motorsports (2018-2019) en el área de Management. Tuve la oportunidad de hacer movilidad estudiantil un semestre a la Universidad Nacional de Rosario, ARG. Posteriormente, fui becaria en Audi Mexico en el área de innovación y digitalización. Entre a Ford en 2021 en el área de compras prototipos. He sido compradora de prototipos para asientos y estampados, powertrain installations y actualmente soy compradora de componentes eléctricos.",
                 "photo": "img/speaker-brenda-avila.png"
                 }
             ],
@@ -776,6 +776,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
