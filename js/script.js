@@ -522,9 +522,9 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 		"w-9": {
             "title": "De 'Fórmula SAE' a la ingeniería automotriz, experiencias compartidas.",
-            "time": "15:00 - 16:30",
+            "time": "15:30 - 17:00",
 			"audience": "General y Agrupaciones",
-			"location": "Explanada CIA",
+			"location": "Auditorio Sotero Prieto",
             "speakers": [
                 {
                 "name": "Santiago Aguilar",
@@ -776,6 +776,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
