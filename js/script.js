@@ -303,7 +303,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         },
 		"m-7": {
-            "title": "Coloquio PARA - Experiencias compartidas por Ingenieros de Ford",
+            "title": "Coloquio PARA: Experiencias compartidas por Ingenieros de Ford",
             "time": "13:00 - 14:30",
 			"audience": "General y Agrupaciones",
 			"location": "Auditorio Sotero Prieto",
@@ -321,7 +321,7 @@ document.addEventListener('DOMContentLoaded', () => {
 				{
                 "name": "Pablo Gómez",
                 "bio": "<b>Ingeniero Industrial e Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM</b>, fue miembro del Programa de Alto Rendimiento Académico (PARA), participó en el proyecto Fórmula SAE (temporadas 2012 y 2013), e hizo un semestre de intercambio en la NTNU en Trondheim, Noruega. Cuenta con 10 años de experiencia desempeñando diferentes puestos en el departamento de Desarrollo de Producto en Ford Motor Company en el área de Underbody en los equipos de Reducción de Costos, Mejoras de Calidad, Prevención de Modos de Fallas y actualmente ocupa el cargo de Ingeniero de Integración de Sistemas en los vehículos Expedition y Navigator.",
-                "photo": "img/speaker-pablo-gomez.jpg"
+                "photo": "img/speaker-pablo-gomez.png"
                 }
             ],
             "activity": {
@@ -776,6 +776,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
