@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 {
                 "name": "Jessica Mayo",
                 "bio": "Jessica Mayo es <b>Licenciada en Relaciones Comerciales del IPN</b> además de contar con una <b>Maestría en Gestión de Innovación Tecnológica por parte de la Ibero</b>. Actualmente tiene el puesto de Program Management Analyst",
-                "photo": "img/speaker-jessica-mayo.png"
+                "photo": "img/speaker-jessica-mayo.jpg"
                 }
             ],
             "activity": {
@@ -779,6 +779,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
