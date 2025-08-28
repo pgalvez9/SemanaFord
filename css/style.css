@@ -39,6 +39,8 @@ body {
     color: var(--white);
     padding: 20px 0;
     border-bottom: 5px solid var(--unam-gold);
+    background-image: "img/banner-header.png"
+    
 }
 
 .header-content {
@@ -525,3 +527,4 @@ body {
     }
 
 }
+
