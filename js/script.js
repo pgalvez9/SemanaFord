@@ -85,6 +85,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 "name": "Uriel Loza",
                 "bio": "Uriel Loza es <b>Maestro en Ingenería Aeronáutica</b> y actualmente tiene el puesto de Ingeniero de CAE Vehicle Durability en Ford",
                 "photo": "img/speaker-uriel-loza.jpg"
+                },
+				 {
+                "name": "Arturo Tuddon",
+                "bio": "Arturo Tuddon estudió <b>Ingeniería Mecánica y Administración, así como una Maestría en Gestión de la Ingeniería en el Tec de Monterrey</b>. Con más de 14 años de experiencia en Ford, Arturo ha recorrido un camino que va desde trabajar en pruebas vehiculares y diversos laboratorios hasta llegar a su puesto actual de Global Vendor Tooling Purchasing Manager, liderando las compras globales de herramentales de inyección de plástico.",
+                "photo": "img/speaker-arturo-tuddon.jpg"
                 }
             ],
             "activity": {
@@ -297,6 +302,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 "name": "Uriel Loza",
                 "bio": "Uriel Loza es <b>Maestro en Ingenería Aeronáutica</b> y actualmente tiene el puesto de Ingeniero de CAE Vehicle Durability en Ford",
                 "photo": "img/speaker-uriel-loza.jpg"
+                },
+				 {
+                "name": "Arturo Tuddon",
+                "bio": "Arturo Tuddon estudió <b>Ingeniería Mecánica y Administración, así como una Maestría en Gestión de la Ingeniería en el Tec de Monterrey</b>. Con más de 14 años de experiencia en Ford, Arturo ha recorrido un camino que va desde trabajar en pruebas vehiculares y diversos laboratorios hasta llegar a su puesto actual de Global Vendor Tooling Purchasing Manager, liderando las compras globales de herramentales de inyección de plástico.",
+                "photo": "img/speaker-arturo-tuddon.jpg"
                 }
             ],
             "activity": {
@@ -451,6 +461,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 "name": "Uriel Loza",
                 "bio": "Uriel Loza es <b>Maestro en Ingenería Aeronáutica</b> y actualmente tiene el puesto de Ingeniero de CAE Vehicle Durability en Ford",
                 "photo": "img/speaker-uriel-loza.jpg"
+                },
+				 {
+                "name": "Arturo Tuddon",
+                "bio": "Arturo Tuddon estudió <b>Ingeniería Mecánica y Administración, así como una Maestría en Gestión de la Ingeniería en el Tec de Monterrey</b>. Con más de 14 años de experiencia en Ford, Arturo ha recorrido un camino que va desde trabajar en pruebas vehiculares y diversos laboratorios hasta llegar a su puesto actual de Global Vendor Tooling Purchasing Manager, liderando las compras globales de herramentales de inyección de plástico.",
+                "photo": "img/speaker-arturo-tuddon.jpg"
                 }
             ],
             
@@ -779,6 +794,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
