@@ -162,7 +162,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         },
 		"l-8": {
-            "title": "Ford y Baja SAE",
+            "title": "De 'Baja SAE' a la Industria Automotriz, experiencias compartidas",
             "time": "15:30 - 17:00",
             "audience": "General",
             "location": "Auditorio Sotero Prieto",
@@ -512,7 +512,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 		"w-8": {
             "title": "Experiencia de trabajo en equipo en Ford",
-            "time": "14:00 - 15:00",
+            "time": "14:00 - 15:30",
 			"audience": "Preselección",
 			"location": "Sala por definir",
             "speakers": [
@@ -537,7 +537,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         },
 		"w-9": {
-            "title": "De 'Fórmula SAE' a la ingeniería automotriz, experiencias compartidas.",
+            "title": "De 'Fórmula SAE' a la Ingeniería Automotriz, experiencias compartidas.",
             "time": "15:30 - 17:00",
 			"audience": "General y Agrupaciones",
 			"location": "Auditorio Sotero Prieto",
@@ -794,6 +794,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
