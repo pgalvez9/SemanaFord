@@ -366,6 +366,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 "name": "Estefhanie Gutiérrez",
                 "bio": "<b>Ingeniera Mecánica</b> con 9 años de experiencia práctica en el diseño de sistemas de exteriores e interiores y ornamentación automotriz. He colaborado en proyectos como el desarrollo de interiores para la Bronco Sport, Bronco y Mustang, combinando ingeniería con visión centrada en la experiencia del usuario. Con una maestría en Project Management por la Universidad de Barcelona y certificaciones como Scrum Master y Product Owner, reflejo de mi pasión por las metodologías ágiles, la mejora continua y la gestión de proyectos complejos y multidisciplinarios.",
                 "photo": "img/speaker-estefhanie-gutierrez.jpg"
+                },
+				{
+                "name": "Verónica González",
+                "bio": "Con una sólida trayectoria profesional desde 1985, Vero ha cultivado una profunda experiencia en el sector automotriz. Su formación académica incluye una <b>Licenciatura en Ingeniería Industrial y de Sistemas, un Posgrado en Operaciones Industriales y una Maestría en Habilidades Directivas</b>. Esta combinación de conocimientos tecnológicos, operativos y de gestión directiva le proporciona una perspectiva integral para la optimización de procesos. Actualmente se desenvuelve como analista líder de costos en el área de BOM, área fundamental para la planificación, control y ejecución de la producción. Su conocimiento abarca la optimización de la cadena de suministro y la reducción de errores y costos, asegurando que todos los elementos necesarios estén disponibles en el momento y la cantidad adecuados. Más allá de su destacada carrera, demuestra un fuerte compromiso social y una personalidad multifacética. Es una apasionada de la cocina, el baile y los animales, involucrándose en iniciativas de Ford de apoyo a refugios caninos, y participando en actividades comunitarias impulsadas por la empresa, como pintar escuelas.",
+                "photo": "img/speaker-veronica-gonzalez.jpg"
                 }
             ],
             "activity": {
@@ -794,6 +799,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
