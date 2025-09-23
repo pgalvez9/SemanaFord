@@ -406,12 +406,12 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Oscar Carranza",
-                "bio": "Mi nombre es Fabián Sánchez Hernández, tengo 23 años y soy recién egresado de la carrera de <b>Ingeniería Aeroespacial en la UNAM</b>, actualmente me encuentro trabajando como Champ en el área de Body Interior, más específicamente en el equipo de despliegue de bolsas de aire, empecé a trabajar en Ford en marzo de 2025, y previamente estuve trabajando en Stellantis. A pesar de llevar relativamente poco tiempo dentro de la empresa, cada día busco aprender y prepararme para aplicar a una posición de full time, y aunque haber llegado hasta aquí ha sido complicado, siempre he creído que si te propones algo eres capaz de lograrlo.",
+                "bio": "<b>Ingeniero Eléctrico Electrónico</b> (egresado en 2023), con experiencia en desarrollo de software y análisis de datos y actualmente colaborando en el área de sistemas de protección eléctrica en Vehículos Híbridos y Eléctricos de Ford.",
                 "photo": "img/speaker-oscar-carranza.jpg"
                 },
 				{
                 "name": "Fabián Sánchez",
-                "bio": "Recién egresado de la carrera de <b>Ingeniería Aeroespacial en la UNAM</b>, actualmente se encuentra trabajando como Champ en el área de Body Interior, más específicamente en el equipo de despliegue de bolsas de aire. Empezó a trabajar en Ford en marzo de 2025, y previamente estuvo trabajando en Stellantis. A pesar de llevar relativamente poco tiempo dentro de la empresa, cada día busca aprender y prepararse para aplicar a una posición de full time. Tiene la creencia que si te propones algo eres capaz de lograrlo.",
+                "bio": "Mi nombre es Fabián Sánchez Hernández, tengo 23 años y soy recién egresado de la carrera de <b>Ingeniería Aeroespacial en la UNAM</b>, actualmente me encuentro trabajando como Champ en el área de Body Interior, más específicamente en el equipo de despliegue de bolsas de aire, empecé a trabajar en Ford en marzo de 2025, y previamente estuve trabajando en Stellantis. A pesar de llevar relativamente poco tiempo dentro de la empresa, cada día busco aprender y prepararme para aplicar a una posición de full time, y aunque haber llegado hasta aquí ha sido complicado, siempre he creído que si te propones algo eres capaz de lograrlo.",
                 "photo": "img/speaker-fabian-sanchez.jpg"
                 },
 				{
@@ -799,6 +799,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
