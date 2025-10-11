@@ -357,7 +357,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 		/* HORARIO MIÉRCOLES */
 		"w-1": {
-            "title": "¿Cómo se diseña un coche Ford?",
+            "title": "¿Cómo se diseña un automóvil?",
             "time": "09:00 - 10:00",
 			"audience": "General",
 			"location": "Auditorio Sotero Prieto",
@@ -799,6 +799,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
