@@ -585,9 +585,9 @@ document.addEventListener('DOMContentLoaded', () => {
             "location": "Auditorio Sotero Prieto",
 			"speakers": [
 				{
-				"name": "María Fernanda García Díaz Arauz",
-                "bio": "María Fernanda García Díaz Arauz es <b>Licenciada en Relaciones Internacionales por la Universidad Anáhuac Norte</b>. Con ocho años de trayectoria en Ford de México, se ha especializado en el área de Desarrollo de Producto, enfocándose en Traducciones y Fuentes para las pantallas de vehículos y aplicaciones móviles. Su formación continua incluye diplomados como 'IA para Líderes' por la Universidad de Texas, 'Conducción de Equipos de Alto Desempeño' y 'Lidereando con Propósito', ambos por el Tecnológico de Monterrey. Entre sus logros más recientes, destaca la exitosa implementación en México del proceso de traducciones para programas de exportación y domésticos, anteriormente gestionado desde China.",
-                "photo": "img/speaker-fernanda-garcia.png"
+				"name": "Dairem Díaz",
+                "bio": "Dairem Díaz es <b>Licenciado en Traducción e Interpretación por la Universidad Tecnológica Americana</b>. Con más de 18 años de experiencia como traductor y siete años de trayectoria en Ford, se ha especializado en el área de Desarrollo de Producto, enfocándose en Traducciones para las pantallas de vehículos emblemáticos como Mustang, Bronco, Super Duty, Expedition y toda la gama de vehículos Lincoln. Su formación continua incluye capacitaciones en Liderazgo, Comunicación e Inteligencia Artificial. Actualmente, se desempeña en el equipo d Traducciones lidereando los programas de exportación y domésticos de los vehículos de China.",
+                "photo": "img/speaker-dairem-diaz.jpg"
 				}
 				],
             "activity": {
@@ -799,6 +799,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
