@@ -11,6 +11,7 @@
     --category-ls: #B40CF7;
     --category-ss: #87e748;
     --category-show: #f7dc0a;
+    --unam-canceled : #ff0000;
 }
 
 /* Reset y Estilos Generales */
@@ -71,7 +72,7 @@ body {
 
 .calendar-section h2 {
     text-align: center;
-    color: var(--unam-blue);
+    color: var(--unam-canceled);
     margin-bottom: 30px;
     font-size: 2.5em;
     border-bottom: 2px solid var(--ford-blue);
