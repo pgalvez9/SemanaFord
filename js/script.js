@@ -430,11 +430,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/speaker-erick-ramos.jpg"
                 },
 				{
-                "name": "Ma. Fernanda Landeros",
-                "bio": "<b>Ingeniera industrial por la UNAM</b>, hoy impulsa la inteligencia de negocio y el aprendizaje técnico para desarrollo de producto en Ford. Antes optimizó compras globales en MSD con negociaciones de alcance global. En el ámbito social, gestionó el centro de documentación del INDESOL, elevando la eficiencia documental de los manuales de organizaciones de sociedad civil, mediante metodologías de evaluación basadas en datos, y previamente fortaleció los controles de calidad en MURCAR, reduciendo significativamente defectos y retrabajos en línea de producción. Líder nata, cat-lover y promotora STEM.",
-                "photo": "img/speaker-mafer-landeros.jpg"
-                },
-				{
                 "name": "Brenda Ávila",
                 "bio": "<b>Ingeniera Industrial</b> egresada en 2021, formé parte del grupo estudiantil UNAM Motorsports (2018-2019) en el área de Management. Tuve la oportunidad de hacer movilidad estudiantil un semestre a la Universidad Nacional de Rosario, ARG. Posteriormente, fui becaria en Audi Mexico en el área de innovación y digitalización. Entre a Ford en 2021 en el área de compras prototipos. He sido compradora de prototipos para asientos y estampados, powertrain installations y actualmente soy compradora de componentes eléctricos.",
                 "photo": "img/speaker-brenda-avila.png"
@@ -799,6 +794,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
