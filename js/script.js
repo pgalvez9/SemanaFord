@@ -260,6 +260,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 "name": "Marco Ramirez",
                 "bio": "Marco Antonio Ramírez es Ingeniero de Inteligencia Artificial en el equipo de AI, perteneciente al área de Business Operations. Se formó en <b>Ingeniería en Sistemas Computacionales en la Escuela Superior de Cómputo del IPN</b> y actualmente se especializa en ciencia de datos. Sus principales funciones incluyen apoyar a los empleados de PD en la adopción y uso de herramientas de inteligencia artificial dentro de Ford, colaborar en el diseño e implementación de estrategias clave para su integración, así como contribuir a la automatización de procesos y a la visualización de métricas alineadas con los objetivos y políticas tanto de los empleados como de la compañía.",
                 "photo": "img/speaker-marco-ramirez.jpg"
+                },
+				{
+                "name": "Alejandra Villegas",
+                "bio": "Soy Alejandra Villegas Alegría . Tengo 20 años y estoy cursando el sexto semestre de la carrera <b> Ingeniería en Ciencia de Datos y Matemáticas, en el TEC de Monterrey </b>. Actualmente, tengo el rol de Champ de Inteligencia Artificial en Ford, donde llevo 1 año trabajando. En mi día a día, me especializo en Análisis de Datos, creación de aplicaciones en la plataforma de Power Apps de Microsoft y me apasionan las redes neuronales. Soy una persona a la que le encanta el atletismo, viajar, leer, salir y ver películas. Creo firmemente que para ser buenos ingenieros, también necesitamos curiosidad y equilibrio fuera de la pantalla.",
+                "photo": "img/speaker-ale-villegas.jpg"
                 }
             ],
             "activity": {
@@ -794,6 +799,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
