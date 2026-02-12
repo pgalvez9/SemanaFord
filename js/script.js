@@ -437,7 +437,7 @@ document.addEventListener('DOMContentLoaded', () => {
             ],
             "activity": {
                 "description": "Se trata de una dinámica en la que los estudiantes pueden hacer preguntas a los ingenieros que actualmente trabajan en Ford, que son egresados de la facultad de ingeniería sobre como es su día a día laboralmente, los retos que han enfrentado y las recomendaciones que les gustarían compartir con ellos para su desarrollo profesional y conocer la empresa. Nota: Cupo Limitado a 25 personas por grupo.",
-                "url" : "https://forms.office.com/r/gz2WHDVxTe?origin=lprLink."
+                "url" : "https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=eruQyfRRm0O9NpwH-xBBwP3AchSK4LlFhIUyInqkUt1UQkJKSTRTVVlIV0dOTTdMMjZHU1U1V1VHMi4u"
 			}
 			
             },
@@ -794,6 +794,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
 
 
 
