@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Inauguración / 100 años de Ingeniería en México",
             "time": "09:00 - 10:00",
 			"audience": "General",
-			"location": "Auditorio Sotero Prieto",
+			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Juan Santillán",
@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Voces de Ingenieras de Ford México en la UNAM",
             "time": "10:00 - 11:00",
 			"audience": "General",
-			"location": "Auditorio Sotero Prieto",
+			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Stephanie Marín",
@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Design Thinking",
             "time": "11:00 - 12:00",
 			"audience": "General",
-			"location": "Auditorio Sotero Prieto",
+			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Jessica Mayo",
@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Vehicle Showtime",
             "time": "12:00 - 13:00",
 			"audience": "General",
-			"location": "Explanada CIA",
+			"location": "Explanada Edificio Principal",
 			"speakers": [
 				{
 					"bio": "",
@@ -132,7 +132,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Elaboración de CV ",
             "time": "13:00 - 14:00",
 			"audience": "General",
-			"location": "Auditorio Sotero Prieto",
+			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Alexia Huerta",
@@ -149,7 +149,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Hexadrive",
             "time": "14:00 - 15:00",
 			"audience": "General",
-			"location": "Auditorio Sotero Prieto",
+			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Rafael Hernández",
@@ -165,7 +165,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "De 'Baja SAE' a la Industria Automotriz, experiencias compartidas",
             "time": "15:30 - 17:00",
             "audience": "General",
-            "location": "Auditorio Sotero Prieto",
+            "location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Antonio Gómez",
@@ -202,7 +202,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Ford Clubs - Corporate Games",
             "time": "09:00 - 10:00",
 			"audience": "General",
-			"location": "Auditorio Sotero Prieto",
+			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Jocelyn Moctezuma",
@@ -233,7 +233,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "SCRUM",
             "time": "08:00 - 12:00",
 			"audience": "Preselección",
-			"location": "Lobby CIA",
+			"location": "CIA - Sótano",
             "speakers": [
                 {
                 "name": "Pedro Gálvez",
@@ -249,7 +249,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Inteligencia Artificial en los Vehiculos",
             "time": "10:00 - 11:00",
 			"audience": "General",
-			"location": "Auditorio Sotero Prieto",
+			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Julieta Rojas",
@@ -275,7 +275,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "De la Facultad al Exito",
             "time": "11:00 - 12:00",
 			"audience": "General",
-			"location": "Auditorio Sotero Prieto",
+			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Francisco Lugo",
@@ -322,7 +322,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Coloquio PARA: Experiencias compartidas por Ingenieros de Ford",
             "time": "13:00 - 14:30",
 			"audience": "General y Agrupaciones",
-			"location": "Auditorio Sotero Prieto",
+			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Carlos Melgarejo",
@@ -348,7 +348,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Gemelos Digitales: La actualidad del desarrollo de controladores",
             "time": "15:00 - 16:00",
 			"audience": "General",
-			"location": "Auditorio Sotero Prieto",
+			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Ignacio Salas",
@@ -365,7 +365,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "¿Cómo se diseña un automóvil?",
             "time": "09:00 - 10:00",
 			"audience": "General",
-			"location": "Auditorio Sotero Prieto",
+			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Estefhanie Gutiérrez",
@@ -386,7 +386,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Innovación en el Vehículo",
             "time": "10:00 - 11:00",
 			"audience": "General",
-			"location": "Auditorio Sotero Prieto",
+			"location": "Auditorio Javier Barros Sierra",
             "activity": {
                 "description": "La innovación es el motor que impulsa a Ford, transformando la industria automotriz desde el Modelo T hasta los vehículos eléctricos y autónomos de hoy. En esta charla, exploraremos cómo la innovación es clave en Ford y el papel fundamental de los coordinadores de innovación, quienes identifican oportunidades y gestionan proyectos de vanguardia. Es una oportunidad para que los estudiantes de ingeniería de la UNAM vean cómo su disciplina moldea el futuro de la movilidad y descubran cómo pueden ser parte de esta emocionante transformación."
             },
@@ -407,11 +407,11 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Egresados en Ford",
             "time": "11:00 - 12:00",
 			"audience": "General",
-			"location": "Explanada CIA",
+			"location": "Explanada Edificio Principal",
             "speakers": [
                 {
                 "name": "Oscar Carranza",
-                "bio": "<b>Ingeniero Eléctrico Electrónico</b> (egresado en 2023), con experiencia en desarrollo de software y análisis de datos y actualmente colaborando en el área de sistemas de protección eléctrica en Vehículos Híbridos y Eléctricos de Ford.",
+                "bio": "Soy <b>Ingeniero Eléctrico Electrónico</b> (egresado en 2023), apasionado por los sistemas de alto voltaje, con experiencia en desarrollo de software y análisis de datos. Inicié mi trayectoria en Ford en 2024 en el área de sistemas de protección eléctrica en Vehículos Híbridos y Eléctricos de Ford, y actualmente colaboro en el área de Inteligencia Artificial en proyectos de desarrollo en Cloud.",
                 "photo": "img/speaker-oscar-carranza.jpg"
                 },
 				{
@@ -482,7 +482,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "¿Cómo preparar tu entrevista?",
             "time": "13:00 - 14:00",
 			"audience": "General",
-			"location": "Auditorio Sotero Prieto",
+			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Karen Vázquez",
@@ -498,7 +498,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Agentes de IA: Optimizando el Bienestar Personal y la Productividad",
             "time": "14:00 - 15:00",
 			"audience": "General",
-			"location": "Auditorio Sotero Prieto",
+			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Arturo Horcasitas",
@@ -522,14 +522,9 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Sala por definir",
             "speakers": [
                 {
-                "name": "Roberto Peña",
+                "name": "Oscar Lopez",
                 "bio": "Roberto Peña es <b>Ingeniero Mecánico y Maestro en Ingeniería Mecánica por la Universidad Nacional Autónoma de México (UNAM)</b>, con un Diplomado en Sistemas Complejos del Massachusetts Institute of Technology (MIT). Posee 15 años de sólida experiencia profesional en Ford Motor Company, donde se he especializado en el desarrollo de sistemas estructurales de carrocería metálica, así como en el diseño y liberación de sistemas de cierre (puertas laterales y traseras) y del sistema de panel de instrumentos. Su perfil se complementa con experiencia como Ingeniero de Sistemas, con un enfoque probado en modelado y optimización de funciones y diseño.",
                 "photo": "img/speaker-roberto-peña.jpg"
-                },
-				{
-                "name": "Enrique González",
-                "bio": "Enrique González es <b>Ingeniero Mecánico egresado de la Facultad de Ingeniería de la UNAM</b>. Fue profesor de Introducción de Estudios de Mecanismos en la Facultad de Ingeniería de 2004 al 2009. Actualmente tiene el puesto de Chassis Multi Body Dynamics CAE Engineer en Ford.",
-                "photo": "img/speaker-enrique-gonzalez.jpg"
                 },
 				{
                 "name": "Shair Mendoza",
@@ -545,7 +540,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "De 'Fórmula SAE' a la Ingeniería Automotriz, experiencias compartidas.",
             "time": "15:30 - 17:00",
 			"audience": "General y Agrupaciones",
-			"location": "Auditorio Sotero Prieto",
+			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Santiago Aguilar",
@@ -582,7 +577,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Prompts inteligentes. Traducciones en el mundo automotriz.",
             "time": "09:00 - 10:00",
             "audience": "General",
-            "location": "Auditorio Sotero Prieto",
+            "location": "Auditorio Javier Barros Sierra",
 			"speakers": [
 				{
 				"name": "Dairem Díaz",
@@ -630,7 +625,7 @@ document.addEventListener('DOMContentLoaded', () => {
               "title": "Ingeniería de Diseño Automotriz en México: del concepto al modelo digital (CAD)",
             "time": "11:00 - 12:00",
             "audience": "General",
-            "location": "Auditorio Sotero Prieto",
+            "location": "Auditorio Javier Barros Sierra",
 			"speakers": [
 				{
 				"name": "Alan Tinoco",
@@ -668,7 +663,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Clausura",
             "time": "14:00 - 14:15",
 			"audience": "General",
-			"location": "CIA - Sótano",
+			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Arian Sosa",
