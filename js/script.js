@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             ],
             "activity": {
-                "description": "¡Bienvenidos a la sesión de apertura de la Semana UNAM 2025! En esta sesión Juan Santillán, Director de Desarrollo de Producto de Ford de México, compartirá con nosotros la profunda historia y el impacto duradero de Ford en la industria automotriz, destacando la relevancia de esta celebración en nuestra universidad.",
+                "description": "¡Bienvenidos a la sesión de apertura de la Semana UNAM 2026! En esta sesión Juan Santillán, Director de Desarrollo de Producto de Ford de México, compartirá con nosotros la profunda historia y el impacto duradero de Ford en la industria automotriz, destacando la relevancia de esta celebración en nuestra universidad.",
             }
 		},
 		"l-2": {
