@@ -265,6 +265,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 "name": "Alejandra Villegas",
                 "bio": "Soy Alejandra Villegas Alegría . Tengo 20 años y estoy cursando el sexto semestre de la carrera <b> Ingeniería en Ciencia de Datos y Matemáticas, en el TEC de Monterrey </b>. Actualmente, tengo el rol de Champ de Inteligencia Artificial en Ford, donde llevo 1 año trabajando. En mi día a día, me especializo en Análisis de Datos, creación de aplicaciones en la plataforma de Power Apps de Microsoft y me apasionan las redes neuronales. Soy una persona a la que le encanta el atletismo, viajar, leer, salir y ver películas. Creo firmemente que para ser buenos ingenieros, también necesitamos curiosidad y equilibrio fuera de la pantalla.",
                 "photo": "img/speaker-ale-villegas.jpg"
+                },
+				{
+                "name": "Víctor Manuel Gómez Hernández",
+                "bio": "<b>Ingeniero Mecatrónico</b> egresado de la Universidad Tecmilenio y actual miembro del equipo de Inteligencia Artificial dentro del área de Business Office en Ford. Sus principales funciones incluyen el desarrollo de automatizaciones de procesos y el apoyo estratégico a los equipos encargados de la nueva plataforma de vehículos eléctricos (Ford EV). Asimismo, contribuye estudiando y analizando flujos de trabajo, y estructurando datos para implementar soluciones impulsadas por Inteligencia Artificial que mejoren el rendimiento y la eficiencia operativa.",
+                "photo": "img/speaker-victor-gomez.jpg"
                 }
             ],
             "activity": {
