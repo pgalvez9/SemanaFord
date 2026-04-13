@@ -522,9 +522,9 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Sala por definir",
             "speakers": [
                 {
-                "name": "Oscar Lopez",
-                "bio": "Roberto Peña es <b>Ingeniero Mecánico y Maestro en Ingeniería Mecánica por la Universidad Nacional Autónoma de México (UNAM)</b>, con un Diplomado en Sistemas Complejos del Massachusetts Institute of Technology (MIT). Posee 15 años de sólida experiencia profesional en Ford Motor Company, donde se he especializado en el desarrollo de sistemas estructurales de carrocería metálica, así como en el diseño y liberación de sistemas de cierre (puertas laterales y traseras) y del sistema de panel de instrumentos. Su perfil se complementa con experiencia como Ingeniero de Sistemas, con un enfoque probado en modelado y optimización de funciones y diseño.",
-                "photo": "img/speaker-roberto-peña.jpg"
+                "name": "Oscar Morales López",
+                "bio": "Oscar Morales López es <b>Ingeniero Mecánico egresado de la Facultad de ingeniería de la UNAM </b>y cuenta con una maestría en Mecánica Aplicada. Es profesor de Cinemática y Dinámica, Estática y Mecánica en la División de Ciencias Básicas de la Facultad de Ingeniería. Actualmente tiene le puesto de Ingeniero de Core en el equipo de Rines y Llantas (WTJO) y se desempeña como Subject Matter Expert del Temporary Mobility Kit (TMK) en Ford.",
+                "photo": "img/speaker-oscar-morales.jpg"
                 },
 				{
                 "name": "Shair Mendoza",
