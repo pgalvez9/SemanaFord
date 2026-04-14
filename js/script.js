@@ -400,11 +400,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 "name": "Marco Bello",
                 "bio": "Me llamo Marco Antonio Bello Xelhuantzi, soy <b>Ingeniero en Diseño Automotriz por el Tec de Monterrey y cuento con la maestría en Innovación para el Desarrollo Empresarial</b> por la misma institución, tengo 9 años de experiencia, desde el área de diseño en diversos commodities hasta mi puesto actual como Coordinador de Innovación para el área de Desarrollo de Producto de Ford de México, siendo mis principales responsabilidad la estrategia de innovación, la administración del laboratorio llamado Makerspace, además de los temas relacionados a propiedad intelectual.",
                 "photo": "img/speaker-marco-bello.JPG"
-                },
-				{
-                "name": "Ligia Olivares",
-                "bio": "Soy <b>Ingeniera Industrial y de Sistemas, egresada del Tecnológico de Monterrey Campus Estado de México</b>. Inicié mi trayectoria laboral en Ford en 2019 comenzando como trainee en el área de GES. Actualmente, me desempeño como Coordinadora de Innovación en el Departamento de Desarrollo de Producto. Actualmente cuento con 1 patente a mi nombre, 1 publicación defensiva y 2 ideas en proceso de investigación para obtención de patente. De igual forma, durante toda mi carrera en Ford he sido miembro del grupo Women of Ford dentro del pilar “STEM”, para fomentar la ciencia y tecnología en mujeres y niñas.",
-                "photo": "img/speaker-ligia-olivares.jpg"
                 }
             ]
         },
@@ -418,11 +413,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 "name": "Oscar Carranza",
                 "bio": "Soy <b>Ingeniero Eléctrico Electrónico</b> (egresado en 2023), apasionado por los sistemas de alto voltaje, con experiencia en desarrollo de software y análisis de datos. Inicié mi trayectoria en Ford en 2024 en el área de sistemas de protección eléctrica en Vehículos Híbridos y Eléctricos de Ford, y actualmente colaboro en el área de Inteligencia Artificial en proyectos de desarrollo en Cloud.",
                 "photo": "img/speaker-oscar-carranza.jpg"
-                },
-				{
-                "name": "Fabián Sánchez",
-                "bio": "Mi nombre es Fabián Sánchez Hernández, tengo 23 años y soy recién egresado de la carrera de <b>Ingeniería Aeroespacial en la UNAM</b>, actualmente me encuentro trabajando como Champ en el área de Body Interior, más específicamente en el equipo de despliegue de bolsas de aire, empecé a trabajar en Ford en marzo de 2025, y previamente estuve trabajando en Stellantis. A pesar de llevar relativamente poco tiempo dentro de la empresa, cada día busco aprender y prepararme para aplicar a una posición de full time, y aunque haber llegado hasta aquí ha sido complicado, siempre he creído que si te propones algo eres capaz de lograrlo.",
-                "photo": "img/speaker-fabian-sanchez.jpg"
                 },
 				{
                 "name": "Karla Ramírez",
