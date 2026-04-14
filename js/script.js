@@ -87,9 +87,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/speaker-uriel-loza.jpg"
                 },
 				 {
-                "name": "Arturo Tuddon",
-                "bio": "Arturo Tuddon estudió <b>Ingeniería Mecánica y Administración, así como una Maestría en Gestión de la Ingeniería en el Tec de Monterrey</b>. Con más de 14 años de experiencia en Ford, Arturo ha recorrido un camino que va desde trabajar en pruebas vehiculares y diversos laboratorios hasta llegar a su puesto actual de Global Vendor Tooling Purchasing Manager, liderando las compras globales de herramentales de inyección de plástico.",
-                "photo": "img/speaker-arturo-tuddon.jpg"
+                "name": "Jose Gachuz",
+                "bio": "TBD",
+                "photo": "img/speaker-jose-gachuz.jpg"
                 }
             ],
             "activity": {
@@ -129,15 +129,15 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 		},
 		"l-6": {
-            "title": "Elaboración de CV ",
+            "title": "Empleabilidad y Elaboración de CV ",
             "time": "13:00 - 14:00",
 			"audience": "General",
 			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
-                "name": "Alexia Huerta",
-                "bio": "Profesional con formación en <b>Diseño Industrial por la Universidad Anáhuac</b> y una <b>Maestría en Comunicación Digital, Redes Sociales y Marketing Online por el CEUPE</b>. Cuenta con más de 6 años de experiencia en el desarrollo y gestión de estrategias de atracción de talento y programas enfocados en talento joven. Posee expertise en la implementación de estrategias externas orientadas a potenciar la marca empleadora. Es miembro de Ford desde agosto de 2023.",
-                "photo": "img/speaker-alexia-huerta.jpg"
+                "name": "Ricardo Aviles",
+                "bio": "TBD",
+                "photo": "img/speaker-ricardo-aviles.jpg"
                 }
             ],
 			"activity": {
@@ -490,9 +490,9 @@ document.addEventListener('DOMContentLoaded', () => {
 			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
-                "name": "Karen Vázquez",
-                "bio": "<b>Psicóloga Organizacional</b> con ocho años de experiencia en Recursos Humanos, especializada en atracción y desarrollo del talento. He tenido la oportunidad de liderar proyectos clave en empresas globales del sector de Telecomunicaciones y Automotriz, donde he contribuido al fortalecimiento de la cultura organizacional y al crecimiento del talento.",
-                "photo": "img/speaker-karen-vazquez.jpg"
+                "name": "Hector Correa",
+                "bio": "Héctor Correa López es Licenciado en <b>Psicología</b> por la UVM y Especialista Senior en Atracción de Talento. Actualmente se desempeña como TA Specialist en Ford de México con más de siete años de experiencia, destaca en el reclutamiento de perfiles de Ingeniería y TI para mercados en Norteamérica y Latinoamérica. Su trayectoria incluye empresas globales como Keywords Studios y Randstad, donde perfeccionó la gestión de stakeholders y el uso de sistemas ATS y CRM. Posee una sólida formación en neuropsicología, lo que le permite realizar análisis profundos de perfiles y entrevistas técnicas efectivas. Es experto en ciclos completos de contratación, desde el "sourcing" estratégico hasta el "onboarding" de niveles gerenciales. Su enfoque se orienta a la optimización de procesos de "staffing" y la implementación de mejoras en la calidad del talento. ",
+                "photo": "img/speaker-hector-correa.jpg"
                 }
             ],
             "activity": {
