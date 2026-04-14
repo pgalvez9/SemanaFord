@@ -481,7 +481,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "speakers": [
                 {
                 "name": "Hector Correa",
-                "bio": "Héctor Correa López es Licenciado en <b>Psicología</b> por la UVM y Especialista Senior en Atracción de Talento. Actualmente se desempeña como TA Specialist en Ford de México con más de siete años de experiencia, destaca en el reclutamiento de perfiles de Ingeniería y TI para mercados en Norteamérica y Latinoamérica. Su trayectoria incluye empresas globales como Keywords Studios y Randstad, donde perfeccionó la gestión de stakeholders y el uso de sistemas ATS y CRM. Posee una sólida formación en neuropsicología, lo que le permite realizar análisis profundos de perfiles y entrevistas técnicas efectivas. Es experto en ciclos completos de contratación, desde el "sourcing" estratégico hasta el "onboarding" de niveles gerenciales. Su enfoque se orienta a la optimización de procesos de "staffing" y la implementación de mejoras en la calidad del talento. ",
+                "bio": "Héctor Correa López es Licenciado en <b>Psicología</b> por la UVM y Especialista Senior en Atracción de Talento. Actualmente se desempeña como TA Specialist en Ford de México con más de siete años de experiencia, destaca en el reclutamiento de perfiles de Ingeniería y TI para mercados en Norteamérica y Latinoamérica. Su trayectoria incluye empresas globales como Keywords Studios y Randstad, donde perfeccionó la gestión de stakeholders y el uso de sistemas ATS y CRM. Posee una sólida formación en neuropsicología, lo que le permite realizar análisis profundos de perfiles y entrevistas técnicas efectivas. Es experto en ciclos completos de contratación, desde el sourcing estratégico hasta el onboarding de niveles gerenciales. Su enfoque se orienta a la optimización de procesos de staffing y la implementación de mejoras en la calidad del talento. ",
                 "photo": "img/speaker-hector-correa.jpg"
                 }
             ],
@@ -516,15 +516,15 @@ document.addEventListener('DOMContentLoaded', () => {
 			"audience": "Preselección",
 			"location": "Sala por definir",
             "speakers": [
-                {
-                "name": "Oscar Morales López",
-                "bio": "Oscar Morales López es <b>Ingeniero Mecánico egresado de la Facultad de ingeniería de la UNAM </b>y cuenta con una maestría en Mecánica Aplicada. Es profesor de Cinemática y Dinámica, Estática y Mecánica en la División de Ciencias Básicas de la Facultad de Ingeniería. Actualmente tiene le puesto de Ingeniero de Core en el equipo de Rines y Llantas (WTJO) y se desempeña como Subject Matter Expert del Temporary Mobility Kit (TMK) en Ford.",
-                "photo": "img/speaker-oscar-morales.jpg"
-                },
 				{
                 "name": "Shair Mendoza",
                 "bio": "Shair Mendoza es <b>Ingeniero Mecánico egresado de la Facultad de Ingeniería</b> y cuenta con una <b>Maestría y Doctorado en Mecánica Aplicada</b>. Con más de 18 años de experiencia profesional, actualmente se desempeña como Safety Crash Engineer en Ford",
                 "photo": "img/speaker-shair-mendoza.jpeg"
+                },
+                {
+                "name": "Oscar Morales López",
+                "bio": "Oscar Morales López es <b>Ingeniero Mecánico egresado de la Facultad de ingeniería de la UNAM </b>y cuenta con una maestría en Mecánica Aplicada. Es profesor de Cinemática y Dinámica, Estática y Mecánica en la División de Ciencias Básicas de la Facultad de Ingeniería. Actualmente tiene le puesto de Ingeniero de Core en el equipo de Rines y Llantas (WTJO) y se desempeña como Subject Matter Expert del Temporary Mobility Kit (TMK) en Ford.",
+                "photo": "img/speaker-oscar-morales.jpg"
                 }
             ],
             "activity": {
