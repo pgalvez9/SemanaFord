@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Taller de Design Thinking- Día 1",
             "time": "11:00 - 12:30",
 			"audience": "Preselección",
-			"location": "CIA - Sótano",
+			"location": "CIA - XS02",
             "speakers": [
                 {
                 "name": "Arturo García",
@@ -296,7 +296,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Taller de Design Thinking- Día 2",
             "time": "11:00 - 12:30",
 			"audience": "Preselección",
-			"location": "CIA - Sótano",
+			"location": "CIA - XS02",
             "speakers": [
                   {
                 "name": "Arturo García",
@@ -445,7 +445,7 @@ document.addEventListener('DOMContentLoaded', () => {
              "title": "Taller de Design Thinking- Día 3",
             "time": "11:00 - 12:30",
 			"audience": "Preselección",
-			"location": "CIA - Sótano",
+			"location": "CIA - XS02",
             "speakers": [
                  {
                 "name": "Arturo García",
@@ -495,11 +495,6 @@ document.addEventListener('DOMContentLoaded', () => {
 			"audience": "General",
 			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
-                {
-                "name": "Arturo Horcasitas",
-                "bio": "Jorge Arturo Rodríguez Horcasitas es <b>Maestro en Ciencias de la Computación por la UNAM</b>, donde también se desempeña como profesor tanto a nivel diplomado como en licenciatura. En el diplomado en inteligencia artificial aplicada imparte el módulo de redes neuronales para el análisis de secuencias y a nivel licenciatura imparte la clase de aprendizaje profundo. Además de su labor académica, Jorge Arturo lidera un equipo de científicos de datos en Ford. Cuenta con siete años de experiencia en la industria, durante los cuales ha tenido la oportunidad de trabajar en diversas áreas, como visión por computadora, tratamiento del lenguaje natural, análisis de series de tiempo y análisis de datos tabulares.",
-                "photo": "img/speaker-arturo-horcasitas.jpg"
-                },
 				{
                 "name": "Leonardo Trujillo",
                 "bio": "Leonardo Trujillo es Coordinador de presupuesto, compras y control interno para mercados emergentes en Norteamerica. Además de ser el Coordinador del Club de Inteligencia Artificial de Ford de México. Con una mentalidad estratégica y creativa, busca sembrar semillas de innovación, aprovechando la tecnología y la resolución de problemas para enfrentar desafíos complejos y dar forma al futuro.",
