@@ -583,7 +583,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Shark Tank",
             "time": "10:00 - 11:00",
             "audience": "General",
-            "location": "CIA - Sótano",
+            "location": "CIA - XS02",
 			"speakers": [
 				{
 				"bio": "",
@@ -599,7 +599,7 @@ document.addEventListener('DOMContentLoaded', () => {
               "title": "Shark Tank Awards",
             "time": "11:00 - 12:00",
             "audience": "General",
-            "location": "CIA - Sótano",
+            "location": "CIA - XS02",
 			"speakers": [
 				{
 				"bio": "",
@@ -637,7 +637,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Simulación de Entrevista",
             "time": "13:00 - 14:00",
 			"audience": "Preselección",
-			"location": "CIA - Sótano",
+			"location": "CIA - XS02",
             "speakers": [
                 {
                 "name": "Karen Palacios",
