@@ -129,14 +129,14 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 		},
 		"l-6": {
-            "title": "Empleabilidad y Elaboración de CV ",
+            "title": "Empleabilidad y la Importancia de un Curriculum de Alto Impacto ",
             "time": "13:00 - 14:00",
 			"audience": "General",
 			"location": "Auditorio Javier Barros Sierra",
             "speakers": [
                 {
                 "name": "Ricardo Aviles",
-                "bio": "TBD",
+                "bio": "<b>Psicólogo Social</b> con más de 20 años de trayectoria en Adquisición de Talento en consultorías y compañías globales. Head de Talent Acquisition en Ford de México, liderando la estrategia de atracción de talento. Especialista en Semilleros de Talento: 8 años diseñando programas de becarios que transforman el potencial joven en carreras de éxito. Enfoque en Inclusión Laboral: Experto en integrar la diversidad y la inclusión dentro de la visión estratégica del negocio.",
                 "photo": "img/speaker-ricardo-aviles.jpg"
                 }
             ],
