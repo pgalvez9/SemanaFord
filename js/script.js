@@ -223,7 +223,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 "name": "Rodrigo Téllez",
                 "bio": "Rodrigo Téllez Garza es egresado de la <b>Universidad de las Américas Puebla (UDLAP) de la carrera de Ingeniería Mecánica</b>. Inició su carrera profesional como Operations Specialist en una start-up de Inteligencia Artificial, donde desarrolló diversos proyectos con clientes como Apple y Meta. En abril del 2022, se incorporó a Ford de México como PD Serviceability Engineer, donde lideró diferentes iniciativas para mejorar el servicio a nuestros clientes. En diciembre de 2023, se integró al área de calidad, donde como OPD Engineer se asegura que la calidad de los componentes de combustible para Norte América cumpla con ciertas regulaciones y estándares de la industria automotriz. Es líder del Club de Basketball desde 2023, en donde a través de diversas actividades ha podido crecer personal como profesionalmente, permitiéndole hacer amistades fuera del trabajo y tener una red de contactos más amplia.",
                 "photo": "img/speaker-rodrigo-tellez.jpg"
+                },
+				{
+                "name": "Edwin Campos Straffon",
+                "bio": "Edwin Campos Straffon es <b>Ingeniero Mecánico con maestría en Dirección de Proyectos</b> y cuenta con más de 13 años de experiencia en la industria automotriz. Pertenece a la división de Desarrollo del Producto (PD) y está especializado en el desarrollo de nuevos modelos de vehículo. A lo largo de su trayectoria, ha enfocado su carrera en la integración de hardware para sistemas de powertrain y eléctricos, participando en la planeación y construcción de vehículos como Fiesta, Fusion, MKZ, Transit y Mustang. Ha colaborado en distintas plantas de manufactura en México y Estados Unidos, incluyendo Cuautitlán, Irapuato, Hermosillo y Flat Rock, Michigan, adquiriendo una visión integral del desarrollo y lanzamiento de producto en entornos globales.",
+                "photo": "img/speaker-edwin-straffon.jpg"
                 }
+				
             ],
             "activity": {
                 "description": "En esta sesión nos adentraremos en el mundo de los Ford Clubs, una iniciativa nacional diseñada para fomentar la integración, el bienestar y el espíritu de equipo entre empleados de diversas empresas a través de disciplinas deportivas, artísticas y más. Exploraremos qué son los Corporate Games y, específicamente, la experiencia de la participación de Ford en México, destacando cómo Ford ha impulsado activamente el desarrollo integral de sus colaboradores en este marco.",
