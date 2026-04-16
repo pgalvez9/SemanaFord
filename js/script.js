@@ -505,7 +505,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Experiencia de trabajo en equipo en Ford",
             "time": "14:00 - 15:30",
 			"audience": "Preselección",
-			"location": "Sala por definir",
+			"location": "CIA - XS02",
             "speakers": [
 				{
                 "name": "Shair Mendoza",
