@@ -46,11 +46,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 "photo": "img/speaker-stephanie-marin.jpg"
                 },
 				{
-                "name": "Michelle Jaramillo",
-                "bio": "Con 29 años y más de 6 años de experiencia en la industria automotriz, Michelle Jaramillo ha liderado proyectos estratégicos en manufactura, producción e innovación. Su trayectoria incluye el lanzamiento exitoso de una planta de pintura, así como la implementación de mejoras operativas a través de metodologías de excelencia. Actualmente forma parte del equipo de CSAP, donde se desempeña en iniciativas de transformación enfocadas en eficiencia, calidad y sostenibilidad. Está certificada como Lean Six Sigma Black Belt, lo que respalda su capacidad para liderar proyectos de mejora continua con enfoque en datos y resultados. Michelle es Ingeniera egresada de la Facultad de Ingeniería de la UNAM y actualmente cursa una Maestría en el Tecnológico de Monterrey, fortaleciendo su perfil con herramientas de liderazgo, innovación y gestión avanzada de operaciones.",
-                "photo": "img/speaker-michelle-jaramillo.jpg"
-                },
-				{
                 "name": "Gabriela Ortiz",
                 "bio": "Gabriela Ortiz Vargas es Ingeniera DevOps en el área de herramientas para desarrolladores en Ford.  Su proactividad y compromiso le han ayudado a tomar nuevas oportunidades de crecimiento profesional, ha trabajado en empresas internacionales en donde ha enriquecido su conocimiento técnico así como aprender de un ambiente multicultural.",
                 "photo": "img/speaker-gabriela-ortiz.jpg"
