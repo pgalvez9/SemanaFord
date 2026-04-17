@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				 {
                 "name": "Jose Gachuz",
-                "bio": "TBD",
+                "bio": "<b>Ingeniero mecatrónico egresado de la Universidad Tecnológica de México, con maestría en dirección de proyectos.</b> Actualmente tiene el puesto de Engineering Design for wiring.",
                 "photo": "img/speaker-jose-gachuz.jpg"
                 }
             ],
@@ -311,7 +311,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
 				{
                 "name": "Jose Gachuz",
-                "bio": "TBD",
+                "bio": "<b>Ingeniero mecatrónico egresado de la Universidad Tecnológica de México, con maestría en dirección de proyectos.</b> Actualmente tiene el puesto de Engineering Design for wiring.",
                 "photo": "img/speaker-jose-gachuz.jpg"
                 }
             ],
@@ -460,7 +460,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },		
 				{
                 "name": "Jose Gachuz",
-                "bio": "TBD",
+                "bio": "<b>Ingeniero mecatrónico egresado de la Universidad Tecnológica de México, con maestría en dirección de proyectos.</b> Actualmente tiene el puesto de Engineering Design for wiring.",
                 "photo": "img/speaker-jose-gachuz.jpg"
                 }
             ],
