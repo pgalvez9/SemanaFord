@@ -268,7 +268,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         },
 		"m-4": {
-            "title": "De la Facultad al Exito",
+            "title": "De la Facultad al Éxito",
             "time": "11:00 - 12:00",
 			"audience": "General",
 			"location": "Auditorio Javier Barros Sierra",
