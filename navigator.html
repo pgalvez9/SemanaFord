@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lincoln Navigator 2025 | Black Label</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        :root {
+            --lincoln-gold: #c5a059;
+            --lincoln-bronze: #8e7341;
+            --bg-deep: #0a0a0a;
+            --surface: #161616;
+            --text-gold: #e0c58e;
+            --text-white: #ffffff;
+            --text-dim: #888888;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Optima', 'Segoe UI', serif; }
+
+        body {
+            background-color: var(--bg-deep);
+            color: var(--text-white);
+            overflow-x: hidden;
+            line-height: 1.8;
+        }
+
+        /* Luxury Navbar */
+        nav {
+            position: fixed;
+            top: 0; width: 100%;
+            padding: 20px 5%;
+            background: linear-gradient(to bottom, rgba(0,0,0,0.9), transparent);
+            backdrop-filter: blur(10px);
+            z-index: 1000;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(197, 160, 89, 0.2);
+        }
+
+        .brand-logo { height: 45px; }
+
+        /* Hero Section */
+        .hero {
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background: radial-gradient(circle at center, #1a1a1a 0%, #0a0a0a 100%);
+        }
+
+        .hero span {
+            color: var(--lincoln-gold);
+            letter-spacing: 8px;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+            margin-bottom: 10px;
+            display: block;
+            animation: fadeIn 2s ease;
+        }
+
+        .hero h1 {
+            font-size: clamp(2.5rem, 10vw, 5rem);
+            font-weight: 300;
+            letter-spacing: 4px;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+        }
+
+        /* Vehicle Image - Floating Effect */
+        .image-reveal {
+            width: 95%;
+            max-width: 1200px;
+            margin: -20vh auto 50px;
+            opacity: 0;
+            transform: translateY(100px);
+            transition: all 1.5s cubic-bezier(0.2, 1, 0.3, 1);
+        }
+
+        .image-reveal.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .image-reveal img { width: 100%; filter: drop-shadow(0 30px 60px rgba(0,0,0,0.5)); }
+
+        /* Stats Grid - Black Label Style */
+        .stats-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 30px;
+            max-width: 1200px;
+            margin: 50px auto;
+            padding: 0 20px;
+        }
+
+        .stat-box {
+            background: var(--surface);
+            padding: 40px 20px;
+            text-align: center;
+            border: 1px solid rgba(197, 160, 89, 0.1);
+            position: relative;
+        }
+
+        .stat-box::after {
+            content: '';
+            position: absolute;
+            bottom: 0; left: 50%; width: 0; height: 2px;
+            background: var(--lincoln-gold);
+            transition: all 0.5s ease;
+            transform: translateX(-50%);
+        }
+
+        .stat-box:hover::after { width: 80%; }
+
+        .stat-value { font-size: 2.5rem; color: var(--text-gold); font-weight: 300; display: block; }
+        .stat-label { font-size: 0.7rem; text-transform: uppercase; color: var(--text-dim); letter-spacing: 2px; }
+
+        /* Innovation Section - Mexico Focus */
+        .mexico-innovation {
+            max-width: 1000px;
+            margin: 100px auto;
+            padding: 60px;
+            text-align: center;
+            border: 1px solid var(--lincoln-gold);
+            background: rgba(197, 160, 89, 0.05);
+        }
+
+        .mexico-innovation h2 { color: var(--text-gold); font-weight: 300; margin-bottom: 20px; letter-spacing: 3px; }
+
+        /* Features Columns */
+        .features-grid {
+            max-width: 1200px;
+            margin: 100px auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 60px;
+            padding: 0 40px;
+        }
+
+        .feature-category h3 {
+            color: var(--lincoln-gold);
+            font-weight: 300;
+            font-size: 1.5rem;
+            margin-bottom: 30px;
+            border-bottom: 1px solid rgba(197, 160, 89, 0.3);
+            padding-bottom: 10px;
+        }
+
+        .feature-item {
+            margin-bottom: 20px;
+            display: flex;
+            align-items: baseline;
+            gap: 15px;
+            font-size: 0.95rem;
+            color: #d1d1d1;
+        }
+
+        .feature-item i { color: var(--lincoln-gold); font-size: 0.8rem; }
+
+        /* Price Section */
+        .price-section {
+            padding: 100px 20px;
+            text-align: center;
+            background: #000;
+        }
+
+        .price-section h2 { font-size: 3.5rem; font-weight: 300; color: var(--text-gold); }
+
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+        /* Mobile */
+        @media (max-width: 768px) {
+            .features-grid { grid-template-columns: 1fr; }
+            .hero h1 { font-size: 2.5rem; }
+            .image-reveal { margin-top: -5vh; }
+        }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <!-- Logo Lincoln Star -->
+        <img src="img/logo-ford.png" class="brand-logo" alt="Lincoln Logo" style="filter: brightness(0) invert(1);">
+        <span style="color: var(--lincoln-gold); font-weight: 300; letter-spacing: 3px;">NAVIGATOR BLACK LABEL</span>
+    </nav>
+
+    <section class="hero">
+        <span>El santuario del lujo</span>
+        <h1>NAVIGATOR 2025</h1>
+    </section>
+
+    <div class="image-reveal" id="vehicleImg">
+        <!-- Imagen de Navigator 2025 -->
+        <img src="img/navigator.jpg" alt="Lincoln Navigator 2025" onerror="this.src='https://www.lincoln.com/content/dam/vdm_ford/live/en_us/lincoln/nameplate/navigator/2025/collections/ad-assets/25_LCN_NAV_61234.png'">
+    </div>
+
+    <main class="stats-container">
+        <div class="stat-box">
+            <span class="stat-value" data-target="440">0</span>
+            <span class="stat-label">Caballos de Fuerza (HP)</span>
+        </div>
+        <div class="stat-box">
+            <span class="stat-value" data-target="510">0</span>
+            <span class="stat-label">Torque (lb-pie)</span>
+        </div>
+        <div class="stat-box">
+            <span class="stat-value" data-target="48">0</span>
+            <span class="stat-label">Pantalla Panorámica (")</span>
+        </div>
+        <div class="stat-box">
+            <span class="stat-value" data-target="10">0</span>
+            <span class="stat-label">Velocidades SelectShift®</span>
+        </div>
+    </main>
+
+    <section class="mexico-innovation">
+        <h2>INGENIERÍA MEXICANA</h2>
+        <p style="font-size: 1.1rem; color: #ccc;">
+            Un estándar global de calidad: El diseño de todos los arneses de este vehículo ha sido realizado íntegramente en <strong>México</strong> desde el modelo 25MY.
+        </p>
+    </section>
+
+    <section class="features-grid">
+        <div class="feature-category">
+            <h3>Desempeño y Tecnología</h3>
+            <div class="feature-item"><i class="fas fa-circle"></i><span>Motor 3.5L V6 EcoBoost® Twin-Turbo de Alto Rendimiento.</span></div>
+            <div class="feature-item"><i class="fas fa-circle"></i><span>Diferencial 4x4 con 5 modos de manejo (Emoción, Ascenso Lento, etc).</span></div>
+            <div class="feature-item"><i class="fas fa-circle"></i><span>Pantalla panorámica de 48” personalizable y consola LCD de 11.1”.</span></div>
+            <div class="feature-item"><i class="fas fa-circle"></i><span>Módem LINCOLN 5G LTE y Conexión con Alexa.</span></div>
+            <div class="feature-item"><i class="fas fa-circle"></i><span>Phone As A Key y Lincoln Way® App.</span></div>
+        </div>
+
+        <div class="feature-category">
+            <h3>Lincoln Co-Pilot®360 Drive 2.0</h3>
+            <div class="feature-item"><i class="fas fa-circle"></i><span>Asistencia pre-colisión con detección de peatones y frenado dinámico.</span></div>
+            <div class="feature-item"><i class="fas fa-circle"></i><span>Cámara 360 grados y Control crucero adaptativo con Stop & Go.</span></div>
+            <div class="feature-item"><i class="fas fa-circle"></i><span>Sistema de dirección de volante anti-colisión y centrado de carril.</span></div>
+            <div class="feature-item"><i class="fas fa-circle"></i><span>Información de punto ciego con cobertura de remolque.</span></div>
+            <div class="feature-item"><i class="fas fa-circle"></i><span>Sensores de proximidad delanteros y traseros.</span></div>
+        </div>
+    </section>
+
+    <footer class="price-section">
+        <p style="text-transform: uppercase; letter-spacing: 5px; color: var(--lincoln-gold); margin-bottom: 10px;">Inversión</p>
+        <h2>$2,291 - $2,714 K MXN</h2>
+        <p style="color: var(--text-dim); margin-top: 20px;">Black Label Experience</p>
+    </footer>
+
+    <script>
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                    const counter = entry.target.querySelector('.stat-value');
+                    if (counter) animateValue(counter);
+                }
+            });
+        }, { threshold: 0.1 });
+
+        observer.observe(document.getElementById('vehicleImg'));
+        document.querySelectorAll('.stat-box').forEach(box => observer.observe(box));
+
+        function animateValue(obj) {
+            const target = parseFloat(obj.getAttribute('data-target'));
+            const duration = 2000;
+            const startTime = performance.now();
+
+            function update(currentTime) {
+                const elapsed = currentTime - startTime;
+                const progress = Math.min(elapsed / duration, 1);
+                const ease = 1 - Math.pow(1 - progress, 5); // Quintic ease out
+                
+                let current = target * ease;
+                obj.innerHTML = Math.floor(current);
+
+                if (progress < 1) requestAnimationFrame(update);
+                else obj.innerHTML = target;
+            }
+            requestAnimationFrame(update);
+        }
+    </script>
+</body>
+</html>
