@@ -27,18 +27,26 @@
 
         /* Navigation */
         nav {
-            position: fixed;
-            top: 0; width: 100%;
-            padding: 15px 5%;
-            background: rgba(0, 52, 120, 0.9);
-            backdrop-filter: blur(10px);
-            z-index: 1000;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
+        position: fixed;
+        top: 0; 
+        width: 100%;
+        padding: 10px 5%;
+        /* Cambiado a un fondo oscuro para que el óvalo azul resalte */
+        background: rgba(0, 0, 0, 0.85); 
+        backdrop-filter: blur(15px);
+        z-index: 1000;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 1px solid rgba(255,255,255,0.1);
         }
 
-        .ford-logo { height: 30px; filter: brightness(0) invert(1); }
+       .ford-logo { 
+        height: 45px; /* Un poco más grande para mejor visibilidad */
+        width: auto;
+        /* Eliminamos el filtro que causaba el óvalo blanco */
+        display: block;
+        }
 
         /* Hero Section */
         .hero {
